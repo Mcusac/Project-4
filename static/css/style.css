@@ -1,0 +1,74 @@
+.left-image{
+  width: 750px;
+  float: left;
+  margin-right: 10px;
+}
+
+.right-image{
+  width: 250px;
+  float: left;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.comp-image{
+  width: 550px;
+  border: 1px solid;
+  border-color: black;
+  margin: 0px;
+  vertical-align: middle;
+  margin-bottom: 30px;
+}
+
+.nav-link {
+  background-color: black;
+  width: 300px;
+  height: 50px;
+  font-size: large;
+  color: white;
+  text-align: center;
+  font-weight: 100;
+  font-family: 'Avenir', 'Times New Roman', Times, serif;
+  
+}
+.navbar-brand {
+  background-color: black;
+  font-size: xx-large;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  font-weight: 100;
+  font-family:'Avenir', 'Times New Roman', Times, serif;
+}
+
+.blue-title {
+  color: black;
+  font-weight: 600;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.blue-title-center {
+  color: black;
+  font-weight: 600;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.container{
+  background-color: white;
+  padding: 10px;
+}
+
+.container-fluid{
+  background-color: black;
+  text-align: center;
+  height: 100px;
+
+}
+
+.container-fluid-lower{
+  background-color: darkblue;
+  height: auto;
+
+}
