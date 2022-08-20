@@ -1,0 +1,1920 @@
+,year,make,model,final_price,mileage,engine,zipcode
+0,1993,Land Rover,Land Rover 110 / Defender 110 (Euro Spec),"$59,500",0,2.5-Liter 200Tdi Turbodiesel Inline-Four,20895
+1,1997,Chevrolet,Chevrolet Suburban,"$17,000",67000,5.7L Vortec V8,60069
+2,1990,Porsche,Porsche 964 911,"$225,000",1000,3.8-Liter Flat-Six ,84790
+3,2003,Toyota,Toyota Pickup,"$24,750",116000,3.4-Liter DOHC V6,90027
+4,1971,Triumph,Triumph TR6,"$15,250",0,"32k Miles Shown, TMU",28724
+5,1992,Volkswagen,Volkswagen Golf/Rabbit Cabriolet,"$10,750",100000,1.8-Liter Inline-Four,98208
+6,2008,Toyota,Toyota FJ Cruiser,"$32,500",9000,4.0-Liter V6,57108
+7,1978,Chevrolet,Chevrolet Pickup,"$33,000",95000,350ci V8,60175
+8,2018,Dodge,Dodge Challenger,"$106,000",8000,Supercharged 6.2L Hemi V8,90265
+9,1988,Mercedes-Benz,Mercedes-Benz Gelandewagen,"$35,000",0,2.4-Liter Diesel Inline-Four       ,33312
+10,2001,Mercedes-Benz,Mercedes-Benz R129 SL,"$26,250",28000,5.0-Liter V8,7945
+11,1962,Triumph,Triumph TR4,"$29,000",107000,"2,138cc Inline-Four",95030
+12,2002,Pontiac,Pontiac Firebird,"$31,000",24000,5.7-liter LS1 V8,31315
+13,1972,Ford,70s,"$9,100",9000,122ci Inline-Four ,26034
+14,1970,Ford,Ford Bronco U13/U14/U15 1966-1977,"$85,500",0,302ci V8,48178
+15,2008,Honda,Honda S2000,"$46,000",32000,2.2-Liter Inline-Four,97217
+16,2008,Porsche,Porsche 996 911,"$8,600",0,Fiberglass Construction,1562
+17,1975,Triumph,Triumph Motorcycles,"$9,133",17000,740cc Four-Stroke Triple,48230
+18,1995,Porsche,Porsche 993 911,"$60,000",47000,3.6-Liter Flat-Six,43551
+19,1978,Chevrolet,Chevrolet Corvette C3,"$11,501",83000,Replacement 355ci V8,15642
+20,2001,Porsche,Porsche 986 Boxster,"$28,000",18000,3.2-Liter Flat-Six,7960
+21,1966,Ford,Ford Mustang 1964.5-1966,"$20,500",76000,351ci Windsor V8,6074
+22,1987,Chevrolet,Chevrolet Corvette C4,"$23,500",12000,5.7-Liter L98 V8,19382
+23,2016,Lexus,10s,"$60,075",15000,Naturally-Aspirated 5.0-Liter V8,80007
+24,1969,Mercedes-Benz,Mercedes-Benz W113 SL,"$60,520",34000,2.8-Liter M103 Inline-Six,97330
+25,2001,Porsche,Porsche 996 911,"$25,500",80000,3.4-Liter M96 Flat-Six,89014
+26,2008,BMW,BMW E63/E64 M6,"$27,000",30000,5.0-Liter V10,11963
+27,1972,Buick,70s,"$23,500",56000,Rebuilt 455ci V8,92869
+28,1982,Porsche,Porsche 911SC,"$48,500",92000,3.0-Liter Flat-Six,19382
+29,1932,Chevrolet,30s,"$25,000",0,194ci Stovebolt Inline-Six,54220
+30,2003,Mercedes-Benz,Mercedes-Benz R230 SL,"$16,750",58000,5.0-Liter V8,7074
+31,1966,Mercedes-Benz,60s,"$29,750",33000,2.3-Liter Inline-Six,7753
+32,2005,BMW,BMW E46 M3,"$29,750",32000,3.2-Liter Inline-Six,1757
+33,1959,Chrysler,Chrysler Imperial,"$61,000",51000,413ci V8,1757
+34,1992,Lexus,Lexus SC Coupe,"$11,500",94000,4.0-Liter V8,31523
+35,1989,BMW,BMW Motorcycles,"$12,750",38000,980cc Opposed Twin,29403
+36,2008,BMW,BMW E92/E93 3-Series Coupe & Convertible,"$24,000",15000,3.0L Inline-Six,27606
+37,1966,Volkswagen,Volkswagen Beetle,"$28,500",600000,"Replacement 1,385cc Flat-Four",53405
+38,1991,Porsche,Porsche 964 Turbo,"$132,500",0,86k Kilometers (~54k Miles) Shown,53405
+39,2005,Jaguar,00s,"$15,250",72000,3.0-liter V6 ,7074
+40,1965,Volvo,Volvo P1800/1800,"$47,250",1000,1.8L B18B Inline-Four,4107
+41,2000,Jaguar,Jaguar XK8,"$22,950",0,4.0-Liter V8,98273
+42,1965,Ford,Ford Mustang 1964.5-1966,"$37,400",80000,289ci V8 ,30292
+43,1989,BMW,BMW E30 3-Series,"$13,250",88000,2.5-Liter M20 Inline-Six,61611
+44,2006,BMW,BMW E46 3-Series Convertible,"$16,750",61000,3.0-Liter Inline-Six,12590
+45,2020,Ford,Ford Mustang S550,"$70,000",0,"1,600 Miles",83709
+46,1950,Ford,50s,"$32,000",0,"88k Miles Shown, TMU",43402
+47,1971,Alfa Romeo,Alfa Romeo Montreal,"$68,000",64000,2.6-Liter Quad-Cam V8,75207
+48,1987,Chevrolet,Chevrolet Monte Carlo,"$16,750",20000,Replacement 383ci Stroker V8,13601
+49,2003,Land Rover,Land Rover Discovery,"$31,000",20000,4.6-Liter V8,19464
+50,1999,Chevrolet,Chevrolet Tahoe GMT400,"$78,500",0,Supercharged 6.2-Liter LT4 V8,85298
+51,2015,Audi,10s,"$35,500",41000,Supercharged 3.0-Liter V6,53114
+52,1968,Shelby,ord,"$180,000",88000,Replacement 428ci V8,8037
+53,2005,Mazda,Mazda Miata,"$11,300",79000,Turbocharged 1.8-Liter Inline-Four,39503
+54,1970,Plymouth,Plymouth Barracuda,"$84,129",68000,Replacement 414ci V8,49676
+55,2018,Mercedes-Benz,Mercedes-Benz AMG GT,"$162,000",6000,Twin-Turbocharged 4.0L V8,85260
+56,1991,Toyota,Toyota SW20 MR2,"$20,500",143000,2.2-Liter Turbocharged 3S-GTE Inline-Four,80215
+57,1988,Saab,Saab 900,"$13,500",77000,Turbocharged 2.0-Liter Inline-Four,22205
+58,1969,Chevrolet,Chevrolet Camaro 1st Generation 1967-1969,"$78,000",45000,350ci V8,64014
+59,2000,BMW,BMW E46 3-Series Touring,"$9,254",172000,Replacement 3.0-Liter M54B30 Inline-Six,28210
+60,1986,Porsche,Porsche 944 Turbo,"$25,000",61000,Turbocharged 2.5-Liter Inline-Four,37922
+61,1986,Citroën ,80s,"$7,977",9000,Citroën 602cc Two-Cylinder,26865
+62,1970,Ford,Ford F-Series 1967-1972,"$17,000",500000,Nissan/Chrysler 198ci SD33 Diesel Inline-Six,53713
+63,2005,Mercedes-Benz,Mercedes-Benz E55 & E63 AMG Wagon,"$25,605",116000,Supercharged 5.4L V8,2889
+64,1951,Willys,50s,"$26,750",25000,134ci Inline-Four,93405
+65,1996,Porsche,Porsche 993 911,"$94,000",72000,3.6-Liter M64 Flat-Six,95123
+66,1996,010s,oryCharity Auctions,"$175,000",0,"95k Miles Shown, TMU",43402
+67,2013,Mercedes-Benz,Mercedes-Benz Gelandewagen,"$68,500",51000,5.5-Liter M273 V8,44102
+68,1996,Alfa Romeo,90s,"$8,765",0,2.0L Twin Spark Inline-Four,44102
+69,2006,BMW,BMW E46 330 ZHP,"$15,750",87000,3.0-Liter M54 Inline-Six,91011
+70,1983,Moto Guzzi,80s,"$6,000",11000,844cc V-Twin,6420
+71,1968,Volkswagen,Volkswagen Type 3,"$16,250",33000,1.6-Liter Flat-Four,4543
+72,1998,Toyota,Toyota Supra,"$99,000",78000,Twin-Turbocharged 3.0L Inline-Six,78155
+73,1966,Ford,Ford Bronco U13/U14/U15 1966-1977,"$36,750",14000,170ci Inline-Six,83401
+74,1977,Oldsmobile,Oldsmobile Cutlass,"$13,000",39000,350ci V8,29588
+75,1999,Ferrari,Ferrari 550 Maranello,"$111,000",35000,5.5-Liter DOHC V12,95608
+76,1948,940s,nAmerican,"$59,500",0,Green and White Paint,34233
+77,2012,Mercedes-Benz,Mercedes-Benz AMG,"$34,500",48000,6.3-Liter V8 ,20879
+78,2020,BMW,BMW M2,"$56,000",10000,Twin-Turbocharged 3.0L Inline-Six,97212
+79,1990,Ferrari,Ferrari 348,"$205,000",5000,3.4-Liter V8,90049
+80,1968,Triumph,Triumph GT6,"$19,000",74000,2.0-Liter Inline-Six,95125
+81,2014,Chevrolet,Chevrolet Corvette C7,"$49,000",543000,6.2-Liter LT1 V8,33909
+82,2005,Aston Martin,Aston Martin DB9,"$30,007",54000,6.0-Liter DOHC V12,7069
+83,1953,Chrysler,Chrysler Town & Country,"$25,000",47000,331ci Hemi V8,29403
+84,2003,BMW,BMW E46 M3,"$41,000",74000,Supercharged 3.2-Liter S54 Inline-Six,28677
+85,1973,Volkswagen,Volkswagen Bus,"$25,000",68000,2.0-Liter Flat-four,92691
+86,1991,Bentley,90s,"$125,000",44000,6.75-Liter V8,33444
+87,1986,Toyota,Toyota Pickup,"$20,000",169000,2.4-Liter 22RE Inline-Four,37210
+88,1948,MG,MG TC,"$26,755",9000,"XPAG 1,250cc Inline-Four",43449
+89,1935,Ford,30s,"$33,250",400000,221ci Ford Flathead V8,94526
+90,1999,Mazda,Mazda Miata,"$23,000",825000,1.8-Liter DOHC Inline-Four,94610
+91,1997,Nissan,Nissan 240SX,"$16,500",58000,2.4-Liter DOHC Inline-Four,16851
+92,1978,Kawasaki,70s,"$7,400",16000,"1,015cc DOHC Inline-Four",89512
+93,2018,Aston Martin,10s,"$140,000",0,Twin-Turbocharged 5.2-Liter V12 ,85018
+94,1996,Nissan,Nissan 300ZX,"$55,500",157000,3.0-Liter V6,28117
+95,2012,Porsche,Porsche 987 Cayman,"$65,000",80000,3.4-Liter Flat Six,36203
+96,1969,Chevrolet,Chevrolet Chevelle,"$55,000",0,ZZ430 350ci V8,93940
+97,1958,Mercedes-Benz,Mercedes-Benz 190SL,"$112,100",0,1.9-Liter Inline-Four,93940
+98,1984,Porsche,Porsche 911 Carrera 3.2,"$103,250",134000,3.2-Liter Flat-Six,93940
+99,1995,Ferrari,Ferrari F50,"$3,305,000",0,Mid-Mounted 4.7L Quad-Cam V12,93940
+100,1984,Ferrari,Ferrari Berlinetta Boxer,"$280,000",18000,4.9-Liter Flat-12,93940
+101,1983,Toyota,Toyota Land Cruiser 60-Series,"$33,000",145000,4.2-Liter Inline Six,33179
+102,2016,Porsche,Porsche Cayenne,"$60,000",51000,Twin-Turbocharged 4.8L V8,33314
+103,2015,Chevrolet,Chevrolet Corvette C7,"$65,000",14000,Supercharged 6.2-Liter LT4 V8,92679
+104,1965,Chevrolet,Chevrolet Corvette C2,$600,0,"1""-Wide Whitewalls",92807
+105,1987,Mercedes-Benz,Mercedes-Benz C126,"$5,000",0,5.5-Liter M117 V8,92807
+106,1933,Ford,Ford Hot Rod,"$40,000",0,GM 305ci V8 ,91210
+107,1965,Chevrolet,Chevrolet Corvair,"$10,351",67000,164ci Flat-Six ,58102
+108,2010,Chevrolet,10s,"$18,250",23000,Turbocharged 2.0-Liter Inline-Four,27526
+109,1950,Mercury,50s,"$20,899",62000,255ci Flathead V8,11762
+110,1965,Ford,Ford Thunderbird,"$16,500",9000,390ci V8,48412
+111,1988,Toyota,Toyota 4Runner,"$16,750",120000,3.4-Liter V6,99301
+112,1976,Ford,Ford F-Series 1973-1979,"$17,000",97000,Replacement 427ci V8,28602
+113,2021,Ford,Ford Mustang S550,"$105,000",384000,Supercharged 5.2-Liter V8,48380
+114,1992,BMW,BMW Motorcycles,"$6,800",69000,Liquid-Cooled 987cc Horizontal Inline-Four,54944
+115,1972,Chevrolet,Chevrolet Pickup,"$17,250",93000,Replacement 350ci V8,92704
+116,1981,Mercedes-Benz,Mercedes-Benz R107 SL,"$10,000",39000,3.8-Liter V8,61873
+117,2003,Jaguar,Jaguar XK8,"$13,000",82000,4.2-Liter V8,75061
+118,2013,Porsche,Porsche 981 Boxster,"$54,500",19000,3.4-Liter Flat-Six,11360
+119,1985,Mercedes-Benz,Mercedes-Benz W126 S-Class,"$18,000",7000,3.0-Liter Turbodiesel Inline-Five,94124
+120,2004,BMW,BMW E63/E64 6-Series,"$16,500",70000,4.4-Liter V8,7074
+121,1977,Yamaha,70s,"$3,500",0,392cc Four-Stroke Parallel Twin,97203
+122,1960,Porsche,Porsche 356,"$85,000",82000,1.6-Liter Flat-Four,61114
+123,2008,Mercedes-Benz,Mercedes-Benz CLK63 AMG Black Series,"$107,000",22000,6.2-Liter M156 V8,75062
+124,2005,Lotus,Lotus Elise,"$47,000",16000,1.8-Liter Inline-Four,48442
+125,1993,Porsche,Porsche 928,"$40,000",93000,5.4-Liter DOHC V8,92118
+126,2018,Ford,Ford Mustang S550,"$76,500",746000,5.2-Liter Voodoo V8,17545
+127,2018,Shelby,Shelby Cobra Replica,"$62,500",15000,427ci V8,18055
+128,2006,Mitsubishi,Mitsubishi Lancer Evolution,"$36,500",44000,Turbocharged 2.0L 4G63 Inline-Four,63005
+129,1994,Jaguar,Jaguar XJS,"$16,750",132000,4.0-Liter Inline-Six,19124
+130,1998,Ferrari,Ferrari F355,"$106,000",16000,3.5-Liter V8,31405
+131,2002,Porsche,Porsche 996 911,"$40,000",67000,3.6-Liter Flat-Six,10560
+132,2003,BMW,BMW E39 5-Series,"$10,000",150000,4.4-Liter V8,48093
+133,1976,Kawasaki,70s,"$8,500",10000,498cc Two-Stroke Triple,5641
+134,1983,Toyota,Toyota Land Cruiser FJ40,"$45,000",0,3.4-Liter 3B Diesel Inline-Four,5641
+135,2011,Porsche,Porsche 997 911,"$74,500",9000,3.8-Liter Flat-Six,93001
+136,2006,Land Rover,00s,"$21,500",65000,4.4-Liter V8 ,7074
+137,1973,Triumph,Triumph TR6,"$15,500",80000,2.5-Liter Inline-Six,11937
+138,1990,Chevrolet,Chevrolet Corvette C4,"$33,500",5000,5.7-Liter LT5 V8,34145
+139,2003,Chevrolet,Chevrolet Pickup,"$28,500",0,5.3-Liter Vortec V8,85014
+140,1973,Fiat,Fiat 500,"$47,550",0,Air-Cooled Inline-Twin,22556
+141,2005,Mercedes-Benz,Mercedes-Benz R230 SL,"$17,250",47000,5.0-Liter V8,7074
+142,2005,Shelby,Shelby Cobra Replica,"$34,000",12000,302ci V8,2333
+143,1996,Nissan,Nissan 300ZX,"$38,000",24000,Twin-Turbocharged 3.0-Liter V6,29621
+144,2006,Ducati,00s,"$26,000",0,992cc L-twin,94960
+145,1985,Ferrari,Ferrari 308,"$69,000",55000,2.9-Liter Quad-Cam V8,92037
+146,1963,Chevrolet,Chevrolet Corvette C2,"$95,000",49000,327ci L75 V8,48035
+147,2004,Porsche,Porsche 996 911,"$85,000",44000,3.6-Liter M96 Flat-Six,37916
+148,2004,BMW,BMW E60 5-Series Sedan,"$17,000",49000,3.0-Liter Inline-Six,10560
+149,1988,Toyota,Toyota Land Cruiser 60-Series,"$50,000",192000,5.7-liter Vortec V8,84037
+150,2005,Mercedes-Benz,Mercedes-Benz CLK-Class,"$12,000",41000,3.2-Liter V6,94901
+151,2019,Ford,Ford Mustang S550,"$57,500",5000,5.2-Liter V8,28117
+152,2013,Mercedes-Benz,Mercedes-Benz AMG,"$37,000",35000,6.2-Liter M156 V8,77401
+153,1967,Jaguar,Jaguar XKE Series I,"$130,000",56000,Overbored 4.2L Inline-Six,94608
+154,2005,Porsche,Porsche 987 Boxster,"$29,750",21000,3.2-Liter Flat-Six,7074
+155,1965,Chevrolet,Chevrolet Corvette C2,"$88,500",78000,327ci V8 ,85260
+156,1996,Ford,Ford F-Series 1992-1997,"$16,750",68000,5.8-Liter V8,64016
+157,1973,Land Rover,Land Rover Series 88,"$31,000",0,2.25L Gas Inline-Four,60640
+158,1976,Porsche,Porsche 914,"$41,000",4000,2.0-Liter Inline-Four,93105
+159,1985,Jeep,Jeep Grand Wagoneer,"$18,000",110000,360ci V8,92880
+160,1992,Volvo,Volvo 240,"$29,500",85000,2.3-Liter Inline-Four,10560
+161,2008,Ferrari,Ferrari 612 Scaglietti,"$217,000",20000,5.7-Liter F133H V12 ,90230
+162,1966,Chevrolet,Chevrolet Chevelle,"$24,750",5000,350ci V8,92708
+163,1972,BMW,BMW E9 Coupe,"$148,000",0,"19k Kilometers (~12k Miles) Shown, TMU",92630
+164,1989,Ford,Ford Fox-Body Mustang,"$14,250",19000,302ci V8,98248
+165,1967,Pontiac,Pontiac GTO,"$39,000",85000,400ci V8,33156
+166,2005,Mercedes-Benz,Mercedes-Benz W211 E-Class,"$24,000",45000,3.2-Liter Turbodiesel Inline-Six,12590
+167,1988,980s,nItalian,"$6,800",0,125cc Two-Stroke Single,37421
+168,2018,Porsche,Porsche Panamera,"$64,500",13000,Turbocharged 3.0-Liter V6,10560
+169,1973,Triumph,Triumph Spitfire,"$11,250",69000,1.5-Liter Inline-Four,75022
+170,1969,BMW,BMW Neue Klasse,"$27,750",10000,Turbocharged 2.0-Liter Inline-Four,6880
+171,1986,Ferrari,Ferrari 328,"$93,500",30000,3.2-Liter V8,7417
+172,1982,Mazda,Mazda RX-7 FB,"$13,500",70000,1.1-Liter 12A Rotary,6480
+173,1992,Ford,Ford Fox-Body Mustang,"$84,000",0,"1,700 Miles",28117
+174,1987,Porsche,Porsche 911 Carrera 3.2,"$91,000",0,3.2-Liter Flat-Six,28117
+175,1998,GMC,GMC Pickup,"$18,260",63000,5.0-Liter V8,15301
+176,1988,Volkswagen,Volkswagen Vanagon,"$23,250",153000,2.1-Liter Flat-Four,97303
+177,2000,Ford,Ford F-Series 1997-2004,"$20,250",51000,5.4-Liter Triton V8,63026
+178,1967,Chevrolet,Chevrolet Chevelle,"$24,000",70000,283ci V8,16509
+179,2006,BMW,BMW E46 3-Series Convertible,"$23,500",32000,3.0-Liter Inline-Six,19010
+180,1970,Ford,Ford Torino,"$25,000",52000,M-Code 351ci V8,17543
+181,2019,Ducati,10s,"$33,000",68000,998cc Desmosedici Stradale R L-Twin,20879
+182,1966,Ford,Ford Bronco U13/U14/U15 1966-1977,"$37,250",0,"63k Miles Shown, TMU",35768
+183,1996,Porsche,Porsche 993 911,"$160,000",0,3.6-Liter Flat-Six,97227
+184,2009,Chevrolet,Chevrolet Corvette C6,"$68,000",6000,Supercharged 6.2-Liter LS9 V8,86404
+185,1965,Ford,Ford Mustang 1964.5-1966,"$52,733",16000,302ci V8,34990
+186,2005,Porsche,Porsche 997 911,"$43,250",32000,3.6-Liter Flat-Six,85226
+187,1999,Jeep,Jeep Wrangler,"$27,500",28000,Turbocharged 4.0-Liter Inline-Six,85377
+188,2016,BMW,BMW F10 M5,"$63,700",0,Twin-Turbocharged 4.4-Liter S63 V8,32825
+189,1979,Volkswagen,Volkswagen Bus,"$28,000",50000,2.0-Liter Flat-Four,92109
+190,1971,Datsun,Datsun 510,"$21,510",36000,1.6-Liter Inline-Four,91789
+191,2006,Ducati,00s,"$31,000",41000,998cc Testastretta L-Twin,33966
+192,2022,BMW,BMW F90 M5,"$165,000",106000,Twin-Turbocharged 4.4-Liter S63 V8,92618
+193,2022,Mercedes-Benz,Mercedes-Benz 300SL Gullwing & Roadster,"$3,000",0,Workshop Manual,94501
+194,1974,BMW,BMW 2002tii,"$32,000",38000,Rebuilt 2.0-Liter Inline-Four,3846
+195,1970,Ford,Ford Mustang 1969-1973,"$81,000",7000,Replacement 302ci V8,93940
+196,1970,Datsun,Datsun 240Z,"$43,000",59000,2.4-Liter L24 Inline-Six,93940
+197,1969,Mercedes-Benz,Mercedes-Benz W111 Coupe & Cabriolet,"$198,777",0,89k Miles Shown,93940
+198,2005,Ford,Ford GT 1st Generation,"$456,000",169000,Supercharged 5.4-Liter V8,32819
+199,2003,Aston Martin,Aston Martin DB7,"$265,000",0,"4,400 Miles",93940
+200,2005,BMW,BMW E46 330 ZHP,"$15,450",71000,3.0-Liter Inline-Six,40383
+201,1972,Chevrolet,Chevrolet K5 Blazer 1969-1972,"$115,000",300000,383ci V8,94920
+202,1996,Chevrolet,Chevrolet Impala,"$18,500",51000,5.7-Liter LT1 V8,92663
+203,1996,Porsche,Porsche 550 Spyder Replica,"$67,000",97000,"2,165cc Flat-Four",92270
+204,1997,Toyota,Toyota Pickup,"$16,750",0,2.0-liter 3Y Inline-Four,38501
+205,2017,Mercedes-Benz,Mercedes-Benz Gelandewagen,"$230,000",900000,Twin-Turbocharged 4.0-Liter V8,92627
+206,1999,Mazda,Mazda Miata,"$14,500",24000,1.8-Liter Inline-Four,85281
+207,1963,Chevrolet,Chevrolet Impala,"$51,500",82000,327ci V8,95492
+208,2004,MV Agusta,00s,"$15,100",0,19 Miles,92620
+209,2013,Ford,Ford Mustang S197 2005-2014,"$51,500",0,5.0-Liter Road Runner V8,8902
+210,1991,GMC,GMC Syclone,"$34,500",104000,Turbocharged 4.3-Liter V6,95124
+211,1976,Honda,Honda Motorcycles,"$12,500",8000,999cc SOHC Flat-Four,78727
+212,1966,Honda,Honda Motorcycles,"$2,400",0,49cc Four-Stroke SOHC Single,40291
+213,1978,MG,MG Midget,"$9,466",39000,"1,500cc Inline-Four",44481
+214,1973,Ford,Ford F-Series 1973-1979,"$30,500",74000,360ci V8,92626
+215,2004,Ducati,00s,"$29,998",0,"1,100 Miles Shown",87111
+216,1965,Volkswagen,Volkswagen Bus,"$152,013",47000,21-Window Deluxe Samba,92672
+217,2008,Ford,Ford Mustang S197 2005-2014,"$18,600",20000,4.6-Liter V8,7074
+218,2002,Porsche,Porsche 996 911,"$30,250",60000,3.6-Liter Flat-Six,29588
+219,1977,Mercedes-Benz,Mercedes-Benz R107 SL,"$14,750",39000,4.5-Liter M117 V8,70433
+220,2001,BMW,BMW E39 5-Series,"$13,250",60000,2.5-Liter Inline-Six,19348
+221,2012,Land Rover,Land Rover Range Rover Sport L320,"$26,000",52000,Supercharged 5.0-Liter V8,90265
+222,1950,MG,MG TD,"$18,000",5000,XPAG Inline-Four,52101
+223,1972,Ford,Ford Bronco U13/U14/U15 1966-1977,"$26,000",600000,302ci V8,97756
+224,1998,Jaguar,Jaguar XJ,"$7,500",74000,4.0-Liter V8 ,7074
+225,2001,Mercedes-Benz,Mercedes-Benz CLK-Class,"$19,001",21000,3.2-Liter M112 V6,7753
+226,1995,Nissan,Nissan 300ZX,"$27,000",134000,Twin-Turbocharged 3.0L V6,32966
+227,2001,BMW,BMW E46 M3,"$26,000",30000,3.2-Liter S54 Inline-Six,46802
+228,1978,Ford,Ford Bronco 2nd Generation 1978-1979,"$16,500",44000,427ci Stroker V8,43449
+229,1996,Chevrolet,Chevrolet Corvette C4,"$15,000",63000,5.7-Liter LT1 V8,14526
+230,1995,Jeep,Jeep Grand Cherokee,"$20,250",11000,5.2-Liter V8,83301
+231,1982,Toyota,Toyota Land Cruiser FJ40,"$42,000",0,"144 Miles Shown, TMU",34236
+232,1958,Chevrolet,Chevrolet Corvette C1,"$65,500",21000,Overbored 283ci V8,85022
+233,1997,Land Rover,Land Rover Defender 90 NAS,"$64,001",113000,4.0-Liter V8 ,60914
+234,2010,Mercedes-Benz,Mercedes-Benz W221 S-Class,"$25,750",74000,Twin-Turbocharged 5.5L V12,7074
+235,1994,Mercedes-Benz,Mercedes-Benz R129 SL,"$23,500",32000,6.0-Liter V12,10560
+236,1993,Toyota,Toyota Land Cruiser 80-Series,"$36,000",0,4.2-Liter 1HD-T Turbodiesel Inline-Six,1056
+237,2000,Honda,Honda S2000,"$29,800",36000,2.0-Liter Inline-Four,53114
+238,2008,BMW,BMW E90/E92/E93 M3,"$43,000",34000,4.0-Liter S65 V8,48307
+239,1973,Volkswagen,Volkswagen Thing,"$21,250",0,1.6L Flat-Four,91786
+240,2010,Chevrolet,Chevrolet Corvette C6,"$45,950",19000,6.2-Liter LS3 V8,48381
+241,2004,Porsche,Porsche 996 Turbo,"$96,000",24000,Twin-Turbocharged 3.6L Flat-Six,7052
+242,1973,Triumph,Triumph TR6,"$20,000",64000,2.5-Liter Inline-Six,7945
+243,2009,Mercedes-Benz,Mercedes-Benz R230 SL,"$30,250",79000,6.2-Liter M156 V8,91406
+244,1993,Nissan,Nissan 240SX,"$14,000",36000,2.4-Liter KA24DE Inline-Four ,99037
+245,1965,Chevrolet,Chevrolet Corvette C2,"$56,500",55000,327ci V8,8527
+246,1998,BMW,BMW Z3,"$12,800",75000,1.9-Liter Inline-Four,34771
+247,1978,Porsche,Porsche 911SC,"$203,001",0,Rebuilt & Modified 3.2L Flat-Six,34771
+248,2006,Lotus,Lotus Elise,"$48,500",30000,1.8-Liter Inline-Four,30534
+249,1971,Chevrolet,Chevrolet Chevelle,"$36,750",62000,502ci V8,8527
+250,1980,Jeep,Jeep Grand Wagoneer,"$12,750",70000,360ci V8,34787
+251,1973,Porsche,Porsche 914,"$25,888",0,911 2.2-Liter Flat-Six,60586
+252,2010,Nissan,10s,"$27,000",0,3.7-Liter V6,68118
+253,1999,Chevrolet,Chevrolet Suburban,"$37,000",27000,6.5-Liter Turbodiesel V8,53114
+254,1997,Ford,Ford F-Series 1992-1997,"$18,850",37000,7.5-Liter V8,92127
+255,1964,MG,MG MGB,"$23,500",45000,1.8-Liter Inline-Four,38024
+256,1993,Chevrolet,Chevrolet Pickup,"$19,751",87000,5.7-Liter V8,32401
+257,1993,Shelby,Shelby Cobra Replica,"$46,000",17000,Fuel-Injected 5.0L V8 ,97030
+258,1995,Mitsubishi,Mitsubishi 3000GT,"$35,000",26000,Twin-Turbocharged 3.0-Liter V6,58831
+259,1989,Porsche,Porsche 964 911,"$78,000",137000,3.6-Liter Flat-Six,10560
+260,1988,Ferrari,Ferrari Testarossa,"$120,000",20000,4.9-Liter Flat-12,89117
+261,2004,Volkswagen,00s,"$14,250",75000,4.2-Liter V8,53114
+262,1982,Jeep,Jeep CJ-7,"$23,750",6000,5.3-Liter Vortec V8,29576
+263,1973,Ford,Ford Mustang 1969-1973,"$20,888",7000,351ci Cleveland V8,92705
+264,1969,Shelby,ord,"$138,000",81000,428ci Cobra Jet V8,91356
+265,2016,Chevrolet,Chevrolet Corvette Callaway,"$102,000",8000,Supercharged 6.2-Liter LT4 V8,92626
+266,1981,Kawasaki,80s,"$4,150",20000,"Air-Cooled 1,015cc DOHC Inline-Four",6877
+267,1961,Chevrolet,Chevrolet Corvette C1,"$80,000",36000,6.0-Liter LS2 V8,29902
+268,2004,Volkswagen,Volkswagen R32,"$25,000",141000,3.2-Liter VR6,12771
+269,1960,Austin-Healey,Austin-Healey Bugeye Sprite,"$21,500",94000,3.5-Liter V8,92782
+270,1971,Honda,Honda Motorcycles,"$9,300",0,736cc Inline-Four,27606
+271,1971,,,"$21,500",10000,Yellow & Black Paint,97217
+272,1999,BMW,BMW E36 M3,"$32,500",74000,3.2-Liter S52 Inline-Six,10310
+273,1985,Chevrolet,Chevrolet Camaro 3rd Generation 1982-1992,"$10,305",32000,5.0-Liter TPI V8,32666
+274,1976,Ford,Ford Bronco U13/U14/U15 1966-1977,"$34,500",60000,302ci V8,84010
+275,2000,BMW,BMW E39 M5,"$37,250",43000,4.9-Liter S62 V8,7086
+276,2000,Lexus,Lexus SC Coupe,"$14,300",82000,3.0L 2JZ-GE Inline-Six,94040
+277,2011,Cadillac,Cadillac CTS-V,"$50,777",20000,6.2-Liter Supercharged V8,48331
+278,1989,Porsche,Porsche 911 Carrera 3.2,"$62,900",132000,3.2-Liter Flat-Six,95682
+279,2002,Porsche,Porsche 996 911,"$25,500",108000,3.6-Liter Flat-Six,29708
+280,1986,Porsche,Porsche 911 Carrera 3.2,"$72,411",100000,3.2-Liter Flat-Six,94520
+281,1972,Chevrolet,Chevrolet Pickup,"$34,197",48000,350ci V8,78759
+282,1977,Pontiac,Pontiac Grand Prix,"$15,000",21000,350ci V8,1077
+283,1985,Toyota,Toyota Celica,"$20,250",0,2.4-Liter Inline-Four,63026
+284,1973,GMC,GMC Jimmy,"$49,500",0,454ci V8,92626
+285,2016,Porsche,Porsche 991 Turbo,"$136,000",34000,Twin-Turbocharged 3.8L Flat-Six,33139
+286,2020,McLaren,McLaren Super Series,"$307,000",0,Twin-Turbocharged 4.0-Liter V8 ,97227
+287,1962,Chevrolet,Chevrolet Corvette C1,"$62,500",10000,327ci V8,92618
+288,1960,Ford,Ford Galaxie,"$32,292",7000,Replacement 292ci V8,95988
+289,1958,Jaguar,50s,"$19,750",32000,3.4-Liter Inline-Six,10549
+290,2007,Ducati,00s,"$9,300",0,998cc Desmodromic L-Twin,60124
+291,2000,Acura,Acura Integra,"$15,500",35000,1.8-Liter Inline-Four,33919
+292,1997,Subaru,90s,"$7,200",0,103k Kilometers (~64k Miles) Shown,33919
+293,1974,Pontiac,Pontiac Firebird,"$18,500",97000,455ci V8,97227
+294,1978,Porsche,Porsche 911SC,"$61,500",121000,3.0-Liter Flat-Six,98290
+295,1980,980s,nAmerican,"$3,019",0,Non-Running Project,30458
+296,1991,Porsche,Porsche 964 911,"$100,000",48000,3.6-Liter Flat-Six,93940
+297,1995,Land Rover,Land Rover Range Rover Classic,"$24,000",163000,4.2-Liter Rover V8,97132
+298,2019,Ford,Ford GT 2nd Generation,"$982,000",811000,Twin-Turbocharged 3.5-Liter V6,94506
+299,2010,Porsche,Porsche 997 911,"$84,000",30000,3.8-Liter Flat-Six,93940
+300,1997,Dodge,Dodge Viper,"$65,000",20000,8.0L V10,93940
+301,2001,Ferrari,Ferrari 550 Maranello,"$474,000",9000,5.5-Liter F113C V12 ,90210
+302,2014,Ferrari,Ferrari LaFerrari,"$3,525,000",710000,6.3-Liter V12 w/Electric Assistance,32960
+303,1973,Honda,Honda Motorcycles,"$7,700",35000,736cc Inline-Four,91411
+304,1997,Porsche,Porsche 986 Boxster,"$19,251",23000,2.5-Liter Flat-Six,7935
+305,2015,Porsche,Porsche 911 GT3,"$139,000",10000,3.8-Liter Flat-Six,2030
+306,2001,Aston Martin,Aston Martin DB7,"$25,503",83000,5.9-Liter V12,65803
+307,1968,Porsche,Porsche 912,"$100,412",7000,3.0-Liter Flat-Six,30506
+308,2013,Mercedes-Benz,Mercedes-Benz R231 SL,"$71,000",14000,Twin-Turbocharged 5.5-Liter V8,85260
+309,1980,BMW,BMW E21 3-Series,"$25,500",0,2.3-Liter Inline-Six,64111
+310,2011,Land Rover,Land Rover Range Rover L322,"$29,000",36000,5.0-Liter V8,53114
+311,1963,Jeep,Jeep CJ-5,"$24,500",48000,134ci Inline-Four,27606
+312,1974,Ford,Ford F-Series 1973-1979,"$10,501",600000,390ci V8,59602
+313,1975,Porsche,Porsche 914,"$30,914",107000,HPEVS AC50 Brushless Electric Motor,76501
+314,2016,Toyota,Toyota Land Cruiser 200-Series,"$63,000",75000,5.7-Liter V8,92627
+315,2016,Porsche,Porsche 911SC,"$3,860",0,Anodized Lips,10987
+316,1973,International Harvester,International Harvester Scout,"$65,000",75000,383ci Chevrolet V8,95949
+317,1997,Ford,Ford F-Series 1997-2004,"$19,750",11000,4.2L V6,19380
+318,1992,Mercedes-Benz,Mercedes-Benz 500E & E500,"$29,000",161000,5.0-Liter V8,85260
+319,2022,GMC,GMC Hummer EV,"$187,500",1000,219 Miles,85258
+320,1966,Chevrolet,Chevrolet Chevelle,"$69,555",270000,Stroker 498ci V8,24340
+321,1996,Ford,Ford F-Series 1992-1997,"$35,500",0,5.0-Liter V8,10538
+322,1996,Ferrari,Ferrari 348,"$5,400",0,Two Suitcases,6488
+323,1981,Volkswagen,Volkswagen Vanagon,"$28,000",129000,2.5L Subaru Flat-Four,72758
+324,1971,Volvo,Volvo P1800/1800,"$23,850",132000,Rebuilt 2.0-Liter Inline Four,43611
+325,1972,Mercedes-Benz,Mercedes-Benz W108 & W109,"$23,500",72000,4.5-Liter V8,10560
+326,1994,Mazda,Mazda Miata,"$11,750",59000,1.8-Liter DOHC Inline-Four,19348
+327,2008,Cadillac,Cadillac XLR,"$62,500",28000,Supercharged 4.4-Liter V8,7849
+328,2004,BMW,BMW E46 M3,"$19,000",0,3.2-Liter S54 Inline-Six,7849
+329,1982,Chevrolet,Chevrolet Corvette C3,"$24,250",0,5.7-Liter V8,7728
+330,2021,Jeep,Jeep Pickup,"$70,005",6000,Replacement 392ci Hemi V8,92003
+331,1965,Honda,Honda Motorcycles,"$12,000",11000,305cc Four-Stroke Parallel Twin,65233
+332,2002,GMC,GMC Yukon GMT800,"$31,250",47000,5.3-Liter V8,15747
+333,2016,Alfa Romeo,Alfa Romeo 4C,"$58,000",14000,Turbocharged 1.7-Liter Inline-Four,28036
+334,2000,Porsche,Porsche 996 911,"$38,000",80000,3.4-Liter Flat-Six,37916
+335,1987,Porsche,Porsche 911 Carrera 3.2,"$67,500",108000,3.2-Liter Flat-Six,33919
+336,1988,Mercedes-Benz,Mercedes-Benz R107 SL,"$31,250",86000,5.5-Liter V8,17603
+337,1994,Toyota,Toyota Land Cruiser 80-Series,"$36,250",229000,4.5-Liter Inline-Six,30068
+338,2019,Subaru,Subaru WRX STi,"$86,500",0,Turbocharged 2.5-Liter Flat-Four,37865
+339,2005,Mercedes-Benz,Mercedes-Benz W211 E-Class,"$27,211",62000,Supercharged 5.4L V8,1960
+340,2003,BMW,BMW E46 M3,"$28,260",47000,3.2-Liter Inline-Six,7446
+341,2008,Mercedes-Benz,Mercedes-Benz W221 S-Class,"$24,500",31000,5.5-Liter V8,92627
+342,2008,Ferrari,Ferrari 599 GTB & GTO,"$142,000",15000,6.0-Liter F140C V12,12603
+343,2012,Land Rover,10s,"$31,000",43000,5.0-Liter V8 ,7074
+344,2004,Toyota,Toyota Pickup,"$24,000",46000,4.7-Liter V8,68132
+345,1961,Morris,Morris Minor,"$19,050",40000,948cc Inline-Four,14867
+346,1999,Mercedes-Benz,Mercedes-Benz R129 SL,"$12,250",45000,5.0-Liter V8,45014
+347,2008,Mercedes-Benz,Mercedes-Benz R230 SL,"$26,964",42000,5.5-Liter V8,60062
+348,1991,Alfa Romeo,Alfa Romeo 105/115 Series Spider,"$10,800",0,2.0L Inline-Four,6830
+349,2012,Porsche,Porsche 991 911,"$69,800",18000,3.8-Liter Flat-Six ,46112
+350,2012,Toyota,Toyota FJ Cruiser,"$48,500",23000,4.0-Liter 1GR-FE V6,91367
+351,1960,Mini,Mini Classic,"$46,000",500000,1.8-Liter Honda B18C VTEC Inline-Four,41051
+352,1967,Maserati,Maserati Ghibli,"$300,000",0,Refurbishment 2010-2017,41051
+353,2007,Jaguar,00s,"$16,500",35000,Supercharged 4.2-Liter V8,53114
+354,1984,Toyota,Toyota Land Cruiser FJ40,"$28,050",0,4.2-liter 2F Inline-Six,32244
+355,1979,Lincoln,Lincoln Continental,"$15,000",48000,400ci V8,21550
+356,2001,Mercedes-Benz,Mercedes-Benz R129 SL,"$65,000",20000,6.0-Liter M120 V12,78738
+357,1989,Mercedes-Benz,Mercedes-Benz R107 SL,"$29,000",49000,5.5-Liter M117 V8,21645
+358,3500,Dodge,Dodge Pickup,"$41,000",23000,Bright Silver Metallic Paint,93010
+359,1986,Suzuki,80s,"$8,150",97000,1.3-Liter Inline-Four,84060
+360,1966,Pontiac,Pontiac Tempest / LeMans,"$41,000",25000,488ci V8,23838
+361,2001,Porsche,Porsche 996 Turbo,"$64,546",45000,Twin-Turbocharged 3.6L Flat-Six,75231
+362,1957,Austin-Healey,Austin-Healey 100-6,"$37,250",582000,2.6L Inline-Six,20861
+363,1957,,,"$9,500",0,Four Weber 42 DCNF Carburetors,20169
+364,1990,BMW,BMW E30 3-Series,"$25,250",154000,2.5-Liter M20B25 Inline-Six,94592
+365,1965,Buick,60s,"$37,750",44000,425ci V8,78636
+366,2022,Ford,Ford U725 Bronco,"$64,500",46000,Turbocharged 2.3-Liter Inline-Four,97346
+367,1982,Toyota,Toyota Supra,"$19,750",118000,2.8-Liter Inline-Six,60101
+368,2002,BMW,BMW 2002,"$46,000",0,"52k Miles Shown, TMU",91208
+369,1966,Chevrolet,Chevrolet Corvette C2,"$105,000",0,427ci V8,48079
+370,1972,Tatra,70s,"$22,750",0,Air-Cooled 2.5-Liter V8,61024
+371,2013,Mini,Mini Modern,"$26,750",66000,Turbocharged 1.6-Liter Inline-four,92592
+372,1985,Honda,Honda ATV,"$5,400",192000,Five-Speed Semi-Automatic Transmission,33312
+373,1967,Fiat,Fiat 500,"$15,750",0,499cc Inline-Twin,94301
+374,1977,Jeep,Jeep CJ-7,"$18,000",30000,304ci V8,29707
+375,1979,Porsche,Porsche 928,"$12,750",81000,4.5-Liter V8,83871
+376,2016,BMW,BMW F10 M5,"$80,500",0,20k Miles ,66223
+377,1966,Volkswagen,Volkswagen Beetle,"$31,888",5000,1.6-Liter Flat-Four,33166
+378,1962,Chevrolet,Chevrolet Corvette C1,"$155,000",10000,327ci V8,94566
+379,1970,Datsun,Datsun 240Z,"$23,850",33000,2.8-Liter L28 Inline-Six,14718
+380,1969,Chevrolet,60s,"$18,250",22000,427ci V8,93513
+381,1981,Buick,Buick Riviera,"$10,600",57000,4.1-Liter V6,15301
+382,1997,Mercedes-Benz,Mercedes-Benz R129 SL,"$16,500",80000,5.0-Liter V8,95070
+383,2000,Alfa Romeo,Alfa Romeo 105/115 Series Spider,"$14,000",8000,2.0L Twin-Cam Inline-Four,93103
+384,2001,Jeep,Jeep Wrangler,"$20,000",44000,4.0-Liter Inline-Six,80210
+385,2008,BMW,BMW E90/E92/E93 M3,"$28,000",39000,4.0-Liter S65 V8,96744
+386,1973,Volkswagen,Volkswagen Karmann Ghia,"$17,500",90000,"Replacement 1,915cc Flat-Four",46804
+387,2009,Pontiac,Pontiac Solstice & Saturn Sky,"$27,000",28000,Turbocharged 2.0-Liter Inline-Four,15747
+388,2007,Ford,Ford Shelby Mustang,"$38,500",380000,Supercharged 5.4-Liter V8,43016
+389,1985,Toyota,Toyota Land Cruiser 60-Series,"$32,500",270000,International 2.8L Turbodiesel Inline-Four,97862
+390,1976,Chevrolet,Chevrolet Corvette C3,"$16,500",24000,350ci L48 V8,22901
+391,1965,BMW,BMW Motorcycles,"$25,500",12000,594cc Opposed Twin,10560
+392,2005,Dodge,00s,"$20,750",26000,3.5-Liter V6,63026
+393,2002,Acura,Acura NSX NA1/NA2,"$128,000",37000,3.2-Liter V6,84321
+394,1986,Porsche,Porsche 911 Carrera 3.2,"$52,500",79000,3.2-Liter Flat-Six,98052
+395,2007,Honda,Honda S2000,"$35,250",21000,2.2-Liter Inline-Four,33545
+396,1995,BMW,BMW E34 5-Series,"$18,250",88000,4.0-Liter V8,8817
+397,2017,MV Agusta,10s,"$18,000",0,Four Miles,33966
+398,2004,Porsche,Porsche 986 Boxster,"$24,000",33000,3.2-Liter Flat-Six,37924
+399,1993,Ferrari,Ferrari Testarossa,"$286,000",0,4.9-Liter Flat-12 ,94063
+400,1973,Ducati,70s,"$21,750",555000,Desmodromic L-Twin w/860cc Pistons,76063
+401,2000,Jeep,Jeep Cherokee,"$12,001",100000,4.0-Liter Inline-Six,84045
+402,1978,Porsche,Porsche 911SC,"$44,222",254000,3.0-Liter Flat-Six,93940
+403,1991,Lancia,Lancia Delta,"$78,500",0,Turbocharged 2.0-Liter Inline-Four,95476
+404,2001,BMW,BMW E39 M5,"$38,500",103000,4.9-Liter S62 V8,93940
+405,1997,Toyota,Toyota Land Cruiser 80-Series,"$39,500",173000,4.5-Liter Inline-Six,85021
+406,2020,Chevrolet,Chevrolet Corvette C8,"$79,000",8000,6.2-Liter LT2 V8,95628
+407,1966,960s,nAmerican,"$9,750",0,Powder-Coated Blue Frame ,44233
+408,1966,inItalian,oryParts,"$17,500",0,Individual Throttle Bodies,97217
+409,2017,Porsche,Porsche 991 911,"$107,000",28000,Twin-Turbocharged 3.0L Flat-Six,94610
+410,1995,BMW,BMW 7-Series,"$14,750",50000,4.0-Liter V8,60202
+411,2015,Dodge,Dodge Challenger,"$68,500",0,5.8-Liter Hemi V8,83616
+412,2006,Nissan,Nissan 350Z,"$17,000",32000,3.5-Liter V6,8807
+413,1961,Chevrolet,Chevrolet Corvair,"$12,200",59000,145ci Flat-Six,91320
+414,1999,Nissan,Nissan R34 Skyline,0,0,Twin-Turbo 2.6L RB26DETT Inline-Six,92835
+415,1993,BMW,BMW Motorcycles,"$4,700",23000,980cc Opposed Twin,97123
+416,2005,Mercedes-Benz,Mercedes-Benz W220 S-Class,"$26,000",22000,Twin-Turbocharged 5.5-Liter V12,10577
+417,2022,Ford,Ford U725 Bronco,"$79,000",239000,Twin-Turbocharged 2.7L EcoBoost V6,48768
+418,2008,BMW,BMW E90/E92/E93 M3,"$30,000",53000,4.0-Liter S65 V8,7430
+419,2004,Audi,Audi S4,"$15,000",135000,4.2-Liter DOHC V8,80424
+420,1976,Honda,Honda Motorcycles,"$8,500",10000,736cc SOHC Inline-Four,47374
+421,1959,Chevrolet,50s,"$58,000",3000,5.7-Liter LS1 V8,92647
+422,1964,Chevrolet,Chevrolet Corvette C2,"$58,500",55000,327ci L76 V8,85020
+423,1973,Toyota,Toyota Land Cruiser FJ45,"$103,000",44000,"19k Miles Shown, TMU",37043
+424,1966,Ford,Ford Mustang 1964.5-1966,"$21,000",89000,289ci V8,45840
+425,1973,Honda,Honda Motorcycles,"$8,400",7000,347cc Inline-Four,50036
+426,2003,BMW,BMW E46 M3,"$35,500",34000,3.2-Liter Inline-Six,6804
+427,1988,Nissan,Nissan 300ZX,"$8,000",114000,Turbocharged 3.0L V6,32207
+428,2005,Maserati,Maserati Coupe & Spyder,"$25,550",32000,4.2-Liter V8,45233
+429,1968,Ford,Ford Mustang 1967-1968,"$33,150",99000,302ci V8,83835
+430,1960,Mercedes-Benz,Mercedes-Benz Ponton,"$14,260",0,"19k Miles Shown, TMU",83835
+431,1960,Volkswagen,Volkswagen Beetle,"$25,888",79000,"1,800cc Flat-Four",95628
+432,1987,Buick,Buick Grand National,"$57,000",159000,Turbocharged 3.8-Liter V6,95628
+433,1976,Chevrolet,Chevrolet K5 Blazer 1969-1972,"$26,750",57000,350ci V8,86403
+434,1972,Oldsmobile,Oldsmobile Toronado,"$18,500",34000,455ci Rocket V8,92260
+435,2007,Maserati,Maserati Quattroporte,"$28,200",13000,4.2-Liter V8,6031
+436,2012,BMW,BMW E91 3-Series Touring,"$25,750",44000,3.0-Liter Inline-Six,80027
+437,2007,Pontiac,Pontiac Solstice & Saturn Sky,"$26,000",8000,2.0-Liter Turbocharged Inline-Four,32163
+438,1980,MG,MG MGB,"$11,000",15000,1.8-Liter Inline-Four,92234
+439,2008,Porsche,Porsche Cayenne,"$42,400",144000,Twin-Turbocharged 4.8-Liter V8,92887
+440,1970,Cadillac,Cadillac DeVille,"$19,000",77000,472ci V8,77662
+441,1996,Toyota,Toyota 4Runner,"$12,345",0,Japanese-Market Example,34984
+442,2000,Ducati,00s,"$22,000",948000,996cc Desmoquattro L-Twin,92627
+443,1956,Cadillac,Cadillac Series 75/Fleetwood,"$30,756",56000,365ci V8,60565
+444,1983,Mercedes-Benz,Mercedes-Benz R107 SL,"$14,500",48000,3.8-Liter V8,29492
+445,2004,Lexus,Lexus SC Coupe,"$30,000",9000,4.3-Liter V8,53114
+446,1979,Volkswagen,Volkswagen Beetle,"$20,600",93000,Fuel-Injected 1.6L Flat-Four ,80220
+447,1989,BMW,BMW E30 3-Series,"$16,000",76000,2.5-Liter Inline-Six,12205
+448,2022,Ford,Ford U725 Bronco,0,899000,Twin-Turbocharged 2.7-Liter EcoBoost V6,81502
+449,2022,Porsche,Porsche 996 911,$800,0,Cast Alloy Construction,31302
+450,1957,Ford,Ford Thunderbird,"$32,000",68000,312ci V8,34145
+451,1994,Mercedes-Benz,Mercedes-Benz R129 SL,"$19,500",44000,3.2-Liter M104 Inline-Six,95131
+452,1989,Mercedes-Benz,Mercedes-Benz R107 SL,"$20,000",71000,5.5-Liter M117 V8,28741
+453,2004,Ford,Ford Thunderbird,"$21,050",19000,3.9-Liter V8,80238
+454,1981,Toyota,Toyota Pickup,"$14,250",68000,2.4-Liter 22R Inline-Four,84124
+455,2006,BMW,BMW Z4 M Roadster,"$31,500",25000,3.2-liter S54 Inline-Six,55318
+456,2012,Fisker,10s,"$32,500",26000,#41 of 100 Signature Editions,11733
+457,1970,Ford,Ford Bronco U13/U14/U15 1966-1977,"$70,000",13000,302ci V8,85260
+458,1966,Chevrolet,Chevrolet Pickup,"$40,000",72000,350ci V8,93401
+459,2004,Mercury,00s,"$21,500",50000,4.6-Liter V8,46373
+460,3100,Chevrolet,Chevrolet Pickup,"$30,000",88000,350ci V8,85260
+461,2002,Audi,Audi A8,"$12,000",85000,4.2-Liter V8,85225
+462,1968,Chevrolet,Chevrolet Camaro 1st Generation 1967-1969,"$51,968",72000,502ci V8,21784
+463,1975,Porsche,Porsche 914,"$84,000",0,Modified 2.7-Liter Flat-Six,60089
+464,1978,Dodge,Dodge Power Wagon,"$29,000",68000,360ci V8,22066
+465,2005,Jaguar,Jaguar XJ,"$20,750",44000,Supercharged 4.2-Liter V8,8075
+466,2003,Chevrolet,Chevrolet Corvette C5,"$37,500",7000,5.7-Liter V8,17364
+467,1969,Ford,Ford Mustang 1969-1973,"$124,500",68000,428ci Super Cobra Jet V8,73142
+468,1989,Porsche,Porsche 911 Carrera 3.2,"$75,500",48000,1 of 300 Anniversary Edition Coupes,2889
+469,2009,Mercedes-Benz,Mercedes-Benz R230 SL,"$30,250",44000,5.5-Liter V8,92614
+470,1978,Lincoln,Lincoln Continental,"$21,500",24000,460ci V8,2719
+471,1974,Porsche,Porsche 914,"$40,000",80000,2.0-Liter Fuel-Injected Flat-Four,49401
+472,2000,BMW,BMW E39 M5,"$22,750",21000,98k Miles,85750
+473,2012,Porsche,Porsche Panamera,"$77,000",40000,Twin-Turbocharged 4.8-Liter V8,97209
+474,1976,Porsche,Porsche 911 1974-1977,"$85,000",128000,Engine Overbored & Rebuilt in 2019,77043
+475,2000,Alfa Romeo,Alfa Romeo 105/115 Series Coupe,"$16,000",31000,2.0L Twin-Cam Inline-Four,94070
+476,1967,Pontiac,Pontiac GTO,"$36,750",51000,400ci V8,8527
+477,2005,Cadillac,Cadillac CTS-V,"$22,500",94000,5.7-liter LS6 V8,33617
+478,2007,Jaguar,Jaguar XKR,"$33,500",12000,Supercharged 4.2-Liter V8,73089
+479,1995,Mitsubishi,Mitsubishi Delica,"$14,750",0,Turbodiesel 2.8-Liter Inline-Four,20748
+480,1975,Pontiac,Pontiac Firebird,"$31,500",47000,400ci V8,30060
+481,2009,BMW,BMW E90/E92/E93 M3,"$85,000",0,4.0-liter V8,46165
+482,1971,Ford,Ford Torino,"$17,025",23000,351ci V8,33134
+483,1980,Porsche,Porsche 911SC,"$49,750",85000,3.0-Liter Flat-Six,85258
+484,1980,Shelby,Shelby Cobra Replica,"$74,000",4000,Coyote 5.0-Liter V8,33414
+485,1960,Alfa Romeo,Alfa Romeo 750/101 Series Giulietta & Giulia,"$76,000",32000,2.0L Inline-Four,90025
+486,1988,Pontiac,Pontiac Firebird,"$15,750",59000,5.7-Liter L98 V8,11746
+487,1995,Chevrolet,Chevrolet Blazer 1995-2004,"$14,750",31000,4.3-Liter Vortec V6,32128
+488,1995,Jaguar,Jaguar XKE Series I,"$4,250",0,Tecalemit Grease Gun,29072
+489,1977,Toyota,Toyota Land Cruiser FJ45,"$23,250",0,Imported From Costa Rica ,27893
+490,1974,Alfa Romeo,Alfa Romeo 105 Series Sedan,"$23,250",0,1.3-Liter Inline-Four,22556
+491,1970,Chevrolet,Chevrolet Chevelle,"$75,000",79000,454ci V8,92663
+492,1991,Porsche,Porsche 964 911,"$180,000",54000,Supercharged 3.6L M64 Flat-Six,84065
+493,1981,Volkswagen,Volkswagen Scirocco,"$12,300",139000,Replacement 1.8-Liter Inline-Four,80033
+494,1981,020s,oryCharity Auctions,"$75,000",2000,VIP Parking,93908
+495,1967,Griffith,60s,"$68,500",13000,"Refurbished, 2021-2022",94930
+496,1991,Alfa Romeo,Alfa Romeo SZ/RZ,"$54,000",0,"15k Kilometers (~9,500 miles) Shown ",95032
+497,1974,Land Rover,Land Rover Series 88,"$27,750",84000,2.25-Liter Gasoline Inline-Four,84037
+498,2000,Datsun,Datsun Roadster,"$32,250",99000,2.0-Liter SOHC Inline-Four,27606
+499,2000,Porsche,80s,"$260,000",0,3.2L Horizontal-Fan Flat-Six,97227
+500,1962,Chevrolet,Chevrolet Corvair,"$9,400",88000,2.4-Liter Flat-Six,90405
+501,1995,Ford,Ford F-Series 1992-1997,"$19,999",87000,5.0-Liter V8,60585
+502,2016,Ford,Ford Mustang S550,"$41,950",15000,5.2-Liter Voodoo V8,7801
+503,2003,Porsche,Porsche 996 Turbo,"$52,500",50000,Twin-Turbocharged 3.6L Flat-Six,21208
+504,1989,Mercedes-Benz,Mercedes-Benz R107 SL,"$81,989",15000,5.5-Liter M117 V8,93940
+505,2006,Porsche,Porsche 997 911,"$40,997",64000,3.6-Liter Flat-Six,93940
+506,1959,Austin-Healey,Austin-Healey Bugeye Sprite,"$19,500",0,Replacement 948cc Inline-Four,47201
+507,1951,Chevrolet,50s,"$17,000",11000,Replacement 429ci Cadillac V8,3782
+508,1975,Land Rover,Land Rover Series 88,"$20,300",0,2.25-Liter Gasoline Inline-Four,76092
+509,1982,Porsche,Porsche 911SC,"$52,000",84000,3.0L Flat-Six,76092
+510,2012,Mercedes-Benz,Mercedes-Benz AMG,"$107,500",28000,6.2-Liter V8,93706
+511,1996,Toyota,Toyota Land Cruiser 80-Series,"$15,800",138000,4.5-Liter Inline-Six,18977
+512,1988,Mercedes-Benz,Mercedes-Benz R107 SL,"$38,500",60000,5.5-Liter V8,8817
+513,2021,Ford,Ford U725 Bronco,"$69,021",0,Twin-Turbocharged 2.7L V6,23454
+514,2019,Porsche,Porsche 911 GT3,"$256,000",0,4.0-Liter Flat-Six,33158
+515,1991,Toyota,Toyota Land Cruiser 80-Series,"$39,750",0,Right-Hand Drive,33142
+516,1991,Shelby,Shelby Cobra Replica,"$44,000",7000,357ci V8,60126
+517,1988,Ford,Ford Fox-Body Mustang,"$16,600",32000,302ci V8,21409
+518,2002,Porsche,Porsche 996 Turbo,"$47,777",89000,Twin-Turbocharged 3.6L Flat-Six,45419
+519,1974,Toyota,Toyota Land Cruiser FJ40,"$40,150",19000,3.9-Liter Inline-Six,92626
+520,1992,BMW,BMW E30 3-Series,"$15,000",99000,2.5-Liter Inline-Six,34786
+521,1983,Datsun,Datsun 280ZX,"$15,500",79000,2.8L L28E Inline-Six,15237
+522,2005,Mercedes-Benz,Mercedes-Benz R230 SL,"$21,750",38000,5.0-Liter V8,83686
+523,1996,Porsche,Porsche 993 911,"$64,000",59000,3.6-Liter Flat-Six,13035
+524,1984,BMW,BMW E24 6-Series,"$10,250",124000,3.2-Liter Inline-Six,92264
+525,2001,Chevrolet,Chevrolet Corvette C5,"$25,777",10000,5.7-Liter Ls6 V8,12033
+526,2001,Porsche,Porsche 356 Speedster Replica,"$51,000",4000,2.1-Liter Flat-Four,90049
+527,2001,inItalian,oryParts,"$7,600",0,72 Wire Spokes,32119
+528,2000,Honda,Honda S2000,"$43,000",26000,2.0-Liter F20C InLine-Four,43050
+529,2002,BMW,BMW E39 M5,"$19,250",0,4.9-liter V8,43050
+530,2015,Dodge,Dodge Viper,"$111,000",3000,8.4L V10,33611
+531,2010,Porsche,Porsche 987 Cayman,"$48,500",0,11k Miles,67204
+532,2010,Mercedes-Benz,Mercedes-Benz AMG,"$24,500",67000,6.2-Liter V8,85296
+533,1950,Willys,Willys Jeepster,"$24,000",61000,148ci Lighting Inline-Six,81147
+534,2002,BMW,BMW 2002,"$34,000",0,M10 2.0-Liter Inline-Four,91208
+535,1955,Ford,Ford Fairlane,"$22,000",66000,312ci Y-Block V8,85351
+536,1993,Chevrolet,Chevrolet Camaro 4th Generation 1993-2002,"$21,253",645000,"1,900 Miles",30067
+537,1987,Toyota,Toyota Pickup,"$16,500",125000,Turbocharged 2.4-Liter Inline-Four ,80118
+538,1996,Mazda,Mazda Miata,"$37,000",24000,6.2-Liter LS3 V8,36532
+539,1970,Datsun,Datsun Roadster,"$14,600",6000,1.6-Liter OHV Inline-Four,91604
+540,1992,BMW,BMW E31 8-Series,"$30,000",0,5.0-Liter V12,91604
+541,1997,Land Rover,Land Rover Defender 90 NAS,"$119,999",29000,4.0-Liter V8,18972
+542,1965,Sunbeam,Sunbeam Tiger,"$35,400",77000,260ci Ford V8,43082
+543,1977,Jeep,Jeep CJ-5,"$31,500",26000,304ci V8,98682
+544,1977,Porsche,Porsche 930 Turbo,"$5,222",0,White Paintwork,85716
+545,1977,Porsche,Porsche Carrera GT,"$14,750",0,Three-Piece Construction,67203
+546,2001,Porsche,Porsche 986 Boxster,"$24,500",30000,3.2-Liter Flat-Six,1545
+547,1939,LaSalle,30s,"$6,600",42000,322ci Flathead V8,40356
+548,1956,Austin-Healey,Austin-Healey 100,"$181,000",61000,"2,660cc Inline-Four",91108
+549,2011,BMW,BMW 1M,"$75,000",96000,Twin-Turbocharged 3.0L Inline-Six,91108
+550,1983,Mercedes-Benz,Mercedes-Benz W123,"$8,000",191000,3.0-Liter Turbodiesel Inline-Five,11222
+551,1997,Porsche,Porsche 993 911,"$98,500",69000,3.6-Liter Flat-Six,37043
+552,1970,Chevrolet,Chevrolet Pickup,"$23,000",970000,Replacement 350ci V8,11705
+553,2020,Ford,Ford Mustang S550,"$41,000",16000,5.0-Liter Coyote V8 ,43229
+554,1986,Porsche,Porsche 930 Turbo,"$202,000",75000,Twin-Plug 3.3L Turbocharged Flat-Six,78746
+555,1985,Honda,Honda ATV,"$8,502",0,Air-Cooled 329cc Two-Stroke Single,92705
+556,2009,Porsche,Porsche Cayenne,"$61,000",50000,4.8-Liter V8,28104
+557,1972,Ford,Ford Bronco U13/U14/U15 1966-1977,"$97,000",71000,302ci V8,7640
+558,2017,Jaguar,Jaguar F-Type,"$43,250",12000,Supercharged 3.0-Liter V6,30004
+559,1973,Datsun,Datsun 240Z,"$20,000",64000,Numbers-Matching 2.4-Liter Inline-Six,94597
+560,2022,Ford,Ford F-150 Lightning Electric,"$115,000",58000,Dual Permanent-Magnet Electric Motors,4938
+561,1981,Moto Guzzi,80s,"$7,150",17000,Air-Cooled 949cc V-Twin,4056
+562,1981,Auburn,30s,"$40,750",36000,454ci GM V8,87102
+563,1965,Porsche,Porsche Longhood 911,"$115,000",27000,2.0-Liter Flat-Six,92121
+564,1957,Triumph,Triumph TR3,"$41,000",0,"Replacement 2,138cc Inline-Four",66226
+565,1986,Ford,Ford F-Series 1980-1986,"$19,250",70000,7.5-Liter V8,85013
+566,1976,Honda,Honda Motorcycles,"$5,500",25000,544cc Inline-Four,57701
+567,2011,Land Rover,Land Rover Range Rover L322,"$24,000",66000,Supercharged 5.0-Liter V8,7074
+568,2018,Porsche,Porsche 911 GT3,"$177,000",0,4.0-Liter Flat-Six,95448
+569,2004,Land Rover,Land Rover Discovery,"$41,500",87000,4.6-Liter V8,20852
+570,1965,Lincoln,Lincoln Continental,"$62,000",53000,430ci V8,85027
+571,1999,Porsche,Porsche 996 911,"$28,591",40000,3.4-Liter M96 Flat-Six,63055
+572,2004,Porsche,Porsche 996 911,"$36,500",52000,3.6-Liter Flat-Six,94534
+573,1983,Porsche,Porsche 944,"$11,550",800000,2.5-Liter Inline-Four,23455
+574,2002,Ford,Ford Thunderbird,"$23,750",6000,3.9-Liter V8,85260
+575,2011,Chevrolet,Chevrolet Corvette C6,"$112,900",37000,Supercharged 6.2-liter LS9 V8,77373
+576,2022,Ford,Ford U725 Bronco,"$70,022",835000,Twin-Turbocharged EcoBoost 2.7L V6,19380
+577,2022,Chevrolet,Chevrolet Corvette C8,"$102,000",20000,6.2-Liter LT2 V8,33966
+578,2001,Mercedes-Benz,Mercedes-Benz CLK-Class,"$15,000",78000,4.3-Liter M113 V8,95131
+579,1994,Chevrolet,Chevrolet Blazer GMT415,"$35,250",0,6.5-Liter Turbodiesel V8,1077
+580,1999,Porsche,Porsche 996 911,"$27,500",145000,3.4-Liter M96 Flat-Six,94618
+581,2009,Mazda,Mazda RX-8,"$28,000",0,1.3-Liter Renesis Rotary,89434
+582,2001,Pontiac,Pontiac Firebird,"$32,250",0,5.7-Liter LS1 V8,43412
+583,1967,Ford,Ford Thunderbird,"$14,450",65000,428ci V8,26757
+584,1986,Chevrolet,Chevrolet Corvette C4,"$7,300",66000,5.7-Liter L98 V8,35802
+585,2006,Porsche,Porsche 997 911,"$46,000",25000,3.8-Liter Flat-Six,32789
+586,1968,Triumph,Triumph TR5 & TR250,"$37,500",0,"68k Miles Shown, TMU",28412
+587,1996,Ford,Ford Bronco 4th-5th Generations 1987-1996,"$41,250",159000,5.8-Liter V8,85260
+588,1990,Toyota,Toyota Supra,"$14,050",132000,Turbocharged 3.0-Liter Inline-Six,94518
+589,2017,BMW,BMW F80 M3,"$57,000",28000,Twin-Turbocharged 3.0L S55 Inline-Six,89441
+590,1983,Alfa Romeo,Alfa Romeo 105/115 Series Spider,"$13,500",63000,2.0-Liter DOHC Inline-Four,6037
+591,1990,Porsche,Porsche 964 911,"$85,000",54000,3.6-Liter M64 Flat-Six,84095
+592,1993,Dodge,Dodge Viper,"$40,000",29000,8.0-Liter V10,7645
+593,1978,International Harvester,International Harvester Scout,"$35,500",34000,345ci V8,49512
+594,1950,Studebaker,Studebaker Pickup,"$18,000",38000,170ci Inline-Six,14867
+595,1965,Ford,Ford Mustang 1964.5-1966,"$101,000",155000,331ci Stroker V8,93446
+596,1989,Porsche,Porsche 928,"$26,000",129000,5.0-Liter DOHC V8 ,55441
+597,1967,Land Rover,Land Rover Series 88,"$55,500",83000,Overbored 2.25-Liter Inline-Four,4074
+598,1988,Chrysler,Chrysler Conquest & Mitsubishi Starion,"$18,750",72000,Turbocharged & Intercooled 2.6L Inline-Four ,1543
+599,1992,Chevrolet,Chevrolet Corvette C4,"$24,500",50000,5.7-Liter LT5 V8,6498
+600,1966,Chevrolet,Chevrolet Corvette C2,"$92,500",57000,427ci L72 V8,78070
+601,2003,Ford,Ford Mustang SN95 1994-2004,"$33,500",8000,Supercharged 4.6-Liter V8,48183
+602,2014,Mercedes-Benz,Mercedes-Benz E55 & E63 AMG Wagon,"$42,000",0,Twin-Turbocharged 5.5-Liter V8,48183
+603,2005,Subaru,Subaru WRX STi,"$66,000",35000,Turbocharged 2.5L Flat-Four,60064
+604,1966,Ford,Ford Bronco U13/U14/U15 1966-1977,"$50,000",1000,Replacement 302ci V8,64735
+605,1973,Lotus,Lotus Europa,"$24,000",32000,1.6-Liter Inline-Four,92679
+606,1973,020s,nAmerican,"$21,750",48000,Turbocharged 2.0-Liter Flat-Four,38654
+607,1988,BMW,BMW E28 5-Series,"$21,000",171000,3.4-Liter Inline-Six ,94952
+608,2004,Toyota,00s,"$18,050",123000,4.7-Liter iForce V8,82240
+609,1991,GMC,GMC Pickup,"$9,500",55000,4.3-Liter V6,28144
+610,2021,Porsche,Porsche 992 911,"$141,000",32000,3.0-Liter Flat-Six,28144
+611,2014,Ferrari,Ferrari 458,"$262,000",7000,4.5-Liter F136F V8,30360
+612,1991,BMW,BMW E34 M5,"$63,666",0,11k Kilometers (~7k Miles) Shown,10583
+613,1965,Chevrolet,Chevrolet Corvair,"$9,500",2000,Air-Cooled 164ci Flat-Six,32801
+614,1965,Chevrolet,Chevrolet Corvette C2,"$3,251",0,Chrome Trim,92807
+615,1987,Mercedes-Benz,Mercedes-Benz W126 S-Class,"$15,000",82000,5.5-Liter M117 V8,2865
+616,2002,BMW,BMW E46 M3,"$25,750",56000,3.2-Liter S54 Inline-Six,90027
+617,1994,Porsche,Porsche 964 911,"$175,000",267000,62k Miles Shown,60064
+618,1992,Toyota,Toyota SW20 MR2,"$44,500",0,Turbocharged 2.0-Liter Inline-Four,80214
+619,1968,Pontiac,Pontiac GTO,"$62,000",66000,400ci V8,61354
+620,1992,Acura,Acura NSX NA1/NA2,"$69,500",0,3.0-Liter VTEC V6,98166
+621,1995,Jeep,Jeep Cherokee,"$13,000",115000,4.0-Liter Inline-Six,20111
+622,1936,Cord,30s,"$46,750",862000,"55k Miles Shown, TMU",33919
+623,2007,BMW,BMW E60 M5,"$36,760",93000,5.0-Liter V10,91403
+624,1996,Jaguar,Jaguar XJS,"$16,000",49000,4.0-Liter Inline-Six,78218
+625,2001,BMW,BMW E46 3-Series Coupe,"$14,500",77000,3.0-Liter Inline-Six,94530
+626,2000,Dodge,Dodge Viper,"$77,500",15000,8.0-Liter V10,91604
+627,1970,Ford,Ford Mustang 1969-1973,"$47,300",0,351ci V8,93023
+628,1941,Harley Davidson,40s,"$27,000",0,S&S Cycle 74ci Knucklehead-Style V-Twin,92025
+629,2022,Cadillac,20s,"$136,500",536000,Supercharged 6.2-Liter V8,50320
+630,2008,Porsche,Porsche 997 911,"$62,997",15000,3.6-Liter Flat-Six,93940
+631,1966,McLaren,McLaren Racing,"$173,000",0,Quadruple Weber 48 IDA Carburetors,93940
+632,3000,Austin-Healey,Austin-Healey 3000,"$50,000",19000,2.9L Inline-Six,93940
+633,2018,Porsche,Porsche 911 GT3,"$246,000",2000,4.0-Liter Flat Six ,45243
+634,1996,Porsche,Porsche 993 911,"$57,000",19000,3.6-Liter Flat-Six,77345
+635,1973,Ford,Ford F-Series 1973-1979,"$35,250",6000,5.0-Liter Coyote V8,81506
+636,1990,BMW,BMW E30 3-Series,"$27,500",0,2.5-Liter Inline-Six,98230
+637,1989,Mercedes-Benz,Mercedes-Benz W126 S-Class,"$16,000",43000,4.2-Liter V8,92627
+638,1972,Triumph,Triumph TR6,"$8,000",41000,2.5-Liter Inline-Six,2048
+639,2011,Mercedes-Benz,Mercedes-Benz SLS AMG,"$225,000",21000,6.2-liter DOHC V8,68136
+640,2022,Porsche,Porsche Taycan,"$135,000",0,Dual AC Permanent Synchronous Motors,92887
+641,2007,Porsche,Porsche 997 Turbo,"$81,500",25000,Twin-Turbocharged 3.6L Flat-Six,11762
+642,1961,Jaguar,Jaguar XKE Series I,"$223,000",76000,3.8L Inline-Six,3820
+643,2000,Porsche,Porsche 986 Boxster,"$28,500",8000,3.2-Liter Flat-Six,1746
+644,2003,Lexus,Lexus LX SUV,"$21,250",163000,4.7-Liter V8,92109
+645,1969,Chevrolet,Chevrolet Camaro 1st Generation 1967-1969,"$52,500",18000,Replacement Big-Block V8,11784
+646,1991,Mazda,Mazda Miata,"$10,500",28000,1.6-Liter DOHC Inline-Four,53073
+647,2015,Land Rover,10s,"$42,000",44000,Supercharged 3.0-Liter V6,33409
+648,2006,Porsche,Porsche 997 911,"$47,000",51000,3.6-Liter M96 Flat-Six,32960
+649,2008,Ford,Ford Mustang S197 2005-2014,"$58,000",38000,Supercharged 5.4-Liter V8,51401
+650,1967,MG,MG MGB,"$2,600",0,"15k Miles Shown, TMU",83660
+651,1997,Lexus,Lexus LX SUV,"$100,500",26000,4.5-Liter Inline Six,90025
+652,2002,BMW,BMW E46 M3,"$20,249",60000,3.2-Liter Inline-Six,33064
+653,2023,Chevrolet,Chevrolet Corvette C8,"$93,000",7000,6.2-Liter LT2 V8,82801
+654,2000,Land Rover,Land Rover Range Rover P38A,"$21,000",47000,4.6-Liter V8,98036
+655,1991,Nissan,Nissan Figaro,"$24,750",0,Turbocharged 987cc Inline-Four,85253
+656,1987,Porsche,Porsche 924,"$11,924",80000,2.5-Liter Inline-Four,92570
+657,2012,Ford,Ford Mustang S197 2005-2014,"$29,000",80000,5.0-Liter V8 ,97227
+658,1965,Ford,Ford Mustang 1964.5-1966,"$53,000",52000,289ci V8,27023
+659,1960,Mercedes-Benz,Mercedes-Benz 190SL,"$94,000",61000,1.9L M121 Inline-Four,3871
+660,1970,Datsun,Datsun 240Z,"$47,240",25000,2.4-Liter L24 Inline-Six  ,80301
+661,1993,Land Rover,Land Rover Defender 110 NAS,"$140,000",63000,3.9-Liter V8,85018
+662,2021,Ford,Ford Shelby Mustang,"$99,999",0,Supercharged 5.2-Liter V8,32311
+663,2009,Porsche,Porsche 987 Boxster,"$29,500",32000,3.4-Liter Flat-Six,76502
+664,1978,Ducati,70s,"$12,000",8000,Air-Cooled 864cc L-Twin,80132
+665,2008,BMW,BMW 7-Series,"$13,750",46000,4.8-Liter V8,53114
+666,2008,Audi,Audi RS4,"$53,000",26000,4.2-Liter V8,89135
+667,2013,BMW,BMW E90/E92/E93 M3,"$66,250",0,11k Miles,4103
+668,1991,Porsche,Porsche 964 911,"$60,069",40000,3.6-Liter Flat-Six,91302
+669,1966,Ford,Ford Mustang 1964.5-1966,"$42,000",37000,289ci V8,80033
+670,1966,Shelby,Shelby Cobra Replica,"$47,777",2000,347ci V8,1571
+671,2003,BMW,BMW Z4 Roadster E85,"$17,250",68000,2.5-Liter Inline-Six,10560
+672,1973,Chevrolet,Chevrolet Pickup,"$19,500",0,350ci V8,95746
+673,2014,Ford,Ford Mustang S197 2005-2014,"$63,000",7000,Supercharged 5.8-Liter V8,58301
+674,1990,Chevrolet,Chevrolet Corvette C4,"$17,000",19000,5.7-Liter L98 V8,48381
+675,1991,Acura,Acura NSX NA1/NA2,"$81,000",21000,3.0-Liter V6,91304
+676,1999,Jaguar,Jaguar XK8,"$13,351",30000,4.0-Liter V8,97219
+677,1988,BMW,BMW E30 3-Series,"$13,100",79000,2.5-Liter Inline-Six,30188
+678,1995,Chevrolet,Chevrolet Corvette C4,"$13,500",25000,5.7-Liter LT1 V8,89027
+679,1994,Jaguar,Jaguar XJS,"$13,450",68000,6.0-Liter V12,90272
+680,1978,Porsche,Porsche 930 Turbo,"$76,000",37000,Replacement Turbocharged 3.3L Flat-Six,90272
+681,2003,Porsche,Porsche 996 911,"$36,500",84000,3.6-Liter Flat-Six ,13732
+682,2003,Porsche,Porsche 996 911,"$41,000",63000,3.6-Liter Flat-Six,32773
+683,1998,Lexus,90s,"$11,000",63000,3.0-Liter V6,95131
+684,2018,Lamborghini,Lamborghini Huracán,"$315,000",0,5.2-Liter V10,80528
+685,2003,Land Rover,Land Rover Discovery,"$28,500",50000,4.6-Liter V8,11787
+686,1987,Mercedes-Benz,Mercedes-Benz W124 E-Class,"$10,800",81000,3.0-Liter Turbodiesel Inline-Six,21087
+687,2004,Mercedes-Benz,Mercedes-Benz R230 SL,"$15,750",49000,5.0-Liter V8,2835
+688,1981,Ferrari,Ferrari 308,"$46,000",25000,2.9-Liter DOHC V8,91307
+689,1991,BMW,BMW E31 8-Series,"$21,000",78000,5.0-Liter V12,40356
+690,1991,Mercedes-Benz,Mercedes-Benz R129 SL,"$37,500",13000,5.0-Liter M119 V8,2451
+691,1977,Honda,Honda Motorcycles,"$7,500",16000,408cc Inline-Four,55327
+692,1996,Toyota,90s,"$45,000",64000,"1,812cc 2Y Inline-Four",75252
+693,1991,Porsche,Porsche 964 Turbo,"$184,964",77000,Turbocharged 3.3-Liter Flat-Six,91381
+694,1978,Ford,Ford F-Series 1973-1979,"$24,000",50000,351ci V8,28677
+695,1972,Ford,Ford Bronco U13/U14/U15 1966-1977,"$44,600",2000,351ci V8,1510
+696,2010,BMW,BMW E60 5-Series Sedan,"$19,500",58000,Twin-Turbocharged 3.0L Inline-Six,10560
+697,1965,Volkswagen,Volkswagen Beetle,"$12,250",54000,Replacement 1.2L Flat-Four,94602
+698,1970,Plymouth,Plymouth Barracuda,"$57,500",46000,Replacement 340ci V8 ,86401
+699,2011,Lotus,Lotus Elise,"$44,251",27000,1.8-Liter Inline-Four,33137
+700,1988,Land Rover,Land Rover Range Rover Classic,"$13,000",0,Turbodiesel 2.4-Liter Inline-Four,2050
+701,2019,Porsche,Porsche 911 GT2,"$406,356",0,Twin-Turbocharged 3.8L Flat-Six ,62701
+702,2008,Porsche,Porsche 997 911,"$55,000",46000,3.8-Liter Flat-Six,30060
+703,1985,Chevrolet,Chevrolet Monte Carlo,"$34,400",0,5.0-Liter V8,68731
+704,1954,MG,MG TF,"$25,750",7000,"1,250cc Inline-Four",61011
+705,2021,Lexus,20s,"$140,000",0,#80 of 100 Inspiration Series Examples ,21409
+706,1953,BSA,50s,"$6,313",0,Air-Cooled 499cc OHV Single,3049
+707,1982,Porsche,Porsche 911SC,"$68,411",90000,3.0-Liter Flat-Six ,75207
+708,1970,Mercedes-Benz,Mercedes-Benz W113 SL,"$152,280",33000,Fuel-Injected 2.8L Inline-Six ,90025
+709,1970,Porsche,Porsche 914,"$85,000",15000,2.0-Liter Flat-Six ,97227
+710,1992,Jeep,Jeep Cherokee,"$11,500",121000,4.0-Liter Inline-Six,6355
+711,1995,Honda,90s,"$4,769",0,3.1-Liter Turbodiesel Inline-Four,40324
+712,1988,Porsche,Porsche 911 Carrera 3.2,"$92,500",53000,3.2-Liter Flat-Six,40324
+713,1966,Jaguar,Jaguar XKE Series I,"$170,000",85000,4.2-Liter Inline-Six,53105
+714,1973,BMW,BMW 2002tii,"$56,000",0,Fuel-Injected 2.0L Inline-Four,33315
+715,1966,Ford,Ford Mustang 1964.5-1966,"$16,750",43000,302ci V8,94117
+716,1978,Fiat,Fiat X1/9,"$20,500",149000,1.3-Liter SOHC Inline-Four,94117
+717,1973,Buick,Buick Riviera,"$17,500",24000,455ci V8,55304
+718,2019,Land Rover,Land Rover Range Rover L405,"$82,500",33000,Supercharged 5.0-liter V8,92627
+719,1987,Saab,Saab 900,"$145,000",246000,Turbocharged 2.0L Inline-Four,63146
+720,2013,Chevrolet,Chevrolet Corvette C6,"$51,500",19000,7.0-Liter LS7 V8,33176
+721,2004,Honda,Honda Motorcycles,"$7,000",0,49cc Two-Stroke Single,92805
+722,1986,Nissan,80s,"$6,900",74000,1.6-Liter Inline-Four,98290
+723,1962,Mercedes-Benz,Mercedes-Benz W111 Coupe & Cabriolet,"$20,000",10000,Replacement 2.5-Liter Inline-Six,74436
+724,1962,Porsche,Porsche 356 Speedster,"$4,500",0,Red Vinyl Upholstery Accents,95003
+725,1990,Suzuki,90s,"$7,850",78000,1.3-Liter Inline-Four,79370
+726,1990,Porsche,Porsche 944,"$23,750",129000,3.0-Liter M44/41 Inline-Four,94903
+727,2015,Porsche,Porsche 991 Turbo,"$168,000",11000,Twin-Turbocharged 3.8L Flat-Six,75056
+728,1988,Toyota,Toyota Land Cruiser 60-Series,"$57,500",195000,5.3-Liter Vortec V8,38320
+729,1997,Ferrari,Ferrari 550 Maranello,"$126,000",65000,5.5-Liter V12,91320
+730,1966,Sunbeam,60s,"$52,510",0,2.0-Liter F20C Inline-Four,97124
+731,1988,Porsche,Porsche 930 Turbo,"$200,930",39000,Turbocharged 3.3L Flat-Six,11968
+732,2005,Ford,Ford GT 1st Generation,"$342,000",8000,Supercharged 5.4-Liter V8,32773
+733,1972,Ferrari,Ferrari Dino,"$567,000",0,"44k Miles Shown, TMU",32773
+734,1975,Ford,Ford Bronco U13/U14/U15 1966-1977,"$71,000",130000,Replacement 5.8-Liter V8,97502
+735,1975,Mercedes-Benz,Mercedes-Benz 300SL Gullwing & Roadster,"$16,000",0,Chrome-Finished Faces,93013
+736,1936,Ford,Ford Pickup 1935-1936,"$125,000",3000,6.2L LS3 V8,35079
+737,1936,Ford,Ford Hot Rod,"$76,500",0,Custom Boxed Frame,30041
+738,1992,Land Rover,Land Rover 90 / Defender 90 (Euro Spec),"$17,000",0,2.5-Liter 200Tdi Turbodiesel Inline-Four,30041
+739,1986,Alfa Romeo,Alfa Romeo 105/115 Series Spider,"$14,250",66000,2.0-Liter Inline-Four,94506
+740,2016,Porsche,Porsche Cayman GT4,"$97,000",26000,Replacement 3.8-Liter Flat-Six,95465
+741,1960,BMW,BMW Motorcycles,"$12,250",41000,494cc Opposed Twin,1073
+742,1998,Mercedes-Benz,Mercedes-Benz R129 SL,"$10,000",110000,6.0-Liter V12,6070
+743,1950,Ford,50s,"$25,500",1000,239ci Flathead V8,78642
+744,2011,BMW,BMW 1M,"$65,000",42000,Twin-Turbocharged 3.0-Liter Inline-Six,1588
+745,1994,BMW,BMW E30 3-Series Touring,"$23,500",0,1.8-Liter Inline-Four,46220
+746,1977,Ford,Ford F-Series 1973-1979,"$19,250",15000,400ci V8,4938
+747,1967,Alfa Romeo,Alfa Romeo 105/115 Series Coupe,"$80,105",64000,1.6-Liter Twin-Cam Four ,95035
+748,1986,BMW,BMW E24 6-Series,"$19,500",139000,3.4-Liter M30B34 Inline-Six,30563
+749,1984,Chevrolet,Chevrolet El Camino,"$12,000",87000,305ci V8,45150
+750,1983,Chevrolet,Chevrolet Pickup,"$17,000",37000,Replacement 350ci V8,62711
+751,2005,Dodge,Dodge Pickup,"$17,500",47000,5.7-Liter Hemi V8 ,55330
+752,1981,Toyota,Toyota Land Cruiser 60-Series,"$24,250",216000,4.2-Liter Inline-Six,98375
+753,2008,Porsche,Porsche 997 911,"$39,000",73000,3.6-Liter Flat-Six,53114
+754,1983,Mercedes-Benz,Mercedes-Benz R107 SL,"$15,750",69000,3.8-Liter V8,33480
+755,1936,Chevrolet,Chevrolet Pickup,"$14,777",91000,206.8ci Inline-Six,81435
+756,2014,Lamborghini,Lamborghini Aventador,"$310,000",10000,6.5-Liter V12,34787
+757,1999,Porsche,Porsche 996 911,"$33,000",67000,3.4-Liter Flat-Six,33146
+758,2010,Volvo,10s,"$12,650",80000,Turbocharged 2.5L Inline-Five,40324
+759,2018,McLaren,McLaren Sports Series,"$159,400",6000,Twin-Turbocharged 3.8L V8 ,75205
+760,1968,Porsche,Porsche 912,"$64,000",65000,1.6-Liter Flat-Four w/Big Bore Kit,75088
+761,2018,Dodge,Dodge Challenger,0,30000,Supercharged 6.2-Liter Hemi V8,2451
+762,1997,Land Rover,Land Rover Defender 90 NAS,"$99,000",102000,4.0-Liter V8,3242
+763,1997,Mercedes-Benz,Mercedes-Benz Gelandewagen,"$40,800",0,3.0L OM606 Turbodiesel Inline-Six,22401
+764,2018,Porsche,Porsche 911 GT3,"$180,500",13000,4.0-Liter Flat-Six,90049
+765,2006,Hummer,Hummer H1,"$126,126",29000,6.6-Liter Duramax Turbodiesel V8,90049
+766,2019,Ford,Ford Mustang S550,"$77,500",0,5.2-Liter Voodoo V8,19446
+767,1982,Datsun,Datsun 280ZX,"$8,700",82000,2.8-Liter L28E Inline-Six,19131
+768,1964,Volvo,Volvo PV444 and PV544,"$23,000",88000,1.8-Liter OHV Inline-Four,43081
+769,1985,Ferrari,Ferrari 308,"$57,000",60000,2.9-Liter Quad-Cam V8,80126
+770,2007,Toyota,Toyota Land Cruiser 100-Series,"$32,000",104000,4.7-Liter V8,64112
+771,2006,Lotus,Lotus Elise,"$43,000",22000,1.8-Liter 2ZZ-GE Inline-Four,94503
+772,2006,Shelby,Shelby Cobra Replica,"$67,000",9000,427ci V8,97828
+773,2004,Mercedes-Benz,Mercedes-Benz R230 SL,"$18,500",0,58k Miles,7011
+774,2003,Land Rover,Land Rover Discovery,"$15,000",85000,4.6-Liter V8,8822
+775,2007,Chevrolet,Chevrolet Corvette C6,"$361,000",47000,209 Miles,70433
+776,1974,Triumph,Triumph TR6,"$12,750",90000,2.5L Inline-Six,17545
+777,1966,Ford,Ford Mustang 1964.5-1966,"$29,500",66000,200ci Inline-Six,83709
+778,1970,Dodge,Dodge Challenger,"$36,000",86000,383ci V8,90713
+779,1994,Ford,Ford Bronco 4th-5th Generations 1987-1996,"$28,500",57000,5.8-Liter V8,1773
+780,1987,Porsche,Porsche 944,"$19,000",62000,2.5-Liter Inline-Four,58103
+781,1987,Shelby,Shelby Cobra Replica,"$60,000",40000,Ford Racing 392ci V8,19971
+782,1987,Ford,Ford F-Series 1987-1991,"$10,000",66000,5.8-Liter HO V8,80526
+783,1970,BMW,BMW Motorcycles,"$6,600",9000,745cc Opposed Twin,92649
+784,1996,BMW,BMW E36 3-Series,"$13,000",0,1.7-Liter Turbodiesel Inline-Four,19145
+785,1959,Facel Vega,50s,"$86,000",33000,413ci Chrysler V8,19145
+786,1996,Nissan,Nissan 300ZX,"$60,000",40000,3.0-Liter Twin-Turbo V6,28117
+787,1958,Morgan,Morgan Plus 4,"$17,200",0,"1,991cc Inline-Four",4576
+788,1996,Porsche,Porsche 993 911,"$64,000",46000,3.6-lLiter Flat-Six,19355
+789,2002,BMW,BMW 2002,"$17,500",72000,2.0-Liter M10 Inline-Four,14051
+790,2008,Land Rover,Land Rover Range Rover L322,"$19,000",80000,Supercharged 4.2-Liter V8,53114
+791,1976,Porsche,Porsche 930 Turbo,"$127,935",71000,Turbocharged 3.0L Flat-Six,53114
+792,1979,Chevrolet,Chevrolet Pickup,"$15,000",25000,One-Owner Example ,72703
+793,1980,Toyota,Toyota Land Cruiser FJ40,"$37,500",117000,4.2-Liter Inline-Six,33178
+794,2003,Porsche,Porsche 996 Turbo,"$53,496",115000,Twin-Turbocharged 3.6-Liter Flat-Six,33146
+795,1998,Ferrari,Ferrari F355,"$86,355",19000,Mid-Mounted 3.5-Liter DOHC V8,33904
+796,1965,Jaguar,Jaguar XKE Series I,"$107,500",95000,4.2-Liter XK Inline-Six ,92130
+797,1962,Chevrolet,Chevrolet Impala,"$46,444",73000,409ci V8,95407
+798,2004,Ford,Ford Excursion,"$21,000",133000,6.0-Liter Turbodiesel V8,38305
+799,1974,Jensen,Jensen Interceptor,"$61,000",4000,440ci Chrysler V8,2601
+800,2018,Ford,Ford Mustang S550,"$54,850",11000,5.2-Liter Voodoo V8,21784
+801,2007,Chevrolet,Chevrolet Corvette C6,"$36,000",70000,Modified 7.2-Liter LSX V8,20147
+802,1995,Mitsubishi,Mitsubishi Delica,"$20,316",0,129k Kilometers (~80k Miles) Shown,90025
+803,1998,Audi,Audi A8,"$10,000",43000,4.2-Liter V8,8075
+804,2000,Ducati,00s,"$19,500",0,Desmodromic L-Twin,7003
+805,1999,Dodge,Dodge Viper,"$39,000",15000,8.0-Liter V10,30269
+806,1994,Toyota,Toyota Supra,"$133,000",55000,Twin-Turbocharged 3.0-Liter Inline-Six,75209
+807,1972,Citroen,Citroen DS,"$51,000",95000,"2,175cc Inline-Four",91306
+808,2002,Porsche,Porsche 996 911,"$27,911",108000,6.2L LS3 V8,36330
+809,1960,Volkswagen,Volkswagen Bus,"$19,000",31000,1.5-Liter Flat-Four,17403
+810,2006,Aston Martin,Aston Martin V8 Vantage,"$48,750",10000,4.3-Liter V8,45324
+811,2006,Mini,Mini Modern,"$26,500",51000,Supercharged 1.6-Liter Inline-Four,20854
+812,2010,Porsche,Porsche Panamera,"$36,500",44000,4.8-Liter V8,53114
+813,2011,Porsche,Porsche 911 GT3,"$305,000",0,3.8-Liter Flat-Six,33966
+814,1969,Ford,Ford F-Series 1967-1972,"$26,000",79000,302ci V8,11577
+815,1965,Honda,Honda Motorcycles,"$8,500",329000,305cc Four-Stroke SOHC Parallel Twin,98146
+816,2006,Ducati,00s,"$6,889",13000,998cc Testastretta L-Twin,37122
+817,2005,BMW,BMW E46 M3,"$24,000",121000,3.2-Liter S54 Inline-Six ,94538
+818,2012,Mercedes-Benz,Mercedes-Benz AMG,"$34,250",25000,6.2-Liter AMG V8,7628
+819,1986,Jeep,Jeep Grand Wagoneer,"$115,000",500000,5.7-Liter Hemi V8,7628
+820,1979,Land Rover,Land Rover Series 88,"$27,000",0,2.25-Liter Diesel Inline-Four,61615
+821,2006,Porsche,Porsche Cayenne,"$13,800",0,Twin-Turbocharged 4.5-Liter V8,61615
+822,1972,Porsche,Porsche 914,"$13,500",58000,1.7-Liter Flat-Four,92069
+823,1996,Lexus,Lexus LX SUV,"$7,000",150000,4.5-Liter Inline-Six,20850
+824,1971,Fiat,Fiat 500,"$50,000",21000,499cc Inline-Twin,20850
+825,1969,Alfa Romeo,Alfa Romeo 105/115 Series Coupe,"$38,000",0,"1,779cc Twin-Cam Inline-Four",20850
+826,1968,Chevrolet,Chevrolet Corvette C3,"$15,000",85000,327ci V8,60618
+827,1993,Volvo,Volvo 240,"$20,500",134000,2.3-Liter Inline-Four,83616
+828,1994,Honda,Honda Motorcycles,"$4,400",15000,Liquid-Cooled 998cc Inline-Four,66209
+829,2007,Porsche,Porsche 987 Boxster,"$35,000",10000,3.4-Liter Flat-Six,94010
+830,1993,Chevrolet,Chevrolet Blazer GMT415,"$13,250",212000,5.7-Liter V8,60013
+831,1968,Chevrolet,Chevrolet Chevelle,"$14,500",95000,307ci V8,28115
+832,2014,Porsche,Porsche 991 911,"$215,000",0,4.0-Liter Flat-Six,45103
+833,2007,Ducati,00s,"$20,500",0,992cc Desmodromic L-Twin,4843
+834,1996,Porsche,Porsche 993 911,"$47,000",135000,3.6L M64 Flat-Six,95603
+835,1996,Ford,Ford GT40 Replica,"$80,500",2000,427ci Windsor V8,36330
+836,1993,Dodge,Dodge Pickup,"$31,000",430000,5.9-Liter Magnum V8,99202
+837,1933,Morgan,Morgan 3-Wheeler,"$25,000",2000,990cc Matchless V-Twin,43064
+838,1969,Ford,Ford Mustang 1969-1973,"$275,888",12000,Replacement 429ci V8 ,46142
+839,1931,Marmon,30s,"$650,000",77000,491ci OHV V16,63146
+840,2009,BMW,BMW E90/E92/E93 M3,"$30,000",86000,4.0-liter S65 V8,33908
+841,1981,Chevrolet,Chevrolet Camaro 2nd Generation 1970-1981,"$21,250",52000,Replacement 350ci Crate V8 ,97133
+842,2006,Mitsubishi,Mitsubishi Lancer Evolution,"$38,750",44000,Turbocharged 2.0-Liter Inline-Four,33414
+843,2000,Honda,Honda S2000,"$35,500",43000,2.0-Liter F20C Inline-Four,11790
+844,1989,Land Rover,Land Rover 90 / Defender 90 (Euro Spec),"$27,000",145000,2.5-liter Turbodiesel Inline-Four,78218
+845,1966,Triumph,Triumph TR4,"$40,000",65000,2.1-Liter Inline-Four,1702
+846,2000,Saab,Saab 9-3 Viggen,"$9,600",122000,Turbocharged 2.3-Liter Inline-Four,97214
+847,2005,Honda,Honda Civic,"$11,350",54000,2.0-Liter Inline-Four,52403
+848,1987,Buick,Buick GNX,"$107,500",5000,3.8-Liter V6,33312
+849,1982,Toyota,Toyota Land Cruiser FJ40,"$20,500",42000,Nissan 2.7L Turbodiesel Inline-Four ,33312
+850,1980,Honda,Honda Motorcycles,"$4,800",12000,902cc DOHC Inline-Four,55327
+851,1995,Land Rover,Land Rover Defender 90 NAS,"$73,000",49000,3.9-Liter V8,92027
+852,2000,Ford,Ford Saleen,"$32,950",30000,Supercharged 4.6-Liter V8,44107
+853,2006,BMW,BMW E46 M3,"$39,000",24000,3.2-Liter Inline-Six,92270
+854,1933,Ford,30s,"$66,000",7000,502ci V8 Crate Engine,63026
+855,2001,BMW,BMW E46 3-Series Convertible,"$11,000",71000,3.0-Liter M54 Inline-Six,80210
+856,1977,Honda,Honda Accord,"$12,250",62000,1.6-Liter Inline-Four,76550
+857,1988,Toyota,Toyota Pickup,"$18,350",86000,3.0-Liter V6,99026
+858,1990,Ford,Ford Fox-Body Mustang,"$45,000",21000,Supercharged 5.0L High-Output V8,46410
+859,1976,Mini,Mini Classic,"$19,000",914000,998cc Inline-Four,81201
+860,1969,Chevrolet,Chevrolet Camaro 1st Generation 1967-1969,"$44,750",62000,555ci V8,98110
+861,1969,980s,nAmerican,"$21,750",164000,Four-Speed Staffs Transaxle,60098
+862,1969,inItalian,oryParts,"$11,500",0,Small Suitcase,60098
+863,1998,Jaguar,Jaguar XJ,"$10,250",84000,Supercharged 4.0-Liter V8,15234
+864,1969,Ford,Ford Bronco U13/U14/U15 1966-1977,"$73,000",90000,302ci V8,84790
+865,2003,Mercedes-Benz,Mercedes-Benz R230 SL,"$22,750",0,48k Miles,91302
+866,1994,Porsche,Porsche 993 911,"$85,000",0,Turbocharged 3.6-Liter Flat-Six,48050
+867,1965,Volkswagen,Volkswagen Karmann Ghia,"$14,500",54000,1300cc Air-Cooled Flat-Four,33469
+868,1965,BMW,BMW Z8,"$1,800",0,Five Split-Spoke Design,2771
+869,1995,Nissan,Nissan 300ZX,"$18,250",0,Replacement 3.0-Liter V6,13502
+870,1973,Volkswagen,Volkswagen Thing,"$24,000",48000,1.6-Liter Flat-Four,90802
+871,1965,Chevrolet,Chevrolet Corvette C2,"$42,000",88000,327ci V8,81505
+872,2003,Porsche,Porsche 996 Turbo,"$81,000",26000,Twin-Turbocharged 3.6-Liter Flat-Six,77008
+873,1940,Ford,Ford Hot Rod,"$40,000",42000,221ci 59AB Flathead V8,16509
+874,2001,BMW,BMW Z3 M Roadster,"$26,250",78000,3.2-Liter S54 Inline-Six,67219
+875,1992,Toyota,Toyota Land Cruiser 80-Series,"$23,250",0,Right-Hand Drive,95070
+876,1976,BMW,BMW Motorcycles,"$5,200",7000,898cc OHV Opposed Twin,14111
+877,1988,Saab,Saab 900,"$14,600",223000,Turbocharged 2.0-Liter Inline-Four,21037
+878,1992,Porsche,Porsche 964 911,"$126,000",59000,One of 250 Produced,65052
+879,1978,Chevrolet,Chevrolet K5 Blazer 1973-1991,"$25,250",300000,Replacement 5.3-Liter V8 ,85355
+880,2003,Lexus,Lexus LS Sedan,"$20,250",44000,4.3-Liter V8,95131
+881,2004,BMW,BMW E46 330 ZHP,"$21,295",87000,3.0-Liter Inline-Six,18704
+882,1973,Volkswagen,Volkswagen Beetle,"$14,300",75000,1.6-Liter Flat-Four,22314
+883,1968,Triumph,Triumph Motorcycles,"$10,250",395000,649cc OHV Parallel Twin,32720
+884,1998,BMW,BMW Z3,"$15,000",45000,1.9-Liter Inline-Four,7074
+885,1988,Porsche,Porsche 911 Carrera 3.2,"$45,750",80000,3.2-Liter Flat-Six,85020
+886,2000,Mercedes-Benz,Mercedes-Benz R129 SL,"$18,500",39000,5.0-Liter V8,6604
+887,2000,Ford,Ford Mustang 1964.5-1966,"$46,000",41000,260ci V8,46140
+888,2006,Porsche,Porsche 997 911,"$42,000",36000,3.8-Liter Flat-Six,33330
+889,1974,Lamborghini,Lamborghini Espada,"$115,500",99000,Rebuilt 3.9-Liter Quad-Cam V12,19124
+890,2002,Chevrolet,Chevrolet Corvette C5,"$23,000",15000,5.7-liter LS1 V8,11763
+891,1977,Jeep,Jeep CJ-5,"$21,000",1000,Replacement Chevy 383ci V8,38672
+892,2002,Ford,Ford Mustang SN95 1994-2004,"$14,500",15000,4.6-Liter V8,73170
+893,1969,Honda,Honda Motorcycles,"$3,600",0,49cc Four-Stroke Single,11772
+894,2005,Lotus,Lotus Elise,"$35,500",0,59k Miles,6070
+895,1971,Triumph,Triumph TR6,"$16,250",94000,2.5-Liter Inline-Six,23228
+896,1967,Nissan,Nissan Skyline (S50-Series),"$57,500",0,"6k Kilometers (~4k Miles) Shown, TMU",32757
+897,2016,Porsche,Porsche 911 GT3,"$130,000",14000,4.0-Liter Flat-Six,91403
+898,1995,BMW,BMW E36 M3,"$16,500",39000,3.0-Liter Inline-Six,98023
+899,1980,Mercedes-Benz,Mercedes-Benz W123,"$12,000",195000,2.4-Liter OM616 Diesel Inline-Four,33903
+900,1980,Ford,Ford Model T,"$11,500",0,Total Performance King T Tubular Chassis,48370
+901,1988,Alfa Romeo,Alfa Romeo 105/115 Series Spider,"$25,001",2000,2.0L Twin-Cam Inline-Four,11968
+902,1991,Jeep,Jeep Grand Wagoneer,"$31,991",99000,5.9-Liter V8,92061
+903,1970,Jaguar,Jaguar XKE Series II,"$38,000",70000,4.2-Liter Inline-Six,92061
+904,1953,Chevrolet,50s,"$24,250",20000,"235ci ""Blue Flame"" Inline-Six",8527
+905,1994,Toyota,Toyota Supra,"$85,500",97000,Replacement 2JZ-GTE Inline-Six,7060
+906,1998,Porsche,Porsche 993 911,"$95,993",101000,3.6-Liter Flat-Six,98121
+907,1958,Chevrolet,Chevrolet Impala,"$163,000",33000,348ci Turbo Thrust V8,75057
+908,2011,Porsche,Porsche 997 Turbo,"$126,000",21000,Twin-Turbocharged 3.8L Flat-Six,89103
+909,1990,Rolls-Royce,Rolls-Royce SZ Silver Spirit & Silver Spur,"$48,500",0,6.75-Liter V8,89103
+910,2003,Mini,Mini Modern,"$8,100",69000,Supercharged 1.6-Liter Inline-Four,6830
+911,2017,Porsche,Porsche 991 911,"$93,000",29000,Twin-Turbocharged 3.0L Flat-Six,60013
+912,1974,Renault,70s,"$11,000",64000,Turbocharged 1.6L Inline-Four,91352
+913,3100,Chevrolet,Chevrolet Pickup,"$30,000",4000,235ci Inline-Six,5774
+914,1977,Mercedes-Benz,Mercedes-Benz Unimog,"$27,777",0,5.7-Liter Diesel Inline-Six,6377
+915,2006,BMW,BMW E46 M3,"$65,546",26000,3.2-Liter S54 Inline-Six,80031
+916,2004,Mercedes-Benz,Mercedes-Benz Gelandewagen,"$29,000",154000,5.0-Liter M113 V8,60013
+917,1969,MG,MG MGC,"$24,250",54000,2.9-Liter Inline-Six,98296
+918,2009,Mercedes-Benz,Mercedes-Benz AMG,"$33,000",14000,6.2-Liter V8,85755
+919,1972,Honda,Honda N360 & N600,"$8,500",52000,598cc Four-Stroke Twin,85755
+920,1972,Lotus,Lotus Seven & Caterham Seven,"$12,000",0,2.6-Liter Ford V6,85755
+921,1992,Chevrolet,Chevrolet Pickup,"$13,400",76000,5.0-Liter V8,1890
+922,1974,Porsche,Porsche 914,"$13,000",86000,1.8-liter Flat-Four,22314
+923,2023,Land Rover,Land Rover Defender L663,"$86,000",0,47 Miles,7740
+924,1973,Bultaco,70s,"$4,900",23000,348cc Two-Stroke Single,37659
+925,1988,Ferrari,Ferrari Testarossa,"$175,000",0,4.9-Liter Flat-12 ,33313
+926,1987,Buick,Buick Regal,"$20,500",27000,4.1-Liter V6,33312
+927,1989,Toyota,Toyota Land Cruiser 60-Series,"$30,250",220000,4.0L 3F-E Inline-Six,84036
+928,1967,Chevrolet,Chevrolet Corvette C2,"$137,500",4000,7.0L LS7 V8,84036
+929,2016,Mercedes-Benz,Mercedes-Benz AMG GT,"$82,000",23000,Twin-Turbocharged 4.0-Liter V8,33065
+930,1978,Yamaha,70s,"$7,150",0,246cc Two-Stroke Single,92627
+931,1983,Land Rover,Land Rover Range Rover Classic,"$38,750",0,3.5L V8,92627
+932,1983,Shelby,Shelby Cobra Replica,"$41,500",43000,302ci V8,29715
+933,1991,BMW,BMW E31 8-Series,"$22,000",106000,5.0-Liter M70 V12,19352
+934,1988,Chevrolet,Chevrolet Corvette C4,"$16,250",35000,17k Miles Shown,7430
+935,2018,Bentley,Bentley Continental GT,"$191,000",20000,Twin-Turbocharged 6.0-Liter W12,7446
+936,2006,Ducati,00s,"$10,750",18000,Air-Cooled 992cc Dual Spark L-Twin,20817
+937,2006,Ford,Ford GT 1st Generation,"$382,500",10000,Supercharged 5.4-Liter V8,1801
+938,1976,Porsche,Porsche 911 1974-1977,"$78,500",51000,2.7-Liter Flat-Six,77008
+939,1959,Lotus,Lotus Elite,"$62,500",0,"1,480cc Coventry Climax FWB Inline-Four",77008
+940,2009,Mercedes-Benz,Mercedes-Benz SLR McLaren,"$537,000",946000,Supercharged 5.4-Liter AMG V8,10560
+941,2001,Porsche,Porsche 996 911,0,86000,3.4-Liter Flat-Six,7074
+942,1993,Mercedes-Benz,Mercedes-Benz W124 E-Class,"$21,000",60000,3.2-Liter Inline-Six,75230
+943,2009,Porsche,Porsche Cayenne,"$32,775",92000,4.8-Liter V8,33137
+944,1968,Chevrolet,Chevrolet Camaro 1st Generation 1967-1969,"$70,000",55000,396ci V8,8804
+945,1972,Kawasaki,70s,"$20,000",25000,748cc Two-Stroke Triple,95632
+946,1980,Pontiac,Pontiac Firebird,"$23,000",9000,Turbocharged 4.9-Liter V8 ,33062
+947,1950,Ford,50s,"$15,250",37000,239ci Flathead V8,28016
+948,2013,Ford,Ford Mustang S197 2005-2014,"$47,000",8000,5.0-Liter V8,20171
+949,2004,BMW,BMW E46 M3,"$31,000",77000,3.2-Liter S54 Inline-Six,44142
+950,2001,Porsche,Porsche 996 911,"$28,996",90000,3.4-Liter Flat-Six,18940
+951,2003,Toyota,Toyota Pickup,"$26,250",11000,4.7-Liter V8,53114
+952,1986,Ford,Ford Fox-Body Mustang,"$15,023",38000,Turbocharged 2.3-Liter Inline-Four,77586
+953,1999,Bentley,Bentley Azure,"$72,000",24000,Turbocharged 6.75-Liter V8,92627
+954,1961,Mercedes-Benz,Mercedes-Benz 190SL,"$165,000",10000,1.9-Liter M121 Inline-Four,11968
+955,1961,Ferrari,nItalian,"$20,500",0,"Used in Turin, Italy",94402
+956,1995,Mercedes-Benz,Mercedes-Benz W124 E-Class,"$7,100",137000,3.2-Liter Inline-Six,95131
+957,1967,Chevrolet,Chevrolet Corvette C2,"$78,000",81000,327ci V8,7452
+958,1954,Buick,Buick Roadmaster,"$17,501",86000,322ci Nailhead V8,7452
+959,1959,Mercedes-Benz,Mercedes-Benz Ponton,"$20,000",91000,2.2-Liter M180 Inline-Six,77546
+960,1978,Chevrolet,Chevrolet Corvette C3,"$18,000",21000,350ci L82 V8,49276
+961,1987,Porsche,Porsche 911 Carrera 3.2,"$75,500",118000,3.2-Liter Flat-Six,34229
+962,2008,Porsche,Porsche 997 Turbo,"$91,500",26000,Twin-Turbocharged 3.6L Flat-Six,2493
+963,1991,BMW,BMW E34 M5,"$22,900",157000,3.5-Liter S38 Inline-Six,91030
+964,1980,Triumph,Triumph Wedge,"$12,150",83000,3.5-Liter V8,4096
+965,1978,International Harvester,International Harvester Scout,"$27,000",37000,345ci V8,28277
+966,2013,Mercedes-Benz,Mercedes-Benz R231 SL,"$82,000",0,Twin-Turbocharged 5.5-Liter M157 V8 ,92627
+967,2021,Jeep,Jeep Wrangler,"$79,500",20000,6.4-Liter Hemi V8,44230
+968,1996,Toyota,Toyota Land Cruiser 80-Series,"$16,000",190000,4.5-Liter Inline-Six,11209
+969,2018,Mercedes-Benz,Mercedes-Benz Gelandewagen,"$302,355",65000,"2,800 Miles",60563
+970,2020,Ford,Ford Shelby Mustang,"$83,000",0,Supercharged 5.2-Liter V8,48150
+971,2009,Ferrari,Ferrari 599 GTB & GTO,"$148,333",20000,6.0-Liter F140C V12,20854
+972,2014,Jaguar,Jaguar XK,"$29,000",33000,5.0-Liter V8,71913
+973,2005,Mercedes-Benz,Mercedes-Benz AMG,"$40,250",74000,Twin-Turbocharged 6.0-Liter V12,53913
+974,2012,Mercedes-Benz,Mercedes-Benz W221 S-Class,"$50,500",51000,Twin-Turbocharged 6.0-Liter V12,92101
+975,2001,BMW,BMW Z3,"$19,500",34000,3.0-Liter Inline-Six,19454
+976,1988,Mercedes-Benz,Mercedes-Benz R107 SL,"$27,500",98000,5.5-Liter V8,34480
+977,1988,Porsche,Porsche 944,"$17,750",53000,2.5-Liter Inline-Four,29601
+978,1998,Porsche,Porsche 986 Boxster,"$15,750",0,2.5-Liter Flat-Six,19010
+979,1967,Toyota,Toyota Land Cruiser FJ40,"$25,000",0,3.9-liter F Inline-Six ,33331
+980,3500,Maserati,Maserati 3500 GT,"$115,000",0,Custom Alloy Body by ATL,33331
+981,1977,Mercedes-Benz,Mercedes-Benz W123,"$35,250",84000,2.8-Liter Inline-Six,95062
+982,2003,BMW,BMW E39 5-Series,"$36,000",16000,4.4L M62 V8,32757
+983,2003,000s,nAmerican,"$5,500",0,Chrome Grille w/Headlight Blanks ,95476
+984,2016,BMW,BMW Alpina,"$47,000",45000,Twin-Turbocharged 4.4-Liter V8,2169
+985,1969,Mercedes-Benz,Mercedes-Benz W111 Coupe & Cabriolet,"$136,000",95000,2.8L Inline-Six,2906
+986,1959,Chrysler,Chrysler 300 Letter Series,"$68,000",0,413ci Golden Lion V8,31794
+987,1941,Dodge,Dodge Military Vehicles,"$20,500",700000,230ci Inline-Six,59917
+988,1989,Porsche,Porsche 928,"$25,751",129000,5.0-Liter DOHC V8,92806
+989,2003,Chevrolet,Chevrolet Corvette C5,"$30,000",7000,5.7-Liter LS1 V8,68028
+990,1985,Mazda,Mazda RX-7 FB,"$17,750",38000,1.1-Liter 12A Rotary,47304
+991,1996,Porsche,Porsche 993 911,"$70,500",72000,3.6-Liter Flat-Six,3909
+992,3000,Austin-Healey,Austin-Healey 3000,"$50,000",70000,2.9-Liter Inline-Six,11766
+993,2012,Porsche,Porsche 991 911,"$69,000",24000,3.4-Liter Flat-Six,60126
+994,1987,BMW,BMW E24 M6,"$72,500",32000,3.5-liter S38B35 Inline-Six,92627
+995,1974,Honda,Honda Motorcycles,"$5,400",17000,356cc SOHC Parallel Twin,54944
+996,2019,Porsche,Porsche 911 GT3,"$237,000",0,4.0-Liter Flat-Six,97227
+997,2000,Mercedes-Benz,Mercedes-Benz R129 SL,"$27,250",43000,6.0-Liter M120 V12,6078
+998,1976,Mini,Mini Classic,"$27,500",0,1.5L VTEC Inline-Four,48103
+999,2002,Porsche,Porsche 996 Turbo,"$71,500",15000,Twin-Turbocharged 3.6L Flat-Six,98105
+1000,1987,Toyota,Toyota Corolla,"$20,000",0,1.6L 4A-GE Inline-Four,98105
+1001,2009,Mercedes-Benz,Mercedes-Benz SLK-Class,"$38,769",17000,5.5-Liter V8,91302
+1002,1967,Ford,Ford Mustang 1967-1968,"$29,000",0,Replacement 289ci V8,4011
+1003,1999,Ford,Ford Super Duty 1999-2007,"$15,500",75000,6.8-Liter V10 ,95131
+1004,2008,Mercedes-Benz,Mercedes-Benz Gelandewagen,"$60,000",60000,5.0-Liter M113 V8,85260
+1005,1989,Porsche,Porsche 930 Turbo,"$134,000",31000,Turbocharged 3.3-Liter Flat-Six,7044
+1006,1970,Honda,Honda Motorcycles,"$4,750",3000,175cc SOHC Parallel Twin,27403
+1007,1997,Chevrolet,Chevrolet Blazer 1995-2004,"$16,399",40000,4.3 Liter Vortec V6,7753
+1008,2022,Maserati,20s,"$310,000",126000,Twin-Turbocharged 3.0-Liter V6,21784
+1009,1958,Chevrolet,Chevrolet Impala,"$32,000",72000,348ci Turbo Thrust V8,54115
+1010,2016,Mercedes-Benz,Mercedes-Benz W222 S-Class,"$71,023",12000,Twin-Turbocharged 4.7-Liter V8 ,19406
+1011,1970,Plymouth,70s,"$43,500",18000,Fuel-Injected 500ci V8,33312
+1012,1974,Yamaha,70s,"$1,800",0,97cc Two-Stroke Single,32960
+1013,1991,Lotus,Lotus Elan,"$21,083",24000,Turbocharged 1.6L Inline-Four,92570
+1014,1992,Alfa Romeo,Alfa Romeo 105/115 Series Spider,"$16,509",22000,Twin-Cam 2.0L Inline-Four,10560
+1015,1978,Lancia,70s,"$26,000",0,2.0-Liter Lampredi Twin-Cam Inline-Four,92570
+1016,1952,Packard,50s,"$12,500",55000,Coachwork by Henney,25405
+1017,2011,Audi,Audi R8,"$71,000",37000,5.2-Liter V10,89101
+1018,1972,970s,nAmerican,"$3,400",172000,Continuously-Variable Automatic Transmision,27606
+1019,2012,Toyota,Toyota FJ Cruiser,"$42,500",20000,4.0-Liter V6,7074
+1020,2012,Lotus,Lotus Seven & Caterham Seven,"$35,000",12000,2.0L Zetec Inline-Four,94020
+1021,2019,Porsche,Porsche 911 GT2,"$455,000",213000,Twin-Turbocharged 3.8L Flat-Six,98409
+1022,2004,Porsche,Porsche 911 GT2,"$262,996",10000,Twin-Turbocharged 3.6L Flat-Six ,30534
+1023,1962,Chevrolet,Chevrolet Corvette C1,"$62,000",38000,327ci V8,15012
+1024,1966,Ford,Ford Thunderbird,"$6,200",29000,390ci V8,15012
+1025,1960,Chevrolet,Chevrolet Corvair,"$5,000",314000,Air-Cooled 2.3L Flat-Six,85257
+1026,2020,Mercedes-Benz,10s,"$131,500",7000,3.0-Liter Turbodiesel V6,10560
+1027,2020,Ford,Ford Model T,"$8,100",0,TMU,97401
+1028,2004,Lexus,00s,"$12,000",47000,3.3-Liter V6,95131
+1029,1980,BMW,BMW Motorcycles,"$4,100",40000,648cc Opposed Twin,63017
+1030,1980,Mercedes-Benz,90s,"$23,000",0,Two-Piece Fiberglass Bodywork,96738
+1031,1988,BMW,BMW E30 3-Series,"$17,250",44000,2.5-Liter Inline-Six,22303
+1032,1950,Ford,Ford F-Series 1948-1952,"$38,000",73000,238ci Flathead V8,10560
+1033,2004,Mercedes-Benz,Mercedes-Benz AMG,"$30,000",67000,Supercharged 5.4-Liter V8,94954
+1034,1984,Toyota,Toyota Land Cruiser 60-Series,"$22,500",227000,4.2-Liter 2F Inline-Six,81212
+1035,1959,950s,nGerman,"$33,500",46000,Goggomobil T300 Chassis,91786
+1036,1955,MG,MG TF,"$11,500",80000,"1,466cc XPEG Inline-Four",93453
+1037,2019,Subaru,Subaru WRX STi,"$91,000",0,"3,400 Miles",95482
+1038,2020,Ford,Ford GT 2nd Generation,"$983,333",222000,Twin-Turbocharged 3.5L EcoBoost V6,73118
+1039,1979,Kawasaki,70s,"$4,100",117000,392cc Two-Stroke Single,32960
+1040,2011,Porsche,Porsche 911 GT3,"$613,000",0,"4,500 Miles",10507
+1041,1976,Toyota,Toyota Land Cruiser FJ40,"$35,000",2000,Fuel-Injected 350ci V8,43065
+1042,2000,Ferrari,Ferrari 456,"$52,456",29000,5.5-Liter V12,92570
+1043,2005,Porsche,Porsche Carrera GT,"$1,475,000",0,5.7-Liter DOHC V10 ,92570
+1044,2020,Chevrolet,Chevrolet Corvette C8,"$82,500",0,6.2-Liter V8,93940
+1045,1968,Mercury,60s,"$25,000",76000,390ci V8,21921
+1046,2005,Audi,Audi S4,"$13,000",165000,4.2-Liter DOHC V8,75033
+1047,1986,Buick,Buick Regal,"$31,250",54000,Turbocharged 3.8-liter V6,48150
+1048,1982,Toyota,Toyota Pickup,"$16,250",98000,2.4-Liter 22R Inline-Four,39069
+1049,1975,Ducati,70s,"$8,500",0,864cc L-Twin,30317
+1050,2012,Fisker,10s,"$35,750",13000,Dual Direct-Drive Electric Motors,70119
+1051,2014,Lotus,Lotus Evora,"$60,000",3000,3.5-Liter DOHC V6,44442
+1052,1969,Porsche,Porsche 912,"$34,912",57000,1.6-Liter Flat-Four,27871
+1053,1995,Porsche,Porsche 993 911,"$50,000",39000,3.6-Liter Flat-Six,24486
+1054,1985,Land Rover,Land Rover 110 / Defender 110 (Euro Spec),"$26,250",0,Imported in 2017,98258
+1055,2003,Porsche,Porsche 996 911,"$29,750",69000,3.6-Liter Flat-Six,7702
+1056,1992,Toyota,Toyota Land Cruiser 70-Series,"$29,250",0,Turbocharged 4.2-Liter Diesel Inline-Six,76001
+1057,2021,Ford,Ford U725 Bronco,"$78,522",244000,Twin-Turbocharged 2.7-Liter EcoBoost V6,55446
+1058,2006,BMW,BMW Z4 M Roadster,"$35,000",49000,3.2-Liter Inline-Six,43402
+1059,1975,Ferrari,70s,"$130,000",0,3.0-Liter DOHC V8,80110
+1060,2014,Honda,10s,"$33,250",27000,3.5-Liter V6,15301
+1061,1982,Land Rover,Land Rover Series 88,"$18,500",56000,2.25-Liter Gasoline Inline-Four,30721
+1062,2000,Porsche,Porsche 986 Boxster,"$24,250",44000,3.2-Liter Flat-Six,85251
+1063,1986,Pontiac,Pontiac Fiero,"$14,250",12000,2.8-Liter V6,18452
+1064,1986,inGerman,oryParts,"$7,400",0,Hollow Spokes,29687
+1065,1999,Jaguar,Jaguar XK8,"$19,100",11000,4.0-Liter V8,85225
+1066,1955,Chevrolet,Chevrolet Pickup,"$40,000",190000,283ci V8,89113
+1067,1966,Honda,Honda Motorcycles,"$3,600",800000,99cc Four-Stroke Single,55113
+1068,2006,Acura,Acura RSX,"$19,000",86000,2.0-Liter i-VTEC Inline-Four,60124
+1069,1967,Chevrolet,Chevrolet Chevelle,"$43,000",0,396ci V8,11050
+1070,1981,DeLorean,DeLorean DMC-12,"$79,000",7000,2.85-Liter PRV V6,43016
+1071,1968,Mercedes-Benz,Mercedes-Benz W113 SL,"$57,666",57000,2.5-Liter Inline-Six,33178
+1072,1990,Nissan,Nissan 300ZX,"$24,800",21000,3.0-Liter VG30DE V6,37830
+1073,1975,Ford,Ford F-Series 1973-1979,"$23,000",44000,460ci V8,91340
+1074,2002,Porsche,Porsche 996 911,"$37,500",36000,3.6-Liter Flat-Six,85260
+1075,1988,Mercedes-Benz,Mercedes-Benz R107 SL,"$16,000",88000,5.5-liter M117 V8,2770
+1076,1985,Porsche,Porsche 928,"$9,628",171000,5.0-Liter V8,80007
+1077,1979,Volkswagen,Volkswagen Beetle,"$18,000",0,1.6-Liter Flat-Four,80007
+1078,1979,Porsche,Porsche 930 Turbo,"$5,300",0,Black-Painted Centers,10570
+1079,2004,Mercedes-Benz,Mercedes-Benz W220 S-Class,"$24,000",0,19k Miles,19010
+1080,2002,BMW,BMW E46 M3,"$23,000",60000,3.2-Liter Inline-Six,91202
+1081,1966,Ford,Ford Mustang 1964.5-1966,"$19,289",99000,289ci V8,38469
+1082,1983,Mercedes-Benz,Mercedes-Benz R107 SL,"$9,300",71000,3.8-Liter V8,33912
+1083,1987,BMW,BMW E30 3-Series,"$13,500",89000,2.5-Liter M20 Inline-Six,7026
+1084,2008,Mercedes-Benz,Mercedes-Benz R230 SL,"$28,250",41000,5.5-Liter V8,19010
+1085,1970,Toyota,Toyota Land Cruiser FJ40,"$28,000",0,3.9-Liter F Inline-Six,33326
+1086,1975,Honda,Honda Motorcycles,"$9,500",6000,736cc Inline-Four,46160
+1087,2003,Land Rover,Land Rover Discovery,"$5,800",119000,4.6-Liter V8,68130
+1088,1965,Chevrolet,Chevrolet Corvair,"$8,900",45000,2.7-Liter Flat-Six,44214
+1089,1972,Volvo,Volvo P1800/1800,"$21,800",429000,2.0-Liter Inline-Four,92123
+1090,2008,Porsche,Porsche 997 Turbo,"$80,000",65000,3.6-Liter Flat-Six,30060
+1091,1956,Chevrolet,Chevrolet Corvette C1,"$80,500",55000,265ci V8,48236
+1092,1961,960s,nAmerican,"$19,750",700000,General Motors 327ci V8,95452
+1093,1981,Porsche,Porsche 911SC,"$55,000",118000,3.0-Liter Flat-Six,91942
+1094,2008,Mercedes-Benz,Mercedes-Benz CLK-Class,"$13,251",35000,3.5L M272 V6,53114
+1095,1963,Triumph,Triumph TR3,"$11,250",0,"48k Miles Shown,TMU",60631
+1096,1997,Toyota,Toyota Land Cruiser 80-Series,"$32,000",300000,4.5-Liter Inline-Six,94602
+1097,1974,Cadillac,Cadillac Eldorado,"$14,000",87000,500ci V8,19805
+1098,2007,Aston Martin,Aston Martin DB9,"$45,500",32000,6.0-Liter V12,31405
+1099,1970,Chevrolet,Chevrolet Pickup,"$48,000",0,454ci V8,92530
+1100,1977,International Harvester,International Harvester Scout,"$15,500",0,5.9-Liter Cummins Turbodiesel Inline-Six,40218
+1101,1979,Lincoln,Lincoln Continental,"$14,000",28000,400ci V8,25411
+1102,1979,inItalian,oryParts,"$10,550",0,Two Medium-Sized Cases,20007
+1103,2010,Audi,Audi R8,"$81,008",29000,5.2-Liter V10,21054
+1104,1967,Chevrolet,Chevrolet Corvette C2,"$71,000",0,427ci V8,98199
+1105,2002,Ford,Ford Thunderbird,"$19,750",19000,3.9-Liter V8,16509
+1106,1957,Ford,Ford Thunderbird,"$33,500",43000,312ci Thunderbird Special V8,80537
+1107,1987,Porsche,Porsche 911 Carrera 3.2,"$69,690",55000,3.2-Liter Flat-Six,33144
+1108,2020,BMW,BMW M2,"$113,000",800000,Twin-Turbocharged 3.0L Inline-Six,3104
+1109,2011,BMW,BMW E92/E93 3-Series Coupe & Convertible,"$29,000",42000,Twin-Turbocharged 3.0L Inline-Six,19010
+1110,1992,Chevrolet,Chevrolet Pickup,"$23,500",18000,5.7-Liter V8,98290
+1111,2017,Porsche,Porsche 991 911,"$155,000",0,Endurance Racing Edition,60563
+1112,2003,Acura,Acura NSX NA1/NA2,"$170,000",6000,3.2-Liter V6,8902
+1113,1994,Mercedes-Benz,Mercedes-Benz R129 SL,"$15,750",14000,3.2-Liter Inline-Six,33067
+1114,1974,Mazda,70s,"$22,250",75000,1.3-Liter Wankel Rotary,30307
+1115,2002,Lexus,Lexus SC Coupe,"$32,500",42000,#93 of 100 Neiman Marcus Editions,75248
+1116,2008,Toyota,Toyota FJ Cruiser,"$15,750",119000,4.0-Liter V6,33178
+1117,1981,Jeep,Jeep CJ-8,"$37,000",44000,2.8L Cummins Turbodiesel Inline-Four,29301
+1118,1986,Chevrolet,Chevrolet K5 Blazer 1973-1991,"$39,500",99000,350ci V8,90031
+1119,2021,Ford,Ford Super Duty 2017-,"$98,500",11000,6.7L Power Stroke Turbodiesel V8,89074
+1120,1964,Chrysler,Chrysler Imperial,"$26,250",53000,413ci V8,18940
+1121,2012,Land Rover,Land Rover Range Rover L322,"$32,323",66000,Supercharged 5.0-Liter V8,92627
+1122,1995,Land Rover,Land Rover Range Rover Classic,"$75,000",34000,4.2-Liter V8,10987
+1123,1961,Alfa Romeo,Alfa Romeo 750/101 Series Giulietta & Giulia,"$37,250",14000,1.3L Twin-Cam Inline-Four,94117
+1124,2006,Ford,Ford Mustang S197 2005-2014,"$22,250",8000,4.6-Liter V8,8807
+1125,2000,Chevrolet,Chevrolet Corvette C5,"$25,000",38000,5.7-Liter V8,97035
+1126,2005,Mini,Mini Modern,"$17,000",42000,Supercharged 1.6L Inline-Four,53114
+1127,2004,BMW,BMW E46 M3,"$22,550",85000,3.2-Liter Inline-Six,94010
+1128,1998,Mercedes-Benz,Mercedes-Benz W210 E-Class,"$6,100",104000,3.2-Liter V6,91344
+1129,1936,Ford,Ford Hot Rod,"$55,000",400000,221ci Flathead V8  ,29203
+1130,2005,Morgan,Morgan V6 Roadster,"$59,000",33000,Ford 3.0L V6 ,98110
+1131,2007,Jaguar,Jaguar XJ,"$22,500",37000,4.2-Liter V8,19010
+1132,2002,Pontiac,Pontiac Firebird,"$60,000",0,5.7-Liter LS1 V8,60803
+1133,1967,Porsche,Porsche Longhood 911,"$103,000",291000,2.0-Liter Flat-Six,33432
+1134,2002,BMW,BMW Z3,"$17,150",43000,3.0-Liter M54 Inline-Six,85225
+1135,1990,Porsche,Porsche 964 911,"$40,000",63000,3.6-Liter Flat-Six,83713
+1136,2006,Chrysler,Chrysler Crossfire,"$22,500",10000,3.2-Liter SOHC V6,19010
+1137,1999,Mazda,Mazda Miata,"$11,099",44000,1.8-Liter Inline-Four,11790
+1138,2500,Alfa Romeo,40s,"$300,000",0,Overbored 2.4-Liter DOHC Inline-Six,92627
+1139,1984,Jeep,Jeep CJ-7,"$17,500",71000,258ci Inline-Six,28677
+1140,2006,Chrysler,00s,"$17,000",15000,Turbocharged 2.4-Liter Inline-Four,63026
+1141,2015,McLaren,McLaren Ultimate Series,"$1,577,007",305000,Twin-Turbocharged 3.8-Liter V8 ,33966
+1142,2015,inAmerican,nItalian,"$4,800",0,Cobra-Branded Intake Manifold ,93940
+1143,1970,Alfa Romeo,Alfa Romeo 105/115 Series Coupe,"$43,350",0,Replacement 1.8L Twin-Cam Inline-Four,93940
+1144,2009,Ferrari,Ferrari F430,"$310,000",0,4.3-Liter F136 V8 ,92376
+1145,1948,Chevrolet,Chevrolet Pickup,"$50,000",0,383ci Stroker V8,92376
+1146,1988,Mercedes-Benz,Mercedes-Benz C126,"$54,000",25000,5.5-Liter V8,94010
+1147,2004,Porsche,Porsche 996 911,"$57,000",26000,3.6-Liter Flat-Six,7229
+1148,1952,Jaguar,Jaguar XK120,"$22,500",11000,Twin-Cam Inline-Six,4978
+1149,1963,Chevrolet,Chevrolet Corvette C2,"$57,500",33000,Replacement 327ci V8,4978
+1150,1981,Honda,Honda Motorcycles,"$3,400",800000,72cc Four-Stroke Single,60126
+1151,2007,Honda,Honda S2000,"$51,000",6000,2.2-Liter Inline-Four,97013
+1152,2022,Ford,Ford U725 Bronco,"$53,750",35000,Turbocharged EcoBoost 2.3-Liter Inline-Four,92625
+1153,1999,Mercedes-Benz,Mercedes-Benz CL-Class,"$20,000",147000,6.0-Liter V12,94925
+1154,1968,Chevrolet,Chevrolet Camaro 1st Generation 1967-1969,"$33,850",73000,327ci V8,14103
+1155,1997,Land Rover,Land Rover Defender 90 NAS,"$81,000",38000,4.0-Liter V8,31210
+1156,1955,Chevrolet,Chevrolet Tri-5,"$30,500",36000,Replacement 350ci V8,77356
+1157,2001,Porsche,Porsche 996 Turbo,"$60,500",67000,Twin-Turbocharged 3.6L Flat-Six,92024
+1158,1988,BMW,BMW E30 3-Series,"$16,500",0,2.5-Liter Inline-Six,92203
+1159,1975,Fiat,Fiat 124 Spider,"$15,500",94000,1.8-Liter Inline-Four,95060
+1160,1968,International Harvester,International Harvester Scout,"$25,750",14000,266ci V8,84098
+1161,1973,Porsche,Porsche 914,"$23,750",67000,2.0-Liter Flat Four ,98110
+1162,1989,Mercedes-Benz,Mercedes-Benz R107 SL,"$40,500",43000,5.5-Liter V8,21601
+1163,2000,Mazda,Mazda Miata,"$14,000",22000,1.8-Liter Inline-Four,13027
+1164,1989,Chevrolet,Chevrolet Camaro 3rd Generation 1982-1992,"$37,500",27000,5.7-Liter V8 ,94536
+1165,2004,BMW,BMW E46 M3,"$22,611",44000,3.2-Liter S54 Inline-Six,91011
+1166,2000,Ford,Ford Excursion,"$36,750",73000,7.3-Liter PowerStroke V8,20747
+1167,1984,BMW,BMW E24 6-Series,"$22,250",52000,3.2-Liter Inline-Six,11743
+1168,1995,Ford,Ford F-Series 1992-1997,"$15,250",70000,7.5-Liter V8,83704
+1169,1974,International Harvester,70s,"$41,500",71000,345ci V8,66502
+1170,2003,Chevrolet,Chevrolet Corvette C5,"$30,000",7000,5.7-Liter V8,90066
+1171,2003,Porsche,Porsche 911 Carrera 3.2,"$1,911",0,Black-Painted Centers,90250
+1172,1977,Toyota,Toyota Land Cruiser FJ40,"$70,500",28000,4.2-Liter Inline-Six,21286
+1173,2007,Ford,Ford Shelby Mustang,"$38,000",3000,Supercharged 5.4-Liter V8,96007
+1174,1996,Lexus,Lexus LS Sedan,"$12,500",62000,4.0-Liter 1UZ-FE V8,91106
+1175,2001,BMW,BMW Z8,"$182,000",27000,4.9-Liter V8,10549
+1176,2007,Porsche,Porsche 987 Cayman,"$25,250",52000,2.7-Liter Flat-Six,98651
+1177,1950,Jaguar,"Jaguar MK VII, VIII, & IX","$16,000",26000,3.5-Liter Inline-Six,95946
+1178,1969,Jeep,Jeep Pickup,"$26,500",82000,Dauntless 350ci V8,97306
+1179,2004,Nissan,Nissan 350Z,"$15,700",7000,3.5-Liter VQ35DE V6,95959
+1180,1969,Chevrolet,Chevrolet Pickup,"$30,000",600000,383ci SBC V8,81505
+1181,1969,Plymouth,Plymouth Road Runner,"$42,500",41000,383ci V8,68506
+1182,1995,Porsche,Porsche 993 911,"$68,500",123000,3.6-Liter Flat-Six,46037
+1183,2014,Dodge,Dodge Viper,"$134,235",7000,8.4-liter V10,33570
+1184,1989,BMW,BMW E30 3-Series,"$19,001",80000,2.5-Liter M20 Inline-Six,38133
+1185,1989,Porsche,Porsche 356 Speedster Replica,"$45,000",6000,"1,835cc Flat-Four",55391
+1186,2007,Chevrolet,Chevrolet Corvette C6,"$44,000",34000,Katech-Modified 7.0-Liter LS7 V8,49674
+1187,1969,Plymouth,Plymouth Barracuda,"$21,512",46000,496ci V8,49674
+1188,1982,Chevrolet,Chevrolet Corvette C3,"$35,000",13000,5.7-Liter V8,75791
+1189,1969,Mercedes-Benz,Mercedes-Benz W114 & W115,"$9,700",87000,2.2-Liter Inline-Four,23834
+1190,2003,Mercedes-Benz,Mercedes-Benz R230 SL,"$36,000",21000,5.0-Liter V8 ,34771
+1191,1984,Chevrolet,Chevrolet Corvette C4,"$14,266",2000,5.7-Liter V8,1960
+1192,2011,BMW,BMW E90/E92/E93 M3,"$33,750",55000,4.0-Liter S65 V8,95035
+1193,2009,Bentley,Bentley Continental GT,"$60,000",18000,Twin-Turbocharged 6.0-Liter W12,77057
+1194,2008,Ford,Ford Mustang S197 2005-2014,"$31,650",0,Supercharged 4.6-Liter V8,34683
+1195,1954,Jaguar,Jaguar XK120,"$105,000",0,3.4-Liter DOHC Inline-Six,11937
+1196,2018,Porsche,Porsche 991 911,"$83,500",38000,Twin-Turbocharged 3.0L Flat-Six,33135
+1197,1950,Ford,Ford F-Series 1948-1952,"$37,000",52000,302ci V8,98077
+1198,1991,Ford,Ford Fox-Body Mustang,"$27,250",0,331ci V8,37027
+1199,1978,Honda,Honda Motorcycles,"$5,350",8000,497cc OHV Transverse V-Twin,92201
+1200,2002,BMW,BMW E39 M5,"$35,000",109000,4.9-Liter V8,91423
+1201,1970,Dodge,Dodge Challenger,"$72,500",95000,440ci V8,6051
+1202,1961,Austin-Healey,Austin-Healey Bugeye Sprite,"$17,400",35000,"1,275cc Inline-Four",28722
+1203,2006,Porsche,Porsche 997 911,"$56,911",0,3.8-Liter Flat-Six,28722
+1204,1985,Buick,Buick Grand National,"$29,000",59000,Turbocharged 3.8-Liter V6,13615
+1205,1978,Jeep,Jeep CJ-5,"$16,000",0,350ci V8,85730
+1206,1972,International Harvester,International Harvester Scout,"$58,000",23000,6.2-Liter Vortec L92 V8,94089
+1207,2022,Ford,Ford F-150 Lightning Electric,"$112,022",172000,Dual Permanent-Magnet Electric Motors,5733
+1208,1954,Ford,50s,"$13,000",88000,223ci Inline-Six,92677
+1209,2008,Land Rover,Land Rover Range Rover L322,"$30,250",68000,Supercharged 4.2-Liter V8,7074
+1210,2000,Mercedes-Benz,Mercedes-Benz R129 SL,"$15,750",54000,5.0-Liter V8,6830
+1211,1955,Ford,Ford F-Series 1973-1979,"$29,000",0,302ci V8,66512
+1212,2003,Land Rover,Land Rover Discovery,"$7,500",164000,4.6-Liter V8,94041
+1213,1986,Mercedes-Benz,Mercedes-Benz R107 SL,"$25,000",74000,5.5-Liter V8,80516
+1214,2002,Ford,Ford Thunderbird,"$21,500",5000,3.9-Liter V8,19010
+1215,2002,Chevrolet,Chevrolet Corvette C5,"$26,000",56000,5.7-Liter LS6 V8,52240
+1216,2005,Mini,Mini Modern,"$14,400",37000,Supercharged 1.6-Liter Inline-Four,53114
+1217,1985,Porsche,Porsche 911 Carrera 3.2,"$59,500",52000,3.2-Liter Flat-Six,33431
+1218,2009,Nissan,00s,"$24,500",9000,3.7-Liter V6,19010
+1219,1997,Dodge,Dodge Viper,"$60,500",26000,8.0-Liter V10,68132
+1220,2014,Cadillac,Cadillac CTS-V,"$53,500",0,94k Miles,78681
+1221,1980,Porsche,Porsche 911SC,"$52,000",78000,Replacement 3.2-liter Flat-Six,7643
+1222,1966,Lincoln,Lincoln Continental,"$54,500",89000,462ci V8,97703
+1223,2009,Chevrolet,Chevrolet Corvette C6,"$82,000",2000,Original-Owner,34786
+1224,2011,Aston Martin,Aston Martin V8 Vantage,"$62,001",10000,4.7-Liter V8,11360
+1225,1995,Ford,Ford Bronco 4th-5th Generations 1987-1996,"$35,000",49000,5.8-Liter V8,34233
+1226,1972,Chevrolet,Chevrolet Pickup,"$32,250",46000,350ci V8,84111
+1227,1973,Porsche,Porsche Longhood 911,"$78,000",82000,2.4L Flat-Six ,43017
+1228,2005,Porsche,Porsche Cayenne,"$21,000",100000,4.5-Liter V8,76226
+1229,1995,Land Rover,Land Rover Range Rover Classic,"$19,750",214000,4.2-Liter Rover V8,90008
+1230,1967,Plymouth,Plymouth Barracuda,"$25,000",22000,Replacement 360ci V8,48047
+1231,1988,Chevrolet,Chevrolet Camaro 3rd Generation 1982-1992,"$25,750",0,5.0-Liter TPI V8,1075
+1232,2002,BMW,BMW E39 M5,"$52,000",45000,4.9-Liter V8,48393
+1233,2007,Honda,Honda S2000,"$34,500",19000,2.2-Liter VTEC Inline-Four,22043
+1234,1970,Chevrolet,Chevrolet Corvette C3,"$32,500",79000,406ci V8,98034
+1235,1993,Nissan,Nissan 300ZX,"$14,500",0,3.0-Liter DOHC V6 ,23662
+1236,2021,Chevrolet,Chevrolet Corvette C8,"$90,000",0,6.2-Liter LT2 V8,11803
+1237,1972,Mercedes-Benz,Mercedes-Benz W108 & W109,"$22,000",66000,4.5-Liter M117 V8,94612
+1238,1997,BMW,BMW E39 5-Series,"$8,500",79000,4.4-Liter V8,10543
+1239,2000,Datsun,Datsun Roadster,"$24,000",34000,2.0-Liter U20 Inline-Four,49103
+1240,2000,inGerman,oryParts,"$7,000",0,"46"" Tall by 37"" Wide",22556
+1241,1999,Porsche,Porsche 996 911,"$32,500",45000,3.4-Liter Flat-Six,7074
+1242,2022,Ford,Ford U725 Bronco,"$73,689",279000,Twin-Turbocharged EcoBoost 2.7L V6,32608
+1243,2012,Jeep,Jeep Wrangler,"$39,250",45000,Original Owner,15421
+1244,1958,Harley Davidson,50s,"$7,700",0,125cc Two-Stroke Single,77373
+1245,1984,Yamaha,80s,"$16,300",10000,347cc Two-Stroke Parallel Twin,67208
+1246,2018,Porsche,Porsche 911 GT3,"$211,000",0,4.0-Liter Flat-Six,65809
+1247,1997,Chevrolet,Chevrolet Camaro 4th Generation 1993-2002,"$30,000",30000,12k Miles,14043
+1248,2008,Land Rover,00s,"$52,000",42000,4.4-Liter V8,19010
+1249,2008,970s,nBritish,"$8,600",0,997cc Cosworth MAE Inline-Four,49012
+1250,2001,Ferrari,Ferrari 360,"$65,000",0,3.6-Liter DOHC V8,98027
+1251,1978,Honda,Honda Motorcycles,"$4,878",7000,544cc Inline-Four,60563
+1252,1956,Land Rover,Land Rover Series 88,"$35,000",77000,2.0L Inline-Four,91605
+1253,1973,Ford,Ford Bronco U13/U14/U15 1966-1977,"$57,500",11000,302ci V8,85390
+1254,1991,Toyota,Toyota Land Cruiser 80-Series,"$26,250",139000,4.0-Liter Inline-Six,85253
+1255,1969,Honda,Honda Motorcycles,"$9,999",0,Early-Production Sandcast Model,94301
+1256,2004,BMW,BMW E46 3-Series Convertible,"$13,750",85000,2.5-Liter M54 Inline-Six,91301
+1257,2014,Aston Martin,Aston Martin Vanquish,"$101,007",34000,5.9-Liter V12,60140
+1258,2010,Jaguar,10s,"$17,250",47000,5.0-Liter V8,30345
+1259,1992,Land Rover,Land Rover 110 / Defender 110 (Euro Spec),"$141,000",0,"9k Miles Shown, TMU",76108
+1260,1955,Austin-Healey,Austin-Healey 100,"$30,500",6000,Replacement 2.7L Inline-Four,95117
+1261,1932,Ford,30s,"$15,750",0,"1k Miles Shown, TMU",85050
+1262,2004,Porsche,Porsche 996 911,"$44,000",35000,3.6-Liter Flat-Six,90732
+1263,1960,Ford,Ford F-Series 1957-1960,"$12,900",24000,Replacement 223ci Inline-Six,98368
+1264,1950,Triumph,Triumph Motorcycles,"$10,500",0,Replacement 650cc Parallel Twin,98368
+1265,1954,Fiat,Fiat 500,"$14,250",0,569cc Inline-Four,98368
+1266,1965,Dodge,Dodge Coronet,"$21,750",0,"88k Miles Shown, TMU",13619
+1267,2000,Alfa Romeo,60s,"$47,500",29000,Replacement 2.0L Twin-Cam Inline-Four,65742
+1268,1974,Triumph,Triumph TR6,"$40,000",500000,2.6-Liter Inline-Six,85006
+1269,1971,Plymouth,Plymouth Barracuda,"$100,000",90000,Replacement 440ci V8,80524
+1270,2018,BMW,BMW F80 M3,"$71,500",13000,Twin-Turbocharged 3.0L Inline-Six,8055
+1271,1976,GMC,GMC Jimmy,"$32,000",92000,400ci V8,33767
+1272,2004,BMW,BMW E46 M3,"$50,500",37000,3.2-Liter Inline-Six,20147
+1273,2022,Jeep,Jeep Wrangler,"$38,750",488000,3.6-Liter V6,6107
+1274,1987,Mercedes-Benz,Mercedes-Benz W124 E-Class,"$9,000",67000,3.0-Liter Inline-Six,59901
+1275,1993,Chevrolet,Chevrolet Pickup,"$48,000",20000,27-Years-Owned Example,92256
+1276,1972,Chevrolet,Chevrolet Camaro 2nd Generation 1970-1981,"$38,500",45000,350ci V8,45458
+1277,1969,Volkswagen,Volkswagen Beetle,"$26,000",0,"Replacement 1,500cc Flat-Four",68446
+1278,2008,Mercedes-Benz,Mercedes-Benz CLK63 AMG Black Series,"$127,209",19000,6.2-Liter M156 V8,90025
+1279,1967,BSA,60s,"$7,500",0,"325 Miles Shown, TMU",92704
+1280,1949,Austin,40s,"$30,000",51000,Refurbished During Current Ownership ,4090
+1281,1998,Jeep,Jeep Cherokee,"$18,000",49000,4.0-Liter Inline-Six,28655
+1282,1960,Oldsmobile,Oldsmobile 88,"$20,000",294000,425ci V8,28651
+1283,1973,Citroen,Citroen SM,"$42,000",50000,3.0-Liter Maserati V6,91387
+1284,1987,Jaguar,Jaguar XJS,"$21,250",54000,5.3-Liter V12,63367
+1285,1972,Honda,Honda Motorcycles,"$5,100",0,325cc SOHC Parallel Twin,65233
+1286,1961,Chevrolet,Chevrolet Corvette C1,"$60,000",15000,350ci V8,92807
+1287,2022,Lexus,20s,"$123,000",37000,5.0-Liter V8,60047
+1288,1935,Ford,30s,"$45,250",80000,221ci Flathead V8,85260
+1289,1968,Triumph,Triumph TR5 & TR250,"$66,000",0,Fuel-Injected 2.5L Inline-Six,10560
+1290,2002,Pontiac,Pontiac Firebird,"$37,000",5000,Supercharged 5.7-Liter V8,15234
+1291,2009,Porsche,Porsche 997 911,"$45,500",116000,3.8-Liter Flat-Six,33312
+1292,1966,Ford,Ford Mustang 1964.5-1966,"$28,000",214000,289ci V8,84663
+1293,2010,BMW,BMW E61 5-Series Touring,"$25,000",44000,Twin-Turbocharged 3.0L Inline-Six ,27614
+1294,1989,Chrysler,Chrysler Conquest & Mitsubishi Starion,"$23,800",37000,Turbocharged 2.6-Liter Inline-Four,10598
+1295,1994,Ford,Ford Bronco 4th-5th Generations 1987-1996,"$24,000",148000,5.8-Liter V8,91402
+1296,2008,BMW,BMW E60 M5,"$43,750",78000,Modified 5.5-Liter S65 V10 ,32459
+1297,1969,Lotus,Lotus Elan,"$13,000",34000,"1,558cc Inline-Four",57105
+1298,1991,Toyota,Toyota Supra,"$22,800",55000,Turbocharged 3.0-Liter Inline-Six,57106
+1299,1993,Porsche,Porsche 964 911,"$142,000",19000,3.6-Liter M64 Flat-Six,33458
+1300,1999,Mercedes-Benz,Mercedes-Benz R129 SL,"$16,000",37000,5.0-Liter V8,60016
+1301,1972,BMW,BMW Motorcycles,"$13,000",32000,599cc Opposed Twin,29403
+1302,1970,Ford,Ford Bronco U13/U14/U15 1966-1977,"$240,000",150000,Coyote 5.0-Liter V8,74953
+1303,1985,Toyota,Toyota Land Cruiser 70-Series,"$26,500",0,3.4-Liter Diesel Inline-Four,75244
+1304,1996,Porsche,Porsche 993 Turbo,"$230,000",28000,Twin-Turbocharged 3.6L Flat-Six,44720
+1305,1972,Mercedes-Benz,Mercedes-Benz W108 & W109,"$17,333",48000,4.5-Liter M117 V8,49453
+1306,1994,Porsche,Porsche 928,"$163,928",38000,5.4-Liter DOHC V8,92707
+1307,2004,Mazda,Mazda RX-8,"$13,000",32000,1.3-Liter Renesis Rotary,19010
+1308,2004,Shelby,Shelby Cobra Replica,"$37,777",18000,302ci Ford V8,92109
+1309,2008,BMW,BMW Z4 Roadster E85,"$24,000",31000,3.0-Liter Inline-Six,10560
+1310,2009,Mercedes-Benz,00s,"$27,598",13000,3.5-Liter V6,53114
+1311,2009,Mercedes-Benz,Mercedes-Benz AMG,"$28,750",33000,6.2-Liter AMG V8,73112
+1312,1987,Porsche,Porsche 911 Carrera 3.2,"$55,000",78000,3.2-Liter Flat-Six,37745
+1313,2003,Ford,Ford Excursion,"$17,500",60000,6.8-Liter Triton V10,10310
+1314,2006,Toyota,Toyota Land Cruiser 100-Series,"$28,250",151000,4.7-Liter 2UZ-FE V8,23322
+1315,2000,Audi,Audi TT,"$12,250",52000,One-Owner Example ,18042
+1316,2007,Audi,Audi RS4,"$32,000",129000,4.2-Liter V8,34786
+1317,1999,Mercedes-Benz,Mercedes-Benz W210 E-Class,"$19,000",47000,5.4-Liter M113 V8,95066
+1318,1991,Jeep,Jeep Grand Wagoneer,"$28,000",122000,360ci V8,92662
+1319,2016,Ford,Ford Mustang S550,"$55,500",0,"1,200 Miles",73142
+1320,1986,Porsche,Porsche 944 Turbo,"$15,951",129000,Turbocharged 2.5-Liter Inline-Four,15106
+1321,2004,Porsche,Porsche 986 Boxster,"$25,650",30000,Replacement 2.7-Liter Flat-Six,20837
+1322,1974,Porsche,Porsche 911 1974-1977,"$37,750",26000,Modified 2.9-Liter Flat-Six,22205
+1323,1966,Ford,Ford Mustang 1964.5-1966,"$26,500",55000,289ci V8,7834
+1324,1970,Chevrolet,Chevrolet Camaro 2nd Generation 1970-1981,"$50,000",74000,Z/28 Equipment Package,28677
+1325,1959,MG,MG MGA,"$28,000",50000,1.5-Liter Inline-Four,14471
+1326,1990,Chevrolet,Chevrolet Corvette C4,"$10,500",39000,5.7-Liter L98 V8,8080
+1327,2005,Lexus,Lexus LX SUV,"$29,000",68000,4.7-Liter V8 ,23116
+1328,1989,Rolls-Royce,Rolls-Royce Corniche,"$55,500",32000,6.75-Liter V8,60071
+1329,1999,Lexus,Lexus SC Coupe,"$11,500",58000,3.0-liter Inline-Six,21223
+1330,1997,Jeep,Jeep Wrangler,"$19,000",16000,4.0-Liter Inline-Six,7643
+1331,1986,Porsche,Porsche 928,"$13,750",67000,5.0-Liter V8,65803
+1332,1991,Acura,Acura NSX NA1/NA2,"$95,000",42000,3.0-Liter VTEC V6,94920
+1333,1991,Mazda,Mazda Miata,"$10,100",32000,1.6-Liter DOHC Inline-Four,20812
+1334,1991,Porsche,Porsche 964 911,"$46,250",102000,3.6-Liter Flat-Six,7753
+1335,1995,Isuzu,Isuzu Trooper,"$13,700",79000,3.2-Liter V6,20111
+1336,1969,Ford,Ford F-Series 1967-1972,"$7,500",43000,360ci V8,76092
+1337,2001,Honda,Honda S2000,"$35,250",15000,2.0-Liter VTEC Inline-Four,92009
+1338,2000,Mercedes-Benz,Mercedes-Benz SLK-Class,"$9,500",67000,Supercharged 2.3-liter Inline-Four,13760
+1339,2022,Porsche,Porsche 992 911,"$302,000",141000,4.0L Flat-Six,84317
+1340,1986,Chevrolet,Chevrolet Corvette C4,"$12,200",34000,5.7-Liter L98 V8,45039
+1341,1987,BMW,BMW E30 3-Series,"$15,000",105000,2.5-Liter Inline-Six,60523
+1342,2013,BMW,BMW E90/E92/E93 M3,"$54,000",17000,4.0-Liter V8,91207
+1343,2013,Mercedes-Benz,Mercedes-Benz R231 SL,"$51,000",20000,Twin-Turbocharged 4.6-Liter V8,8844
+1344,1992,Mercedes-Benz,Mercedes-Benz 500E & E500,"$26,000",166000,5.0-Liter M119 V8,90025
+1345,1979,Ferrari,Ferrari 308,"$73,308",0,2.9-Liter Quad-Cam V8,37924
+1346,2010,Porsche,Porsche 997 Turbo,"$65,556",84000,Twin-Turbocharged 3.8L Flat-Six,94114
+1347,1983,Buick,Buick Riviera,"$14,500",23000,5.0-Liter V8,18940
+1348,1983,inItalian,oryParts,"$2,400",0,Lamborghini Script & Bull Logo,22556
+1349,3605,Chevrolet,Chevrolet Suburban,"$8,200",75000,250ci Inline-Six,11968
+1350,1995,Ford,Ford Mustang SN95 1994-2004,"$22,972",13000,5.0-Liter V8,28677
+1351,1972,Chevrolet,Chevrolet Pickup,"$61,000",473000,5.3-Liter LS V8,75006
+1352,1955,Austin-Healey,Austin-Healey 100,"$86,000",553000,"2,660cc Inline-Four",33478
+1353,1983,Porsche,Porsche 930 Turbo,"$80,930",92000,Turbocharged 3.3-Liter Flat-Six,33478
+1354,1948,Studebaker,40s,"$15,500",16000,226ci Inline-Six,65747
+1355,2012,Ford,Ford Mustang S197 2005-2014,"$52,750",0,Supercharged 5.4-Liter V8,11357
+1356,2004,Chevrolet,Chevrolet Corvette C5,"$26,500",10000,Supercharged 5.7-liter LS6 V8,11357
+1357,2017,Mercedes-Benz,Mercedes-Benz Gelandewagen,"$94,000",11000,Twin-Turbocharged 4.0L V8,85018
+1358,2012,Porsche,Porsche 991 911,"$84,075",0,3.8-Liter Flat-Six,33458
+1359,1976,MG,MG Midget,"$7,100",37000,1.5-Liter Inline-Four,80027
+1360,1931,Ford,Ford Model A,"$28,250",628000,201ci L-Head Inline-Four,17603
+1361,1931,000s,nBritish,"$77,000",3000,401ci Stroker V8 ,29707
+1362,1970,Mercury,Mercury Cougar,"$41,000",16000,Replacement 428ci V8,93012
+1363,2018,Porsche,Porsche 911 GT3,"$238,000",9000,4.0-Liter Flat Six,92126
+1364,1966,Jaguar,Jaguar XKE Series I,"$78,888",26000,4.2-Liter Inline-Six,93401
+1365,1987,Mazda,80s,"$4,100",111000,2.0-Liter Inline-Four,95628
+1366,1989,BMW,BMW E30 M3,"$53,500",151000,2.3L S14 Inline-Four,19403
+1367,2009,Bentley,Bentley Continental GT,"$69,500",50000,Twin-Turbocharged 6.0-Liter W12,34997
+1368,1974,BMW,BMW 2002tii,"$33,000",80000,2.0-Liter M10 Inline-Four,80004
+1369,1991,BMW,BMW E31 8-Series,"$14,300",116000,5.0-Liter M70 V12,95742
+1370,1991,000s,nAmerican,"$5,000",0,Chrome Windshield Frame ,8742
+1371,1995,Porsche,Porsche 993 911,"$80,000",92000,3.6-Liter Flat-Six,78620
+1372,1974,Laverda,70s,"$17,500",0,744cc SOHC Parallel Twin ,95138
+1373,1967,Shelby,ord,"$295,000",7000,428ci Police Interceptor V8,54003
+1374,1976,Ford,Ford Torino,"$16,851",5000,351ci Windsor V8,34982
+1375,2003,Ferrari,Ferrari 575M,"$96,500",23000,5.7L Quad-Cam V12 ,2062
+1376,1973,BMW,BMW E9 Coupe,"$92,000",0,Fuel-Injected 3.0L Inline-Six,97227
+1377,2009,Mercedes-Benz,Mercedes-Benz M-Class,"$25,500",77000,6.2-Liter V8,33314
+1378,2008,000s,nAmerican,"$65,500",0,Twin-Turbocharged 3.0-Liter Duratec V6,27613
+1379,1981,Toyota,Toyota Land Cruiser FJ43,"$46,000",0,Imported From Colombia ,33331
+1380,1958,Berkeley,50s,"$29,000",99000,Liquid-Cooled 498cc Parallel Twin,28273
+1381,1967,Ford,Ford Mustang 1967-1968,"$25,750",51000,289ci V8,95409
+1382,1999,Porsche,Porsche 996 911,"$35,498",26000,3.4-Liter Flat-Six,19010
+1383,2002,Mini,Mini Modern,"$20,000",9000,Supercharged 1.6-Liter Inline-Four,27501
+1384,1985,Toyota,Toyota AE86,"$16,900",215000,Supercharged 1.6L 4A-GZE Inline-Four,98003
+1385,1994,Buick,Buick Roadmaster,"$16,750",79000,5.7-Liter LT1 V8,74016
+1386,2014,Ducati,10s,"$47,000",0,25 Miiles,33966
+1387,1992,Porsche,Porsche 964 Turbo,"$211,000",0,91k Kilometers (~57k Miles) Shown,10560
+1388,1987,Porsche,Porsche 959,"$2,026,959",0,"2,849cc M959/50 Quad-Cam Flat-Six",92126
+1389,2004,BMW,BMW E46 3-Series Convertible,"$15,500",52000,3.0-Liter Inline-Six,68847
+1390,1951,Chevrolet,50s,"$63,550",74000,Replacement 350ci V8,33142
+1391,1971,Jaguar,Jaguar XKE Series III,"$85,100",14000,5.3-Liter V12,19711
+1392,1916,910s,nAmerican,"$12,250",0,186ci Inline-Four,95624
+1393,2006,Dodge,00s,"$26,000",35000,Supercharged 6.1-Liter Hemi V8,89123
+1394,1948,940s,nAmerican,"$42,250",2000,74ci V-Twin,94010
+1395,2022,GMC,GMC Hummer EV,"$175,000",0,Edition 1 Package,89523
+1396,2022,inGerman,oryParts,"$4,200",0,"Two 18x8.5"" Wheels w/ +35mm Offset",94117
+1397,1995,Audi,Audi RS2,"$103,000",0,Turbocharged 2.2-Liter Inline-Five,33166
+1398,2000,Mazda,Mazda Miata,"$27,000",30000,5.7-Liter LS1 V8,2360
+1399,1984,Nissan,80s,"$12,250",156000,2.4-Liter Z24 Inline-Four,22936
+1400,1974,Porsche,Porsche 914,"$34,000",28000,1.8-Liter Flat-Four,29926
+1401,1993,Mazda,Mazda RX-7 FD,"$62,500",29000,Twin-Turbocharged 1.3L Wankel Rotary ,75040
+1402,1993,Ferrari,Ferrari F40,"$3,300",0,Five-Spoke Design,77373
+1403,1992,Ferrari,Ferrari F40,"$2,440,444",0,Mid-Mounted 2.9L Quad-Cam V8,92126
+1404,1976,BMW,BMW Motorcycles,"$9,992",0,898cc Opposed Twin,95129
+1405,2013,Ford,Ford Mustang S197 2005-2014,"$44,000",7000,5.0-Liter V8,33193
+1406,1999,Porsche,Porsche 996 911,"$27,996",62000,3.4-Liter Flat-Six,19010
+1407,1982,Toyota,Toyota Supra,"$7,700",35000,Fuel-Injected 2.8L Inline-Six,32207
+1408,2002,Ford,Ford Saleen,"$40,000",10000,Supercharged 4.6-Liter V8,48301
+1409,1982,Datsun,Datsun 280ZX,"$20,500",68000,Turbocharged 2.8L Inline-Six,32207
+1410,1969,Honda,Honda Motorcycles,"$25,000",30000,736cc SOHC Inline-Four,40218
+1411,2014,Porsche,Porsche 991 911,"$88,250",39000,3.8-Liter Flat-Six,33312
+1412,2020,Ford,Ford Mustang S550,"$74,500",15000,5.2-Liter Voodoo V8,89012
+1413,2006,Nissan,Nissan 350Z,"$20,250",17000,3.5-Liter V6,49457
+1414,1961,Volvo,Volvo PV444 and PV544,"$8,000",0,Replacement B20 Inline-Four,98671
+1415,1957,Porsche,Porsche 356,"$197,000",45000,1.6-Liter Flat-Four ,70517
+1416,1968,Porsche,Porsche 912,"$51,222",0,90k Miles Shown,98229
+1417,1999,Toyota,Toyota Pickup,"$16,900",67000,2.7-Liter Inline-Four,57702
+1418,1976,Chevrolet,Chevrolet Pickup,"$10,750",34000,350ci V8,66502
+1419,1976,Lincoln,Lincoln Continental,"$16,250",29000,460ci V8,29588
+1420,1990,Chevrolet,Chevrolet Corvette C4,"$20,000",18000,5.7-Liter L98 V8,11758
+1421,1990,Porsche,Porsche 356 Speedster Replica,"$62,000",442000,"2,332cc Air-Cooled Flat-Four",92806
+1422,1931,930s,nAmerican,"$45,000",0,"79 Miles Shown, TMU",80123
+1423,1987,Maserati,Maserati Coupe & Spyder,"$16,250",0,One-Owner Example,53147
+1424,2008,BMW,BMW E92/E93 3-Series Coupe & Convertible,"$13,500",79000,3.0-Liter Inline-Six,49343
+1425,1966,Ford,Ford Mustang 1964.5-1966,"$45,750",51000,351ci Windsor V8,30028
+1426,1966,Porsche,Porsche 356,"$10,600",0,Four Double-Open-Ended Hazet 450 Wrenches,95060
+1427,1985,Yamaha,80s,"$8,300",8000,"Liquid-Cooled 1,198cc DOHC V-Four",54944
+1428,1974,Ford,Ford Bronco U13/U14/U15 1966-1977,"$105,000",44000,302ci V8,65810
+1429,1952,BSA,50s,"$6,100",0,249cc Four-Stroke Single,3781
+1430,1997,BMW,BMW E36 M3,"$17,006",107000,3.2-Liter S52 Inline-Six,11201
+1431,1979,Triumph,Triumph Wedge,"$7,500",29000,2.0-Liter Inline-Four,85283
+1432,2005,Lotus,Lotus Elise,"$48,750",22000,1.8-Liter Inline-Four,1887
+1433,2005,Maserati,Maserati Coupe & Spyder,"$16,500",38000,4.2-Liter V8,53403
+1434,2018,Dodge,Dodge Challenger,"$151,000",0,Supercharged 6.2-Liter Hemi V8,92618
+1435,2005,Mazda,Mazda Miata,"$14,250",49000,Turbocharged 1.8-Liter Inline-Four,92618
+1436,2008,Porsche,Porsche 997 Turbo,"$69,500",26000,Twin-Turbocharged 3.6L Flat-Six,32771
+1437,2005,Jeep,Jeep Wrangler,"$27,000",0,4.0-Liter Inline-Six,6426
+1438,2003,Toyota,Toyota Land Cruiser 100-Series,"$39,000",78000,4.7-Liter 2UZ-FE V8,34996
+1439,2003,,,"$7,338",0,Double-Sided,6488
+1440,1993,Jeep,Jeep Wrangler,"$15,800",123000,4.0-Liter Inline-Six,2642
+1441,1995,Land Rover,Land Rover Defender 90 NAS,"$63,000",102000,3.9-liter V8,37205
+1442,2022,Chevrolet,Chevrolet Corvette C8,"$109,000",30000,IMSA GTLM C8.R Championship Edition,91362
+1443,2003,Mercedes-Benz,Mercedes-Benz AMG,"$23,777",52000,Supercharged 5.4-Liter V8 ,95212
+1444,1966,Ford,Ford Mustang 1964.5-1966,"$17,750",19000,200ci Inline-Six,23113
+1445,1966,Shelby,Shelby Cobra Replica,"$63,666",10000,460ci V8 ,23834
+1446,1976,Triumph,Triumph TR6,"$20,500",50000,2.5-Liter Inline-Six,92020
+1447,2004,Land Rover,Land Rover Discovery,"$36,000",65000,Rebuilt 4.6-liter V8,33308
+1448,1973,Dodge,Dodge Charger,"$15,750",49000,318ci V8,24551
+1449,1979,Ferrari,Ferrari 308 GT4,"$60,000",39000,3.2-Liter V8,98052
+1450,1966,Cadillac,Cadillac Series 75/Fleetwood,"$13,250",73000,429ci V8,21532
+1451,1987,Porsche,Porsche 944,"$10,944",78000,2.5-Liter Inline-Four,78628
+1452,1987,Ford,Ford Hot Rod,"$29,000",34000,255ci Flathead V8,23451
+1453,1970,Pontiac,Pontiac Tempest / LeMans,"$21,999",1000,350ci V8,54220
+1454,2000,Ford,Ford Mustang SN95 1994-2004,"$117,000",0,5.4-Liter DOCH V8,1505
+1455,1964,Jeep,Jeep CJ-5,"$28,500",45000,134ci Inline-Four,81416
+1456,1967,Jaguar,Jaguar XKE Series I,"$390,000",24000,4.2-Liter Inline-Six,14580
+1457,1985,Ferrari,Ferrari 308,"$85,000",20000,2.9-Liter 32-Valve V8,18055
+1458,1970,Dodge,Dodge Challenger,"$46,750",16000,Hemi V8 Crate Engine,60185
+1459,1986,Chevrolet,Chevrolet Camaro 3rd Generation 1982-1992,"$9,300",85000,5.0-Liter V8 ,20837
+1460,1970,Datsun,Datsun 510,"$38,500",38000,3.0L VG30E V6,92128
+1461,2008,Land Rover,Land Rover Range Rover L322,"$32,000",31000,Supercharged 4.2-Liter V8,7074
+1462,2008,Porsche,Porsche 987 Cayman,"$32,300",0,59k Miles,14610
+1463,1973,BMW,BMW Motorcycles,"$4,000",8000,745cc Opposed Twin,98236
+1464,1957,Oldsmobile,50s,"$35,500",93000,Replacement 502ci V8,28613
+1465,2002,BMW,BMW Z3 M Coupe,"$55,000",39000,3.2-Liter Inline-Six,92663
+1466,2018,Porsche,Porsche 911 GT3,"$198,502",0,4.0-Liter Flat-Six,6410
+1467,2008,Mercedes-Benz,Mercedes-Benz W211 E-Class,"$29,000",13000,3.5-Liter V6,84790
+1468,2007,Ford,Ford Shelby Mustang,"$56,000",30000,Supercharged 5.4-Liter V8,40014
+1469,1971,Buick,70s,"$19,750",48000,455ci V8 ,98466
+1470,1974,Norton,70s,"$11,000",5000,828cc Parallel Twin,66604
+1471,1965,Morgan,Morgan Plus 4,"$45,162",70000,"2,138cc Inline-Four",31302
+1472,1998,Porsche,Porsche 993 911,"$67,000",41000,3.6-Liter Flat-Six,95220
+1473,2020,Mercedes-Benz,Mercedes-Benz Gelandewagen,"$240,000",8000,Twin-Turbocharged 4.0-Liter V8,75006
+1474,1963,Chevrolet,Chevrolet Corvette C2,"$160,000",92000,327ci V8,40356
+1475,1954,MG,MG TF,"$39,000",46000,"1,500cc XPEG Inline-Four",95476
+1476,1994,Ford,Ford Bronco 4th-5th Generations 1987-1996,"$16,250",129000,5.8-Liter V8,2186
+1477,1967,Chevrolet,Chevrolet Impala,"$45,500",5000,396ci L35 V8,6795
+1478,2007,Porsche,Porsche 911 GT3,"$235,000",5000,3.6-Liter Flat Six,97227
+1479,1959,Buick,50s,"$65,251",66000,364ci Wildcat V8,27517
+1480,2001,BMW,BMW 7-Series,"$27,000",67000,4.4-Liter V8 ,90650
+1481,2001,Plymouth,Plymouth Barracuda,"$32,250",0,TMU,55356
+1482,1995,Fiat,90s,"$15,000",0,Turbocharged 2.0-Liter 16V Inline-Four,15106
+1483,1960,BMW,BMW Motorcycles,"$16,805",63000,594cc Opposed Twin,94404
+1484,2005,Mercedes-Benz,Mercedes-Benz AMG,"$37,000",52000,Supercharged 5.4-Liter V8,90025
+1485,1973,Chevrolet,Chevrolet El Camino,"$18,250",55000,5.7-liter Vortec V8 ,6810
+1486,1999,BMW,BMW E36 M3,"$28,500",179000,Supercharged 3.2-Liter Inline-Six,22102
+1487,2002,BMW,BMW 2002,"$19,783",30000,2.0-Liter M10 Inline-Four,22309
+1488,2017,McLaren,McLaren Sports Series,"$147,000",15000,Twin-Turbocharged 3.8-Liter V8,91367
+1489,1993,Nissan,Nissan 300ZX,"$45,500",40000,Twin-Turbocharged 3.0-Liter V6,91711
+1490,1972,MG,MG MGB,"$7,300",0,1.8-Liter Inline-Four,49401
+1491,2018,Ducati,10s,"$15,500",9000,"1,079cc Desmodromic L-Twin",90814
+1492,1991,Nissan,Nissan Figaro,"$21,000",0,Turbocharged 987cc Inline-Four,95124
+1493,3100,Chevrolet,Chevrolet Pickup,"$26,500",92000,216ci Inline-Six,32401
+1494,1966,960s,nItalian,"$61,500",15000,"1,481cc Fiat OHV Inline-Four",61759
+1495,1974,Ford,Ford Torino,"$9,750",32000,351ci V8,95356
+1496,1991,GMC,GMC Syclone,"$80,000",18000,Turbocharged 4.3-Liter V6,1929
+1497,2008,Ducati,00s,"$55,000",0,939 Miles,33966
+1498,2006,Hummer,Hummer H1,"$162,000",58000,6.6-Liter Turbodiesel V8,75201
+1499,1996,Ferrari,Ferrari F355,"$133,000",15000,3.5-liter DOHC V8,12534
+1500,1971,Jaguar,Jaguar XKE Series II,"$16,500",49000,5.3-Liter V12,94530
+1501,2007,Jeep,Jeep Grand Cherokee,"$25,356",57000,Five-Speed Automatic Transmission ,97227
+1502,1995,Mercedes-Benz,Mercedes-Benz 500E & E500,"$46,000",91000,5.0-Liter M119 DOHC V8,2152
+1503,1957,MG,MG MGA,"$22,000",5000,Modified 1.8L Inline-Four,11937
+1504,1997,Chevrolet,Chevrolet Suburban,"$28,000",123000,7.4-Liter Vortec V8,83835
+1505,1983,Suzuki,80s,"$2,850",25000,673cc DOHC Inline-Four,54944
+1506,1990,Ferrari,Ferrari Mondial,"$44,000",62000,Long-Term Ownership,60610
+1507,1962,Ford,Ford Falcon,"$5,600",45000,144ci Inline-Six,20837
+1508,1979,Ford,Ford Bronco 2nd Generation 1978-1979,"$22,290",87000,400ci V8,2351
+1509,1966,Volkswagen,Volkswagen Beetle,"$19,500",985000,1.6-Liter Flat-Four,95620
+1510,2008,Porsche,Porsche 997 911,"$49,911",32000,3.8-Liter Flat-Six,85226
+1511,2004,Pontiac,Pontiac GTO,"$22,750",0,5.7-Liter LS1 V8,21163
+1512,1969,Chevrolet,Chevrolet Chevelle,"$20,000",18000,45-Years-Family-Owned,92223
+1513,2021,Mercedes-Benz,Mercedes-Benz E55 & E63 AMG Wagon,"$129,950",30000,Twin-Turbocharged 4.0-Liter V8,98248
+1514,1992,Chevrolet,Chevrolet Corvette C4,"$47,250",51000,383ci Stroker V8 ,97227
+1515,1973,Volkswagen,Volkswagen Bus,"$23,250",0,"1,500cc Flat-Four ",33966
+1516,2004,Ford,Ford Mustang SN95 1994-2004,"$29,750",21000,Supercharged 4.6-Liter V8,38002
+1517,2003,Lexus,Lexus LX SUV,"$20,000",262000,4.7-Liter V8,77019
+1518,1968,960s,oryBoats,"$10,011",0,Total Run Time Unknown,98023
+1519,1993,BMW,BMW E34 M5,"$60,000",137000,3.8-Liter S38 Inline-Six,92056
+1520,1950,International Harvester,50s,"$50,555",33000,302ci V8,98363
+1521,2000,Alfa Romeo,Alfa Romeo 105/115 Series Spider,"$17,378",12000,Fuel-Injected 2.0L Inline-Four,92007
+1522,2000,Alfa Romeo,Alfa Romeo 105/115 Series Coupe,"$43,750",36000,Twin-Cam 2.0L Inline-Four,92612
+1523,1975,BMW,BMW Motorcycles,"$7,600",3000,898cc Air-Cooled Opposed Twin,28739
+1524,1993,990s,oryTruck & 4x4,"$29,000",0,Imported From Spain ,2360
+1525,1994,Toyota,Toyota SW20 MR2,"$26,500",68000,2.2-Liter Inline-Four,84118
+1526,1995,Nissan,Nissan 300ZX,"$81,000",0,36k Miles Shown,92612
+1527,2001,BMW,BMW Z3 M Roadster,"$32,000",36000,3.2-Liter S54 Inline-Six,22180
+1528,1982,Cadillac,80s,"$13,500",82000,5.7-Liter LF9DX Diesel V8,38104
+1529,1978,Chevrolet,Chevrolet Corvette C3,"$22,000",14000,350ci L48 V8,44011
+1530,1951,Studebaker,Studebaker Pickup,"$14,000",46000,245ci Inline-Six,71459
+1531,1951,Volkswagen,Volkswagen Beetle,"$35,521",0,1.6-Liter Flat-Four,53089
+1532,2017,Ferrari,Ferrari California,"$160,400",14000,Twin-Turbocharged 3.9-Liter V8 ,94404
+1533,1959,Volkswagen,Volkswagen Beetle,"$48,000",24000,"1,192cc Flat-Four",97227
+1534,2002,Porsche,Porsche 986 Boxster,"$20,000",14000,Replacement 2.7-Liter Flat-Six,91030
+1535,1957,Chevrolet,Chevrolet Corvette C1,"$105,000",10000,283ci V8,22556
+1536,1974,Volkswagen,Volkswagen Thing,"$19,000",0,1.6-Liter Flat-Four,98686
+1537,1978,International Harvester,International Harvester Scout,"$23,000",27000,3.2-Liter Diesel Inline-Six,17331
+1538,1995,BMW,BMW E36 3-Series,"$8,200",95000,2.5-Liter M50 Inline-Six,92115
+1539,1999,Acura,Acura NSX NA1/NA2,"$130,000",23000,3.2-Liter V6,29910
+1540,1993,Mazda,Mazda RX-7 FD,"$40,000",84000,Twin-Turbocharged 1.3-Liter Rotary,27606
+1541,1941,Chrysler,40s,"$13,200",78000,241.5ci Inline-Six,98270
+1542,2001,BMW,BMW Z3,"$16,010",88000,2.5-Liter Inline-Six,10560
+1543,1984,Fiat,Fiat X1/9,"$19,000",62000,1.5-Liter Inline-Four,46220
+1544,2006,BMW,BMW E60 M5,"$16,750",70000,5.0-Liter S85 V10,90046
+1545,2002,Lexus,Lexus LS Sedan,"$20,400",59000,4.3-Liter V8,85225
+1546,1987,Buick,Buick Grand National,"$66,500",0,Turbocharged 3.8-Liter V6,20197
+1547,1962,Volkswagen,Volkswagen Karmann Ghia,"$30,000",96000,Replacement Air-Cooled 1.3L Flat-Four,97504
+1548,2006,Mercedes-Benz,00s,"$30,000",30000,3.2-Liter Turbodiesel Inline-Six,19010
+1549,2006,Porsche,Porsche 997 911,"$45,500",24000,3.6-Liter Flat-Six,28273
+1550,2011,Cadillac,Cadillac CTS-V,"$48,000",0,6.2-Liter Supercharged V8,8721
+1551,2004,BMW,BMW E46 330 ZHP,"$17,700",66000,3.0-Liter M54 Inline-Six,95014
+1552,2000,Mercedes-Benz,Mercedes-Benz R129 SL,"$17,250",34000,5.0-Liter V8,12302
+1553,1970,Triumph,Triumph Motorcycles,"$6,100",7000,649cc Parallel Twin,12302
+1554,1940,Ford,Ford Hot Rod,"$34,500",7000,5.7L LT1 V8,7821
+1555,2002,BMW,BMW E39 M5,"$30,500",65000,4.9-Liter V8,6877
+1556,1967,Sunbeam,Sunbeam Tiger,"$71,500",74000,260ci Ford V8 ,97227
+1557,2005,Porsche,Porsche 996 Turbo,"$65,000",26000,Twin-Turbocharged 3.6L Flat-Six,85253
+1558,1989,Ford,Ford Fox-Body Mustang,"$48,200",6000,5.0-Liter V8 ,55449
+1559,2009,Porsche,Porsche Cayenne,"$12,250",143000,3.6-Liter V6,33186
+1560,1975,Jeep,Jeep CJ-5,"$12,250",10000,304ci V8,93711
+1561,1994,GMC,GMC Pickup,"$14,000",69000,5.7-Liter V8,95131
+1562,1987,Porsche,Porsche 911 Carrera 3.2,"$49,250",86000,3.2-Liter Flat-Six,7711
+1563,2000,Ducati,00s,"$6,050",6000,904cc Desmodromic L-Twin,54944
+1564,1996,Mercedes-Benz,Mercedes-Benz W140 S-Class,"$11,250",76000,4.2-Liter V8,85225
+1565,1962,Chevrolet,Chevrolet Corvette C1,"$225,000",971000,6.2-Liter E-ROD LS3 V8,19382
+1566,1996,Dodge,Dodge Viper,"$126,000",829000,8.0-Liter V10,27587
+1567,1982,Chevrolet,Chevrolet Corvette C3,"$19,100",66000,350ci L83 V8,85234
+1568,1982,Factory Five,10s,"$67,000",27000,347ci V8,48706
+1569,1994,Toyota,Toyota Land Cruiser 80-Series,"$25,000",0,4.2-Liter Turbodiesel Inline-Six,55407
+1570,1980,Chevrolet,Chevrolet Camaro 2nd Generation 1970-1981,"$17,000",27000,350ci V8,60453
+1571,1980,Ford,Ford Hot Rod,"$18,000",0,2.4L Ecotec Inline-Four,87144
+1572,2001,Jaguar,Jaguar XJ,"$11,400",78000,4.0-Liter V8,60585
+1573,1993,Toyota,90s,"$25,000",0,Right-Hand Drive,92037
+1574,1993,Ferrari,Ferrari Testarossa,"$14,000",0,Holdall,23116
+1575,2005,Porsche,Porsche 997 911,"$40,250",116000,3.8-Liter Flat-Six,80908
+1576,1989,Ferrari,Ferrari Testarossa,"$155,000",0,4.9-Liter Flat-12,48420
+1577,1966,Chevrolet,Chevrolet Impala,"$14,646",99000,396ci V8,77402
+1578,1995,Mercedes-Benz,Mercedes-Benz W124 E-Class,"$24,000",104000,3.2-Liter M104 Inline-Six,7753
+1579,2020,Ford,Ford Mustang S550,"$106,000",0,Supercharged 5.2-Liter V8,93940
+1580,3500,Dodge,Dodge Pickup,"$17,500",73000,5.9-Liter Cummins Turbodiesel Inline-Six,84118
+1581,1972,Honda,Honda Motorcycles,"$4,700",0,49cc Four-Stroke Single,59808
+1582,1970,Plymouth,Plymouth Barracuda,"$55,500",91000,340ci V8,12110
+1583,1992,Toyota,90s,"$11,500",65000,3.0-Liter V6,34771
+1584,1972,Porsche,Porsche Longhood 911,"$107,991",75000,Modified 2.7-Liter Flat-Six,33993
+1585,1972,Shelby,Shelby Cobra Replica,"$33,777",152000,393ci V8,8060
+1586,1968,Cadillac,Cadillac Series 75/Fleetwood,"$31,750",94000,472ci V8,21532
+1587,1990,Mercedes-Benz,Mercedes-Benz C126,"$16,750",0,5.5-Liter V8,21532
+1588,2017,Jaguar,Jaguar F-Type,"$73,000",13000,Supercharged 5.0-Liter V8,15237
+1589,1999,Porsche,Porsche 996 911,"$27,500",125000,3.4-Liter Flat-Six,8902
+1590,1999,Ford,Ford Hot Rod,"$51,000",9000,5.3-Liter Jaguar V12 ,34997
+1591,1962,Pontiac,Pontiac Tempest / LeMans,"$19,000",7000,195ci Slant-Four,37931
+1592,2001,Subaru,00s,"$20,250",55000,3.0-Liter Flat-Six,34771
+1593,1999,BMW,BMW E36 M3,"$29,000",65000,3.2-Liter S52 Inline-Six,60062
+1594,1969,960s,nAmerican,"$7,000",35000,Chain Drive,53051
+1595,1999,Ferrari,Ferrari 550 Maranello,"$175,000",40000,5.5-Liter V12,19380
+1596,1953,Studebaker,50s,"$28,250",25000,232ci V8,13108
+1597,1971,Datsun,Datsun 510,"$19,510",63000,L18 1.8-Liter Inline-Four,90603
+1598,1969,Chevrolet,Chevrolet Camaro 1st Generation 1967-1969,"$36,000",47000,Replacement 355ci V8,92027
+1599,1967,Chevrolet,Chevrolet Corvette C2,"$81,000",96000,Replacement 327ci V8,77401
+1600,1978,Subaru,70s,"$3,500",64000,1.6-Liter Flat-Four,98382
+1601,1995,Ferrari,Ferrari 348,"$67,500",27000,3.4-Liter F119 V8,70122
+1602,2006,Mini,Mini Modern,"$31,750",45000,Supercharged 1.6-Liter Inline-Four,98021
+1603,2004,Ferrari,Ferrari 360,"$210,360",33000,3.6-Liter V8,93103
+1604,2005,Ferrari,Ferrari F430,"$188,000",21000,4.3-Liter V8,92106
+1605,1972,Ferrari,Ferrari 365 GTC/4,"$201,000",20000,4.4-Liter Colombo V12,33178
+1606,1991,Lamborghini,Lamborghini Diablo,"$255,000",0,5.7-Liter Quad-Cam V12 ,95132
+1607,2018,Porsche,Porsche 911 GT2,"$465,000",0,Twin-Turbocharged 3.8L Flat-Six,94063
+1608,1985,Honda,Honda ATV,"$9,500",0,Liquid-Cooled 246cc Two-Stroke Single,95816
+1609,1987,Porsche,Porsche 911 Carrera 3.2,"$103,000",86000,3.2-Liter Flat-Six,93013
+1610,1986,Toyota,Toyota Land Cruiser FJ45,"$42,250",0,4.2-Liter 2F Inline-Six,33166
+1611,1989,BMW,BMW E30 3-Series,"$10,250",116000,2.5-Liter M20 Inline-Six,91406
+1612,1985,Jeep,Jeep Grand Wagoneer,"$17,000",179000,258ci Inline-Six,52003
+1613,2013,Mini,Mini Modern,"$25,500",28000,Turbocharged 1.6-Liter Inline-Four,45202
+1614,1980,Porsche,Porsche 911SC,"$60,500",109000,RoW-Specification Coupe ,1772
+1615,1985,Saab,Saab 900,"$4,100",105000,Turbocharged 2.0-Liter Inline-Four,94539
+1616,2000,Porsche,Porsche 996 911,"$35,000",74000,3.4-Liter Flat-Six,70125
+1617,2006,Porsche,Porsche 997 911,"$53,411",35000,3.8-Liter Flat-Six,33458
+1618,2006,Shelby,Shelby Cobra Replica,"$51,095",0,4.6L V8,19026
+1619,2006,Jaguar,Jaguar XKR,"$19,500",72000,Supercharged 4.2-Liter V8,19026
+1620,2001,Jeep,Jeep Wrangler,"$22,000",92000,4.0-Liter Inline-Six,20111
+1621,1966,Chevrolet,Chevrolet Corvette C2,"$66,000",43000,327ci V8,2906
+1622,1970,Chevrolet,Chevrolet Pickup,"$16,750",59000,350ci V8,92335
+1623,2004,Honda,Honda S2000,"$30,999",54000,2.2-Liter VTEC Inline-Four,57783
+1624,1991,BMW,BMW E30 3-Series,"$25,000",73000,2.5-Liter Inline-Six,30052
+1625,1971,International Harvester,International Harvester Scout,"$25,750",87000,345ci V8,81506
+1626,1997,Honda,Honda Motorcycles,"$5,200",19000,"1,137cc DOHC Inline-Four",54944
+1627,2007,Mercedes-Benz,Mercedes-Benz W221 S-Class,"$36,500",49000,Twin-Turbocharged 6.0-Liter V12,53114
+1628,1966,Mercedes-Benz,Mercedes-Benz W113 SL,"$62,000",0,2.3-Liter M127 Inline-Six,27606
+1629,1966,Ferrari,Ferrari 488,"$231,000",0,Twin-Turbocharged 3.9-Liter V8,85260
+1630,2000,BMW,BMW E39 M5,"$25,000",96000,4.9-Liter S62 V8,60467
+1631,2007,BMW,BMW E63/E64 M6,"$31,250",42000,5.0-Liter V10,84790
+1632,2004,Volkswagen,00s,"$23,250",62000,6.0-Liter W12,13205
+1633,1993,Chevrolet,Chevrolet Corvette C4,"$29,000",46000,5.7-Liter V8,2837
+1634,1987,BMW,BMW E24 M6,"$28,250",92000,3.5-Liter Inline-Six,7604
+1635,1989,Land Rover,Land Rover 90 / Defender 90 (Euro Spec),"$37,500",0,2.5-liter Turbodiesel Inline-Four,10705
+1636,1963,Mercedes-Benz,Mercedes-Benz W111 Coupe & Cabriolet,"$95,600",53000,2.2-Liter Inline-Six ,97227
+1637,2006,Mercedes-Benz,Mercedes-Benz AMG,"$75,000",10000,Twin-Turbocharged 6.0-Liter M275 V12,75078
+1638,2006,Chevrolet,Chevrolet Corvette C6,"$48,000",10000,7.0-Lier LS7 V8,91390
+1639,1991,Land Rover,Land Rover Range Rover Classic,"$19,500",98000,3.9-Liter V8,18974
+1640,1999,Porsche,Porsche 986 Boxster,"$17,750",47000,2.5-Liter Flat-Six,7074
+1641,1979,Toyota,Toyota Land Cruiser FJ40,"$40,500",33000,4.2-Liter Inline-Six,7901
+1642,1987,Mercedes-Benz,Mercedes-Benz R107 SL,"$30,600",21000,5.5-Liter V8,6605
+1643,2013,Mercedes-Benz,Mercedes-Benz R231 SL,"$71,500",18000,Twin-Turbocharged 5.5-Liter V8,92887
+1644,2003,Chevrolet,Chevrolet Corvette C5,"$30,000",0,5.7-Liter LS1 V8,48152
+1645,2008,Porsche,Porsche Cayenne,"$30,000",118000,4.8-Liter V8,28217
+1646,2004,BMW,BMW E46 330 ZHP,"$9,999",115000,3.0-Liter Inline-Six,7074
+1647,1984,Mercedes-Benz,Mercedes-Benz R107 SL,"$13,500",56000,2.8-Liter M110 Inline-Six,7052
+1648,2013,BMW,BMW E90/E92/E93 M3,"$75,000",5000,4.0-Liter S65 V8,23964
+1649,2006,Porsche,Porsche 997 911,"$49,500",48000,3.8-Liter Flat-Six,29928
+1650,1978,Honda,Honda Motorcycles,"$5,000",22000,544cc SOHC Inline-Four,54944
+1651,1979,Land Rover,Land Rover Series 109,"$26,750",0,2.25-Liter Diesel Inline-Four,32119
+1652,2006,Mercedes-Benz,Mercedes-Benz AMG,"$41,750",37000,5.4-Liter V8,37924
+1653,1971,Norton,70s,"$8,800",4000,745cc Parallel Twin,35216
+1654,1971,Porsche,Porsche 944,"$15,750",51000,2.5-Liter Inline-Four,32084
+1655,2021,Ford,Ford Mustang S550,"$113,113",98000,Supercharged 5.2-Liter V8,30040
+1656,1968,Dodge,Dodge Charger,"$37,250",35000,318ci V8,68506
+1657,1977,Aston Martin,70s,"$64,000",0,"40k Miles Shown, TMU ",96003
+1658,2016,Porsche,Porsche 991 911,"$72,500",39000,3.8-Liter Flat-Six,10549
+1659,1970,Porsche,Porsche Longhood 911,"$95,000",21000,2.2L Flat-Six,85018
+1660,2000,BMW,BMW Z3 M Coupe,"$41,041",99000,3.2-Liter S52 Inline-Six,91423
+1661,2020,BMW,BMW M2,"$64,500",3000,Twin-Turbocharged 3.0-Liter S55 Inline-Six,1879
+1662,2007,Jaguar,Jaguar XK,"$23,500",10000,4.2-Liter V8,94558
+1663,1996,Toyota,Toyota Land Cruiser 80-Series,"$13,750",206000,Turbocharged 4.5L 1FZ-FE Inline-Six,74137
+1664,1967,Fiat,Fiat 850,"$10,000",0,843cc Inline-Four ,74137
+1665,2003,Chevrolet,Chevrolet Pickup,"$75,000",51000,6.6-Liter Duramax Turbodiesel V8,85260
+1666,1995,BMW,BMW E34 M5,"$46,444",0,$31k 2020-2022 Refurbishment by EAG,75036
+1667,1995,Porsche,Porsche 993 911,"$121,991",18000,3.6-Liter Flat-Six,32757
+1668,2019,Aston Martin,Aston Martin V8 Vantage,"$113,000",6000,Twin-Turbocharged 4.0-Liter V8,63005
+1669,2010,Chevrolet,Chevrolet Camaro 5th Generation 2010-2015,"$30,000",19000,Supercharged 6.2-Liter LS3 V8,7070
+1670,2017,Mercedes-Benz,Mercedes-Benz Gelandewagen,"$112,000",38000,Twin-Turbocharged 5.5-Liter V8,10560
+1671,1987,Porsche,Porsche 928,"$38,000",68000,5.0-Liter DOHC V8,95436
+1672,1995,GMC,GMC Pickup,"$16,000",120000,5.7-Liter V8,35645
+1673,1980,Ford,Ford Thunderbird,"$7,800",58000,4.2-Liter V8,29588
+1674,2017,Chevrolet,Chevrolet Corvette C7,"$80,500",0,6.2-Liter LT1 V8,48506
+1675,1978,Fiat,Fiat 124 Spider,"$3,000",32000,1.8-Liter Inline-Four,83660
+1676,1971,Lamborghini,Lamborghini Jarama,"$140,000",29000,3.9-Liter DOHC V12,92627
+1677,2001,Volkswagen,Volkswagen EuroVan,"$29,000",62000,2.8-Liter VR6,80905
+1678,2001,Ford,30s,"$99,999",399000,4.6-Liter Ford V8,48150
+1679,1981,Datsun,Datsun 280ZX,"$12,500",77000,Original Owner,95441
+1680,1987,Chevrolet,80s,"$44,000",6000,307ci V8,27606
+1681,2004,BMW,BMW E46 M3,"$57,000",18000,3.2-Liter S54 Inline-Six,90015
+1682,2020,Jeep,Jeep Pickup,"$72,000",13000,Supercharged 6.2-Liter Hellcat V8,28411
+1683,1986,Oldsmobile,Oldsmobile 4-4-2,"$15,500",84000,307ci V8,48189
+1684,2009,Porsche,Porsche 997 Turbo,"$114,000",7000,Twin-Turbocharged 3.6L Flat-Six,45429
+1685,2007,Ferrari,Ferrari 599 GTB & GTO,"$153,000",14000,6.0-Liter V12,92121
+1686,1964,Ford,Ford Falcon,"$45,500",37000,260ci V8,92121
+1687,1927,Locomobile,20s,"$50,000",58000,372ci L-Head Monobloc Inline-Six,54755
+1688,2020,Ford,Ford F-Series 2015-2020,"$90,000",8000,Supercharged 5.0-Liter V8,30157
+1689,1995,Land Rover,Land Rover 110 / Defender 110 (Euro Spec),"$54,000",511000,2.5-Liter Turbodiesel Inline-Four,80134
+1690,1950,Oldsmobile,Oldsmobile 88,"$66,500",719000,502ci V8,10504
+1691,1986,BMW,BMW Motorcycles,"$3,886",19000,797cc Opposed Twin,60007
+1692,1986,970s,nAmerican,"$3,450",224000,Torque Converter Transmission,16066
+1693,2019,Honda,Honda Civic,"$41,000",5000,Turbocharged 2.0-Liter Inline-Four,30060
+1694,1966,Dodge,Dodge Power Wagon,"$40,000",44000,318ci V8,92024
+1695,2002,Porsche,Porsche 996 Turbo,"$87,500",19000,Twin-turbocharged 3.6L Flat-Six,75234
+1696,1948,Mercury,40s,"$55,789",56000,239ci Flathead V8,95746
+1697,1964,Buick,60s,"$18,000",43000,401ci Wildcat 445 V8 ,95492
+1698,1977,Yamaha,70s,"$8,000",10000,398cc Two-Stroke Parallel Twin,53189
+1699,2008,Mercedes-Benz,Mercedes-Benz Gelandewagen,"$50,000",109000,5.0-Liter M113 V8,63005
+1700,1968,Chevrolet,Chevrolet Camaro 1st Generation 1967-1969,"$44,000",0,Replacement 383ci V8,1089
+1701,1967,Ford,Ford Mustang 1967-1968,"$14,250",4000,289ci V8,67037
+1702,1970,Chevrolet,Chevrolet Nova,"$30,250",24000,350ci V8,28739
+1703,1959,Cadillac,Cadillac Sixty Special,"$65,000",55000,390ci V8,78746
+1704,2018,Ferrari,Ferrari 488,"$241,000",17000,Twin-Turbocharged 3.9-Liter V8,23451
+1705,1972,BMW,BMW 2002tii,"$28,550",93000,2.0-Liter Inline-Four ,95682
+1706,1971,Volkswagen,Volkswagen Type 3,"$18,550",44000,Subaru 2.5-Liter Flat-Four,95377
+1707,1986,Porsche,Porsche 930 Turbo,"$122,000",33000,Turbocharged 3.3-Liter Flat-Six,73116
+1708,1967,Ferrari,Ferrari 330 GTC,"$515,000",96000,4.0-Liter Colombo V12,93103
+1709,1970,Ford,Ford Mustang 1969-1973,"$245,000",52000,429ci V8,60076
+1710,2019,McLaren,McLaren Ultimate Series,"$1,300,000",93000,Twin-Turbocharged 4.0-Liter V8 ,60076
+1711,1964,Triumph,Triumph TR4,"$37,000",20000,"2,138cc Inline-Four",22306
+1712,1966,Ford,Ford Mustang 1964.5-1966,"$20,000",55000,289ci V8,96150
+1713,1960,Chevrolet,Chevrolet Corvette C1,"$81,000",446000,Replacement 327ci V8,89012
+1714,1995,BMW,BMW Motorcycles,"$9,000",7000,980cc Opposed Twin,81435
+1715,1973,Mercedes-Benz,Mercedes-Benz W114 & W115,"$21,000",96000,2.8-Liter Inline-Six,94608
+1716,1974,Triumph,Triumph TR6,"$51,500",808000,2.5L Inline-Six,37209
+1717,2016,Ford,Ford Mustang S550,"$64,000",8000,5.2-Liter Voodoo V8,32128
+1718,1986,Mercedes-Benz,Mercedes-Benz R107 SL,"$26,250",56000,5.5-Liter V8,33496
+1719,2017,Porsche,Porsche 991 Turbo,"$170,000",20000,Twin-Turbocharged 3.8-Liter Flat-Six,46112
+1720,1977,Ford,Ford F-Series 1973-1979,"$20,500",51000,Replacement 460ci V8,10536
+1721,1979,Volkswagen,Volkswagen Beetle,"$20,000",78000,1.6-Liter Flat-Four,85260
+1722,1970,Triumph,Triumph Spitfire,"$15,750",68000,"1,296cc Inline-Four",92382
+1723,1973,Chevrolet,Chevrolet Camaro 2nd Generation 1970-1981,"$37,000",5000,6.0-Liter LS2 V8 ,58554
+1724,2011,Saab,Saab 9-3,"$12,250",92000,Turbocharged 2.0-Liter Inline-four,46142
+1725,1999,BMW,BMW Z3,"$14,003",114000,2.8-Liter Inline-Six,30005
+1726,1972,Maserati,Maserati Bora,"$162,890",0,4.7-Liter V8,33129
+1727,1980,kawasaki,80s,"$18,500",36000,"1,015cc DOHC Inline-Four",53027
+1728,1994,Ford,Ford F-Series 1992-1997,"$25,500",17000,4.9-Liter Inline-Six,15312
+1729,2006,Chrysler,00s,"$39,000",1000,6.1-Liter V8,18452
+1730,1990,Ford,Ford Bronco II,"$9,900",74000,2.8-Liter V6,35645
+1731,2005,Volkswagen,00s,"$16,100",90000,4.2L V8,34771
+1732,1967,Chevrolet,Chevrolet Chevelle,"$43,000",97000,396ci V8,18426
+1733,2003,Jaguar,Jaguar XJ,"$18,250",26000,4.0-Liter V8 ,7074
+1734,2005,Dodge,Dodge Ram SRT-10 Pickup,"$28,000",37000,8.3-Liter V10,89118
+1735,2001,Mercedes-Benz,Mercedes-Benz R129 SL,"$27,500",40000,5.0-Liter V8,92627
+1736,2007,Porsche,Porsche 987 Cayman,"$30,000",28000,3.4-Liter Flat-Six,54915
+1737,2008,Mitsubishi,Mitsubishi Lancer Evolution,"$21,750",22000,Turbocharged 2.0-Liter Inline-Four,98033
+1738,1967,Mercedes-Benz,Mercedes-Benz W113 SL,"$58,000",51000,2.5L Inline-Six,77079
+1739,1995,Saturn,90s,"$6,666",49000,1.9-Liter Inline-Four,85268
+1740,1961,Mercedes-Benz,Mercedes-Benz 190SL,"$89,501",75000,1.9L Inline-Four,77079
+1741,2006,Porsche,Porsche 997 911,"$40,000",52000,3.8-Liter Flat-Six,95237
+1742,1972,Ford,Ford F-Series 1967-1972,"$24,000",3000,460ci V8,93065
+1743,2005,Ferrari,Ferrari 612 Scaglietti,"$95,000",0,5.7-Liter V12 ,34104
+1744,1994,Land Rover,Land Rover Defender 90 NAS,"$66,000",105000,3.9-Liter V8,90274
+1745,1984,Porsche,Porsche 928,"$26,250",23000,Single-Family-Owned Example,20171
+1746,2007,Ferrari,Ferrari F430,"$145,000",9000,4.3-Liter V8,32259
+1747,1989,Ferrari,Ferrari 328,"$111,328",21000,3.2-Liter V8 ,92376
+1748,1978,Mercedes-Benz,Mercedes-Benz R107 SL,"$11,750",93000,4.5-Liter V8,20009
+1749,1995,Land Rover,Land Rover 90 / Defender 90 (Euro Spec),"$56,500",152000,Imported From UK ,2050
+1750,1987,Jeep,Jeep Grand Wagoneer,"$14,500",100000,360ci V8,24541
+1751,1988,BMW,BMW E30 3-Series,"$10,750",150000,2.5-Liter M20 Inline-Six,85286
+1752,2003,Land Rover,Land Rover Discovery,"$13,250",110000,4.6-Liter V8,95131
+1753,1968,Chevrolet,Chevrolet Corvair,"$9,400",45000,164ci Air-Cooled Flat-six,98058
+1754,1975,Honda,Honda Motorcycles,"$9,800",23000,736cc SOHC Inline-Four,32960
+1755,1969,Chevrolet,Chevrolet Camaro 1st Generation 1967-1969,"$88,500",523000,302ci V8,19047
+1756,2002,Porsche,Porsche 996 Turbo,"$57,069",48000,Twin-Turbocharged 3.6L Flat-Six,32223
+1757,2009,Porsche,Porsche Cayenne,"$29,000",65000,4.8-Liter V8,53114
+1758,1982,Mercedes-Benz,Mercedes-Benz R107 SL,"$11,750",77000,3.8-Liter V8,53114
+1759,2007,Mercedes-Benz,Mercedes-Benz R230 SL,"$34,500",25000,5.5-Liter V8,92262
+1760,2007,Porsche,Porsche 944 Turbo,"$3,910",0,Anodized Lips,92009
+1761,2007,Shelby,Shelby CSX Cobra Continuation,"$175,000",0,482ci V8,94066
+1762,1972,Volvo,Volvo P1800/1800,"$9,901",93000,Replacement 2.1L B21 Inline-Four,52101
+1763,1994,Nissan,Nissan 300ZX,"$13,500",70000,3.0-Liter V6,66006
+1764,1991,Mitsubishi,90s,"$19,000",52000,Turbocharged 2.0-Liter Inline-Four,85142
+1765,1959,MG,MG MGA,"$25,000",300000,Chevrolet 383ci Stroker V8,92646
+1766,2005,Mercedes-Benz,Mercedes-Benz W220 S-Class,"$18,250",40000,Twin-Turbocharged 5.5L V12,28741
+1767,2011,Porsche,Porsche 997 Turbo,"$138,000",0,Twin-Turbocharged 3.8L Flat-Six,52404
+1768,1996,Mazda,Mazda Miata,"$10,250",12000,1.8-Liter DOHC InLine-Four,1867
+1769,1996,inGerman,oryParts,"$4,000",0,"2@ 17""X8"" w/+20mm Offset",90601
+1770,1989,Porsche,Porsche 911 Carrera 3.2,"$55,500",114000,3.2-Liter Flat-Six,97227
+1771,2009,Pontiac,Pontiac Solstice & Saturn Sky,"$27,750",10000,Turbocharged 2.0-Liter Inline-Four,16229
+1772,2002,Porsche,Porsche 996 911,"$27,000",95000,3.6-Liter Flat-Six,95628
+1773,2011,Porsche,Porsche 911 GT3,"$195,000",0,8k Miles,33614
+1774,1960,Volkswagen,Volkswagen Beetle,"$19,000",97000,Rebuilt 1.2-Liter Flat-Four,95482
+1775,1973,Ford,Ford Mustang 1969-1973,"$15,600",45000,351ci V8,60191
+1776,1973,Toyota,Toyota Land Cruiser FJ40,"$40,000",44000,3.9-Liter F155 Inline-Six,28677
+1777,1980,Mercedes-Benz,Mercedes-Benz W116 S-Class,"$23,000",58000,3.0-Liter Turbodiesel Inline-Five,34429
+1778,1975,Yamaha,70s,"$4,900",5000,123cc Two-Stroke Single,54944
+1779,1997,BMW,BMW E36 M3,"$28,750",119000,3.2-Liter S52 Inline-Six,15367
+1780,1967,Pontiac,Pontiac Catalina,"$17,500",25000,400ci V8,15367
+1781,2017,Porsche,Porsche 991 911,"$93,000",32000,Twin-Turbocharged 3.0L Flat-Six,32603
+1782,2021,Ferrari,Ferrari 812 Superfast & 812 GTS,"$675,000",0,6.5-Liter V12 ,90025
+1783,1979,Porsche,Porsche 911SC,"$90,500",0,3.1-Liter Flat-Six,8052
+1784,1928,Ford,Ford Model A,"$23,250",0,Rebuilt 201ci Inline-Four,17603
+1785,1928,inItalian,oryParts,"$1,500",0,+22mm Offset ,90250
+1786,1987,BMW,BMW E24 6-Series,"$14,150",20000,3.4-Liter Inline-Six,1810
+1787,1992,Cadillac,Cadillac DeVille,"$14,500",34000,4.9-Liter V8,29588
+1788,1989,Jaguar,Jaguar XJS,"$21,250",6000,5.3-Liter V12,6897
+1789,1967,Mercury,Mercury Cougar,"$19,000",46000,C-code 289ci V8,34429
+1790,2019,Chevrolet,Chevrolet Corvette C7,"$155,000",0,Supercharged 6.2-Liter LT5 V8,78734
+1791,1996,BMW,BMW E31 8-Series,"$71,000",27000,5.4-Liter V12,91316
+1792,2011,BMW,BMW 1M,"$75,000",21000,Twin-Turbocharged 3.0-Liter Inline-Six,32055
+1793,1961,960s,nAmerican,"$38,500",0,Twin Weber 45 DCOE Carburetors,94608
+1794,1992,GMC,GMC Typhoon,"$23,000",78000,Turbocharged 4.3-Liter V6,60194
+1795,1942,Diamond T,40s,"$43,250",0,Gas-Powered 386ci White 160AX Inline-Six ,46360
+1796,1963,Willys,60s,"$23,000",94000,350ci Chevrolet V8,95070
+1797,1955,Ford,Ford Thunderbird,"$32,750",98000,292ci V8,85260
+1798,1990,Porsche,Porsche 964 911,"$91,000",119000,3.6-Liter Flat-Six,92677
+1799,1972,Honda,Honda Motorcycles,"$3,800",3000,99cc Four-Stroke Single,54944
+1800,2015,Porsche,Porsche Cayenne,"$52,000",51000,3.0-Liter Turbodiesel V6,53114
+1801,1972,Alfa Romeo,Alfa Romeo 105/115 Series Coupe,"$42,750",0,1.6L Twin-Cam Inline-Four,53114
+1802,1988,Toyota,Toyota 4Runner,"$22,000",166000,Retrofitted 5VZ-FE 3.4L V6,90740
+1803,1987,Porsche,Porsche 911 Carrera 3.2,"$85,105",70000,3.2-Liter Flat-Six,75207
+1804,2006,Ford,Ford GT 1st Generation,"$500,500",650000,One-Owner Example ,90049
+1805,2019,Ford,Ford GT 2nd Generation,"$1,057,000",800000,Twin-Turbocharged 3.5L EcoBoost V6 ,94022
+1806,1974,Ferrari,Ferrari Dino,"$853,000",0,Refurbished 2017-2019,90210
+1807,1998,Mercedes-Benz,Mercedes-Benz W210 E-Class,"$8,500",143000,Turbodiesel 3.0-Liter Inline-Six,94903
+1808,1977,Porsche,Porsche 930 Turbo,"$86,411",56000,Turbocharged 3.2-Liter Flat-Six,10549
+1809,1974,Volkswagen,Volkswagen Bus,"$26,000",22000,1.7-Liter Flat-Four,92011
+1810,1963,International Harvester,International Harvester Scout,"$9,900",72000,Buick 225ci V6,81212
+1811,1993,Dodge,Dodge Pickup,"$30,250",85000,5.9L Cummins Turbodiesel Inline-Six,81223
+1812,2002,Porsche,Porsche 996 911,"$25,500",99000,Replacement 3.6-Liter Flat-Six,94043
+1813,1978,Pontiac,Pontiac Firebird,"$19,000",31000,400ci V8,54016
+1814,1969,MG,MG MGC,"$23,000",77000,2.9-Liter Inline-Six,11965
+1815,2021,Lexus,20s,"$175,000",0,128 Miles,19807
+1816,1978,Mercedes-Benz,Mercedes-Benz R107 SL,"$12,750",161000,4.5-Liter V8,91107
+1817,1972,Rolls-Royce,Rolls-Royce SY Silver Shadow & Silver Wraith II,"$37,000",65000,6.75-Liter V8,34212
+1818,1971,Volkswagen,Volkswagen Karmann Ghia,"$17,000",13000,1.5-Liter Flat-Four,80123
+1819,1981,Land Rover,Land Rover Series 88,"$36,000",0,2.25-Liter Diesel Inline-Four,22205
+1820,1990,Porsche,Porsche 964 911,"$67,000",29000,3.6-Liter Flat-Six,80433
+1821,2006,Mercedes-Benz,00s,"$19,750",53000,5.0-Liter M113 V8,12590
+1822,2002,Pontiac,Pontiac Firebird,"$45,500",825000,5.7-Liter LS1 V8,46797
+1823,1997,Land Rover,Land Rover Defender 90 NAS,"$75,000",0,80k Miles,28730
+1824,1980,Mercedes-Benz,Mercedes-Benz W123,"$4,200",325000,3.0-Liter Diesel Inline-Five,81301
+1825,1991,Acura,Acura NSX NA1/NA2,"$64,500",88000,3.0-Liter V6,83616
+1826,1999,Mazda,Mazda Miata,"$10,750",10000,32k Miles Shown,83616
+1827,1964,Porsche,Porsche 356,"$87,001",98000,Replacement 1.7L Flat-Four,98273
+1828,2014,Porsche,Porsche 991 Turbo,"$122,000",28000,Twin-Turbocharged 3.8L Flat-Six,97034
+1829,2000,Ferrari,Ferrari 360,"$75,000",37000,3.6-Liter DOHC V8,97034
+1830,1955,Chevrolet,Chevrolet Tri-5,"$32,109",14000,350ci V8,97224
+1831,2014,Jeep,Jeep Wrangler,"$33,500",77000,3.6-Liter V6,92129
+1832,2013,Chevrolet,Chevrolet Corvette C6,"$48,750",31000,7.0-Liter LS7 V8,33625
+1833,2001,Porsche,Porsche 996 Turbo,"$53,996",41000,Twin-Turbocharged 3.6L Flat-Six,91343
+1834,2009,Porsche,Porsche 997 911,"$64,900",23000,3.8-Liter Flat-Six,31405
+1835,2002,BMW,BMW E46 M3,"$30,500",56000,3.2-Liter S54 Inline-Six,30004
+1836,1987,Mercedes-Benz,Mercedes-Benz R107 SL,"$27,000",70000,5.5-Liter V8,92677
+1837,2018,Porsche,Porsche 991 Turbo,"$285,000",0,620 Miles,77378
+1838,2020,Chevrolet,Chevrolet Corvette C8,"$81,500",6000,6.2-Liter LT2 V8,34990
+1839,1967,Chevrolet,Chevrolet Camaro 1st Generation 1967-1969,"$39,750",43000,350ci V8,80924
+1840,1994,Ford,Ford Mustang SN95 1994-2004,"$9,800",66000,5.0-Liter V8,32224
+1841,1957,Chevrolet,Chevrolet Corvette C1,"$60,000",14000,283ci V8,90046
+1842,1975,Porsche,Porsche 914,"$25,500",86000,1.8L Flat-Four,93940
+1843,1977,Ford,Ford F-Series 1973-1979,"$9,500",31000,400ci V8,55407
+1844,2005,Ford,Ford Thunderbird,"$32,550",0,"#445 of 1,500 50th Anniversary Cars",98273
+1845,1995,Porsche,Porsche 993 911,"$84,993",75000,3.6-Liter Flat-Six,73012
+1846,2022,Ford,Ford U725 Bronco,"$58,000",3000,Turbocharged 2.3-Liter EcoBoost Inline-Four,97504
+1847,2020,Dodge,Dodge Challenger,"$130,000",0,Supercharged 6.2-Liter V-8,29588
+1848,1960,Jaguar,Jaguar XK150,"$50,000",65000,3.8-Liter Inline-Six,92014
+1849,2009,Chevrolet,Chevrolet Corvette C6,"$66,000",10000,Supercharged 6.2-Liter LS9 V8,7604
+1850,2015,Ford,Ford Mustang S550,"$36,500",6000,Roush Supercharged 5.0-Liter V8,7739
+1851,1977,Honda,Honda Motorcycles,"$3,100",800000,173cc SOHC Four-Stroke Single,7739
+1852,2008,BMW,BMW E60 M5,"$127,500",10000,5.0-Liter V10,2896
+1853,2008,BMW,BMW E90/E92/E93 M3,"$31,000",36000,4.0-Liter S65 V8,19807
+1854,1966,Ford,Ford Bronco U13/U14/U15 1966-1977,"$42,000",82000,170ci Inline-Six,93012
+1855,1980,Fiat,Fiat 124 Spider,"$12,575",50000,2.0-Liter Inline-Four,10013
+1856,1998,Bentley,Bentley SZ Coupe,"$61,000",0,Turbocharged 6.75L V8,90210
+1857,1952,Mercedes-Benz,50s,"$88,000",0,3.0-Liter M186 Inline-Six,91803
+1858,1996,Buick,Buick Roadmaster,"$10,805",26000,5.7-Liter V8,11740
+1859,1959,International Harvester,International Harvester Travelall,"$37,250",72000,240ci Inline-Six,19446
+1860,1988,BMW,BMW E30 3-Series,"$24,000",61000,2.7-Liter Inline-Six,94595
+1861,1988,Ford,Ford Hot Rod,"$34,000",21000,402ci Big-Block Chevrolet V8,48169
+1862,1983,Mercedes-Benz,Mercedes-Benz W123,"$7,300",293000,3.0-Liter Turbodiesel Inline-Five,19007
+1863,3100,Chevrolet,Chevrolet Pickup,"$28,000",0,350ci V8,29470
+1864,2000,Ford,Ford F-150 SVT Lightning,"$21,500",136000,Whipple-Supercharged 5.4-Liter V8,33325
+1865,2001,BMW,BMW E46 M3,"$25,000",128000,3.2-Liter Inline-Six,80501
+1866,1989,Toyota,Toyota Land Cruiser 60-Series,"$38,000",123000,4.0-Liter Inline-Six,94619
+1867,1962,Mercury,Mercury Comet,"$19,000",79000,Replacement 302ci V8,92590
+1868,1995,Porsche,Porsche 993 911,"$139,000",55000,3.6-Liter Flat-Six,92590
+1869,1956,Alfa Romeo,Alfa Romeo 750/101 Series Giulietta & Giulia,"$30,250",11000,1.3L Twin-Cam Inline-Four,44333
+1870,1988,Chevrolet,Chevrolet Camaro 3rd Generation 1982-1992,"$26,000",58000,5.0-Liter TPI V8,95060
+1871,2022,BMW,BMW F90 M5,"$162,500",0,Twin-Turbocharged 4.4-Liter V8,92694
+1872,2004,Audi,Audi TT,"$12,750",41000,Turbocharged 1.8-Liter Inline-Four,92276
+1873,1999,Dodge,Dodge Viper,"$37,000",47000,8.0-Liter V10,3868
+1874,1999,Shelby,Shelby Cobra Replica,"$34,000",21000,428ci FE Ford V8,35905
+1875,1999,Porsche,Porsche 356 Speedster Replica,"$29,533",155000,Turbocharged 2.0L Flat-Four,2771
+1876,1985,Jeep,Jeep CJ-7,"$20,050",218000,AMC 304ci V8 ,80524
+1877,1964,Pontiac,Pontiac GTO,"$44,250",68000,389ci V8,38237
+1878,1964,Jaguar,Jaguar Replica,"$150,000",0,4.2-Liter Inline-Six ,2879
+1879,1988,Volkswagen,Volkswagen Scirocco,"$15,600",203000,1.8-Liter Inline-Four,3057
+1880,1989,Porsche,Porsche 964 911,"$88,888",49000,3.6-Liter Flat-Six,85260
+1881,1983,Volkswagen,Volkswagen GTI Mk1,"$19,830",0,ABF 2.0-Liter 16v Inline-Four,35811
+1882,1957,Chevrolet,Chevrolet Tri-5,"$50,500",0,"30k Miles Shown, TMU",55303
+1883,1998,BMW,BMW Z3,"$28,000",0,1.9-Liter Inline-Four ,16601
+1884,1936,Bentley,Bentley 3.5 Litre & 4 1/4 Liter,"$105,000",0,"4,257cc OHV Inline-Six",48374
+1885,1936,Ford,Ford Hot Rod,"$44,584",2000,401ci V8,40502
+1886,2007,Jaguar,Jaguar XJ,"$17,000",45000,4.2-Liter V8 ,60025
+1887,1972,Chevrolet,Chevrolet Corvette C3,"$30,003",87000,350ci V8,8820
+1888,1972,Datsun,Datsun 240Z,"$22,777",71000,2.8-Liter L28 Inline-Six ,92610
+1889,1999,Porsche,Porsche 986 Boxster,"$13,750",65000,Supercharged 2.5-liter Flat-Six,75252
+1890,1965,International Harvester,International Harvester Scout,"$35,000",24000,152ci Inline-Four,50220
+1891,1990,BMW,BMW E30 3-Series,"$29,995",151000,2.5-Liter M20 InLine-Six,90027
+1892,1990,Nissan,Nissan Pathfinder,"$20,500",52000,3.0-Liter V6,98052
+1893,1959,Chevrolet,Chevrolet Corvette C1,"$63,500",71000,283ci V8,12067
+1894,1983,Jeep,Jeep CJ-7,"$26,900",103000,Replacement 360ci V8,29582
+1895,2010,Chevrolet,Chevrolet Corvette C6,"$93,500",0,Supercharged 6.2-Liter LS9 V8,92603
+1896,2007,Porsche,Porsche 997 911,"$48,500",39000,3.8-Liter Flat-Six,95746
+1897,1964,Chevrolet,Chevrolet Corvette C2,"$75,000",65000,327ci L76 V8,34990
+1898,2004,Porsche,Porsche 996 Turbo,"$60,700",38000,Twin-Turbocharged 3.6L Flat-Six,83686
+1899,2002,Ford,Ford Thunderbird,"$19,387",15000,3.9-Liter V8,28080
+1900,2003,Porsche,Porsche 996 911,"$44,996",49000,3.6-Liter Flat-Six,10504
+1901,2021,Ford,Ford U725 Bronco,"$75,500",1000,Twin-Turbocharged 2.7-Liter EcoBoost V6,55331
+1902,1999,Mercedes-Benz,Mercedes-Benz R129 SL,"$22,000",33000,5.0-Liter V8,10560
+1903,1987,Mercedes-Benz,Mercedes-Benz R107 SL,"$21,005",60000,5.5-Liter V8,28729
+1904,2000,BMW,BMW Z3,"$13,000",53000,2.5-Liter InLine-Six,1028
+1905,1970,Ford,Ford Mustang 1969-1973,"$72,000",0,Replacement 302ci V8,77354
+1906,2008,Mercedes-Benz,Mercedes-Benz W221 S-Class,"$30,000",49000,5.5-Liter V12,7074
+1907,2023,Chevrolet,Chevrolet Corvette C8,"$102,500",288000,6.2-Liter LT2 V8,33810
+1908,2000,Mazda,Mazda Miata,"$11,250",19000,1.8-Liter Inline-Four,61107
+1909,2007,Land Rover,Land Rover Range Rover L322,"$14,500",91000,Supercharged 4.2-Liter V8,90077
+1910,1966,Honda,Honda Motorcycles,"$10,000",28000,305cc SOHC Parallel Twin,55446
+1911,2016,Porsche,Porsche Cayman GT4,"$95,500",13000,3.8-Liter Flat-Six,34104
+1912,2003,Honda,Honda S2000,"$37,500",30000,2.0-Liter Inline-Four,85310
+1913,2011,BMW,BMW E90/E92/E93 M3,"$36,000",46000,Replacement 4.0-Liter V8,23226
+1914,2009,Porsche,Porsche 997 911,"$59,000",76000,3.8-Liter Flat-Six,48307
+1915,2001,Toyota,Toyota Pickup,"$13,000",148000,2.7-Liter DOHC Inline-Four,37922
+1916,1991,Chevrolet,Chevrolet Camaro 3rd Generation 1982-1992,"$21,250",35000,5.0-Liter V8,63021
+1917,1969,Oldsmobile,Oldsmobile 4-4-2,"$112,000",71000,400ci V8,77573
+1918,1969,Shelby,Shelby Cobra Replica,"$111,000",0,"3,400 Miles Shown",46225
