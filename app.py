@@ -3,8 +3,14 @@ import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
+<<<<<<< HEAD
 from flask import Flask, jsonify
 from sqlalchemy import inspect  
+=======
+from flask import Flask, jsonify, render_template
+from sqlalchemy import inspect 
+ 
+>>>>>>> 0672df78f6940ae81515dac18c258d403752f5ea
 
 
 #################################################
@@ -32,7 +38,11 @@ def home():
     return("test")
 
 @app.route("/get_data")
+<<<<<<< HEAD
 def names():
+=======
+def data():
+>>>>>>> 0672df78f6940ae81515dac18c258d403752f5ea
     session = Session(engine)
     
     results = session.query(new_table.year, new_table.make, new_table.model, new_table.final_price, new_table.mileage, new_table.engine, new_table.zipcode).all()
@@ -46,12 +56,26 @@ def names():
 
     session.close()    
 
+<<<<<<< HEAD
+=======
+# page route 
+@app.route("/data")
+def data_table():
+    
+
+    return render_template("data.html")
+
+    return("test")
+
+    
+>>>>>>> 0672df78f6940ae81515dac18c258d403752f5ea
 if __name__ == '__main__':
     app.run(debug=True)
 
 
 
 
+<<<<<<< HEAD
 
 
 # # # Save reference to the table
@@ -113,3 +137,5 @@ if __name__ == '__main__':
 
 # if __name__ == '__main__':
 #     app.run(debug=True)
+=======
+>>>>>>> 0672df78f6940ae81515dac18c258d403752f5ea
