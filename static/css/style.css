@@ -22,7 +22,7 @@
 }
 
 .nav-link {
-  background-color: black;
+  background-color: green;
   width: 300px;
   height: 50px;
   font-size: large;
@@ -49,15 +49,18 @@
 }
 
 .blue-title-center {
-  color: black;
+  color: white;
   font-weight: 600;
   font-family:Georgia, 'Times New Roman', Times, serif;
   text-align: center;
 }
 
 .container{
-  background-color: white;
+  background-color: black;
   padding: 10px;
+  width: 100%;
+  align-items: center;
+  align-content: center;
 }
 
 .container-fluid{
@@ -70,9 +73,11 @@
 .container-fluid-lower{
   background-color: darkblue;
   height: auto;
-
 }
 
-.nav-pills > .active > a, .nav-pills > .active > a:hover {
-  background-color: darkblue;
+.white-header {
+  color: white;
+  font-weight: 300;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
 }
