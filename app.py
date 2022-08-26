@@ -29,23 +29,28 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    print("test")
-    return("test")
+    return render_template('index.html')
+
+@app.route("/about")
+def about():
+    return render_template('about.html')
+
+@app.route("/graphs")
+def graphs():
+    return render_template('graphs.html')
 
 @app.route("/get_data")
 def data():
     session = Session(engine)
     
-    results = session.query(new_table.year, new_table.make, new_table.model, new_table.final_price, new_table.mileage, new_table.engine, new_table.zipcode).all()
+    results = session.query(new_table.year, new_table.make, new_table.model, new_table.final_price, new_table.mileage, new_table.engine, new_table.zipcode, new_table.engine_string).all()
 #  list of tuples, turning it a list of list to be jsonified
     results = [list(r) for r in results]
-    
-    print(results)
- 
-
+     
+    session.close() 
     return jsonify(results)
 
-    session.close()    
+   
 
 # page route 
 @app.route("/data")
@@ -55,6 +60,11 @@ def data_table():
     return render_template("data.html")
 
     return("test")
+
+@app.route("/search")
+def search():
+    return render_template('search.html')
+
 
     
 if __name__ == '__main__':
