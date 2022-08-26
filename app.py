@@ -3,9 +3,16 @@ import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
-from flask import Flask, jsonify, render_template
+import pickle
+from flask import (
+    Flask, 
+    jsonify, 
+    render_template, 
+    request, 
+    redirect)
 from sqlalchemy import inspect 
  
+
 
 
 #################################################
@@ -59,11 +66,47 @@ def data_table():
 
     return render_template("data.html")
 
-    return("test")
-
-@app.route("/search")
+@app.route("/search", methods=["POST"]) # the methods = ["POST"] causes this page to not work, but not sure why
 def search():
-    return render_template('search.html')
+
+    make = request.form["inputMake"]
+    if make == "":
+        make = 0
+    make = float(make)
+
+    engine = float(request.form["inputEngine"])
+    if engine == "":
+        engine = 5700
+    engine = float(engine)
+
+    year = float(request.form["inputYear"])
+    if year == "":
+        year = 2000
+    year = float(year)
+
+    mileage = float(request.form["inputMileage"])
+    if mileage == "":
+        mileage = 10000
+    mileage = float(mileage)
+
+    prediction = 0
+
+    X = [[make, engine, year, mileage]]
+
+    print(X)
+
+    filename = './Regressor_model.h5'
+    loaded_model = pickle.load(open(filename, 'rb'))
+
+    print(loaded_model.predict(X))
+
+    prediction = loaded_model.predict(X)[0][0]
+
+    prediction = "${0:,.2f}".format(prediction)
+
+    print(prediction)
+    
+    return render_template("search.html", prediction = prediction)
 
 
     
