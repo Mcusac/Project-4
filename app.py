@@ -63,35 +63,87 @@ def data():
 @app.route("/data")
 def data_table():
     
-
     return render_template("data.html")
 
-@app.route("/search", methods=["POST"]) # the methods = ["POST"] causes this page to not work, but not sure why
+@app.route("/search")
+def search_land():
+    
+    return render_template("search.html")
+
+@app.route("/search_input", methods = ["POST"])
 def search():
 
-    make = request.form["inputMake"]
-    if make == "":
-        make = 0
-    make = float(make)
-
-    engine = float(request.form["inputEngine"])
-    if engine == "":
-        engine = 5700
-    engine = float(engine)
-
     year = float(request.form["inputYear"])
-    if year == "":
-        year = 2000
-    year = float(year)
 
     mileage = float(request.form["inputMileage"])
-    if mileage == "":
-        mileage = 10000
-    mileage = float(mileage)
+
+    engine = float(request.form["inputEngine"])
+
+    make_BMW = 0
+    make_Chevrolet = 0
+    make_Ferrari = 0
+    make_Ford = 0
+    make_Honda = 0
+    make_Jaguar = 0
+    make_Jeep = 0
+    make_Land_Rover = 0
+    make_Mercedes_Benz = 0
+    make_Pontiac = 0
+    make_Porsche = 0
+    make_Toyota = 0
+    make_Volkswagen = 0
+    make_Other = 0
+
+    make = request.form["inputMake"]
+
+    if make == "BMW":
+        make_BMW = 1
+    elif make == "Chevrolet":
+        make_Chevrolet = 1
+    elif make == "Ferrari":
+        make_Ferrari = 1
+    elif make == "Ford":
+        make_Ford = 1
+    elif make == "Honda":
+        make_Honda = 1
+    elif make == "Jaguar":
+        make_Jaguar = 1
+    elif make == "Jeep":
+        make_Jeep = 1
+    elif make == "Land Rover":
+        make_Land_Rover = 1
+    elif make == "Mercedes-Benz":
+        make_Mercedes_Benz = 1
+    elif make == "Pontiac":
+        make_Pontiac = 1
+    elif make == "Ferrari":
+        make_Porsche = 1
+    elif make == "Toyota":
+        make_Toyota = 1
+    elif make == "Volkswagen":
+        make_Volkswagen = 1
+    elif make == "Other":
+        make_Other = 1
 
     prediction = 0
 
-    X = [[make, engine, year, mileage]]
+    X = [[year, 
+          mileage, 
+          engine,
+          make_BMW,
+          make_Chevrolet,
+          make_Ferrari,
+          make_Ford,
+          make_Honda,
+          make_Jaguar,
+          make_Jeep, 
+          make_Land_Rover,
+          make_Mercedes_Benz,
+          make_Pontiac,
+          make_Porsche,
+          make_Toyota,
+          make_Volkswagen,
+          make_Other]]
 
     print(X)
 
@@ -100,9 +152,7 @@ def search():
 
     print(loaded_model.predict(X))
 
-    prediction = loaded_model.predict(X)[0][0]
-
-    prediction = "${0:,.2f}".format(prediction)
+    prediction = loaded_model.predict(X)
 
     print(prediction)
     
