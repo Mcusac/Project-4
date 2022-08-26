@@ -49,14 +49,46 @@
 
             <div>
 
-                This is the about.html page.
+              <form method="POST" action="/model" role="form", name="carform">   
+                
+                <br><br>
+      
+                <div class="form-group">
+                    <h3 class="white-header" for="inputCarMake">Car Make</h3>
+                    <input type="text" class="form-control" id="inputCarMake" name="make" placeholder="">
+                </div>
                 <br>
+                <div class="form-group">
+                    <h3 class="white-header" for="inputCarModel">Car Model</h3>
+                    <input type="text" class="form-control" id="inputCarModel" name="model" placeholder="">
+                </div>
+      
                 <br>
-                On this page, we need to do the following:
+                <div class="form-group">
+                    <h3 class="white-header" for="inputYear">Year</h3>
+                    <input type="text" class="form-control" id="inputYear" name="year" placeholder="">
+                </div>
+
                 <br>
+                <div class="form-group">
+                    <h3 class="white-header" for="inputMileage">Mileage</h3>
+                    <input type="text" class="form-control" id="inputMileage" name="mileage" placeholder="">
+                </div>
+      
                 <br>
-                This is the page where the user will input parameters and based on the ML algorithm a price/output will be displayed.
-                <br>
+                <input type="submit" value="Submit" class="btn btn-primary">
+      
+              </form>
+
+              <div class="col-md-6">
+
+                {% if prediction %} 
+                  <div class="prediction">
+                    Your predicted price is: {{prediction}}
+                  </div>
+                {% endif %}
+        
+              </div>
 
             </div>
 
