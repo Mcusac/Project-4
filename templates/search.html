@@ -5,54 +5,66 @@
     <meta charset="UTF-8">
     <title>Project 4 Site</title>
 
+    
+
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
     
     <!-- JavaScript Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
-    
-    
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="../static/css/style.css">
+    
+    
 
 </head>
 
 
 <body>
-  <div class="container-fluid">
-    
-  </div>
-  <div class="container-fluid">
-    <a class="navbar-brand" href="">Antique Cars</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-  </div>
+  <nav class="navbar navbar-expand-lg bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand navsmall" href="home"> Car Auctions</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-  <div class="container-fluid">
-    <header class="d-flex justify-content-center py-3">
-      <ul class="nav nav-pills darkblue">
-        <li class="nav-item"><a href="search" class="nav-link active" aria-current="page">Search Antique Cars</a></li>
-        <li class="nav-item"><a href="graphs" class="nav-link">Visualizations</a></li>
-        <li class="nav-item"><a href="data" class="nav-link">Antique Car Database</a></li>
-        <li class="nav-item"><a href="about" class="nav-link">About</a></li>
-      </ul>
-    </header>
-  </div>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="search"> Search Cars</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="graphs"> Visualizations</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="data"> Data</a>
+          </li> 
+          
+          <li class="nav-item">
+            <a class="nav-link" href="about"> About</a>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </nav>
 
     <div class="container-fluid-lower">
       <div class="container">
         <hr>
-        <h1 class="blue-title-center"> Antique Car Price Calculator </h1>
+        <h1 class="blue-title-center"> Car Price Calculator </h1>
         <hr>
         <div class="row">
 
-            <div>
+            <div class = "col-md-12">
 
               <form method="POST" action="/search_input" role="form", name="carform">   
                 
                 <!-- drop down for Car Make -->
                 <h4 class="white-header" for="inputMake">Make</h4>
-                <select name="inputMake" id="inputMake">
+                <select class= "centdrop" name="inputMake" id="inputMake">
                   <option value="BMW">BMW</option>
                   <option value="Chevrolet">Chevrolet</option>
                   <option value="Ferrari">Ferrari</option>
@@ -74,7 +86,7 @@
 
                 <!-- drop down for Car Year -->
                 <h4 class="white-header" for="inputYear">Year</h4>
-                <select name="inputYear" id="inputYear">
+                <select class= "centdrop" name="inputYear" id="inputYear">
                   <option value="1920">1920</option> <option value="1921">1921</option> <option value="1922">1922</option> <option value="1923">1923</option>
                   <option value="1924">1924</option> <option value="1925">1925</option> <option value="1926">1926</option> <option value="1927">1927</option>
                   <option value="1928">1928</option> <option value="1929">1929</option>
@@ -111,54 +123,18 @@
                 <br>
                 <br>
 
+
                 <!-- drop down for Car Engine -->
-                <h4 class="white-header" for="inputEngine">Make</h4>
-                <select name="inputEngine" id="inputEngine">
-                  <option value="1000">1.0 Liter</option> <option value="1100">1.1 Liter</option> <option value="1400">1.4 Liter</option> <option value="1500">1.5 Liter</option>
-                  <option value="1600">1.6 Liter</option> <option value="1700">1.7 Liter</option> <option value="1800">1.8 Liter</option> <option value="1700">1.9 Liter</option>
-                  
-                  <option value="2000">2.0 Liter</option> <option value="2100">2.1 Liter</option> <option value="2200">2.2 Liter</option> <option value="2300">2.3 Liter</option>
-                  <option value="2400">2.4 Liter</option> <option value="2500">2.5 Liter</option> <option value="2600">2.6 Liter</option> <option value="2800">2.8 Liter</option>
-                  <option value="2900">2.9 Liter</option> 
-                  
-                  <option value="3000">3.0 Liter</option> <option value="3200">3.2 Liter</option> <option value="3300">3.3 Liter</option> <option value="3700">3.7 Liter</option>
-                  <option value="3800">3.8 Liter</option> <option value="3900">3.9 Liter</option>
+                <h4 class="white-header" for="inputEngine">Engine Capacity (cc)</h4>
+                <input type="text" class="form-control" id="Engine Capacity (cc)" name="Engine Capacity (cc)" placeholder="Engine Capacity (cc)">
 
-                  <option value="4000">4.0 Liter</option> <option value="4100">4.1 Liter</option> <option value="4200">4.2 Liter</option> <option value="4300">4.3 Liter</option>
-                  <option value="4400">4.4 Liter</option> <option value="4500">4.5 Liter</option> <option value="4600">4.6 Liter</option> <option value="4700">4.7 Liter</option>
-                  <option value="4800">4.8 Liter</option> <option value="4900">4.9 Liter</option>
-
-                  <option value="5000">5.0 Liter</option> <option value="5200">5.2 Liter</option> <option value="5400">5.4 Liter</option> <option value="5700">5.7 Liter</option>
-                  <option value="5800">5.8 Liter</option> <option value="5900">5.9 Liter</option>
-
-                  <option value="6000">6.0 Liter</option> <option value="6100">6.1 Liter</option> <option value="6200">6.2 Liter</option>  <option value="6400">6.4 Liter</option>
-                  <option value="6600">6.6 Liter</option> <option value="6900">6.9 Liter</option>
-
-                  <option value="7000">7.0 Liter</option> <option value="7200">7.2 Liter</option> <option value="7300">7.3 Liter</option> <option value="7400">7.4 Liter</option>
-                  <option value="7500">7.5 Liter</option> <option value="7700">7.7 Liter</option> <option value="7800">7.8 Liter</option>
-
-                  <option value="8200">8.2 Liter</option> <option value="8800">8.8 Liter</option>
-                  
-                </select>
-                
                 <br>
                 <br>
 
                 <!-- drop down for Car Mileage -->
-                <h4 class="white-header" for="inputMileage">Make</h4>
-                <select name="inputMileage" id="inputMileage">
-                  <option value="5000">5000</option> <option value="10000">10000</option> <option value="15000">15000</option> <option value="20000">20000</option>
-                  <option value="25000">25000</option> <option value="30000">30000</option> <option value="35000">35000</option> <option value="40000">40000</option>
-                  <option value="45000">45000</option> <option value="50000">50000</option> <option value="55000">55000</option> <option value="60000">60000</option>
-                  <option value="65000">65000</option> <option value="70000">70000</option> <option value="75000">75000</option> <option value="80000">80000</option>
-                  <option value="85000">85000</option> <option value="90000">90000</option> <option value="95000">95000</option> <option value="100000">100000</option>
+                <h4 class="white-header" for="inputMileage">Mileage</h4>
+                <input type="text" class="form-control" id="Mileage" name="Mileage" placeholder="Mileage">
 
-                  <option value="105000">105000</option> <option value="110000">110000</option> <option value="115000">115000</option> <option value="120000">120000</option>
-                  <option value="125000">125000</option> <option value="130000">130000</option> <option value="135000">135000</option> <option value="140000">140000</option>
-                  <option value="145000">145000</option> <option value="150000">150000</option> <option value="155000">155000</option> <option value="160000">160000</option>
-                  <option value="165000">165000</option> <option value="170000">170000</option> <option value="175000">175000</option> <option value="180000">180000</option>
-                  <option value="185000">185000</option> <option value="190000">190000</option> <option value="195000">195000</option> <option value="200000">200000</option>
-                </select>
       
                 <br>
                 <input type="submit" value="Submit" class="btn btn-primary">

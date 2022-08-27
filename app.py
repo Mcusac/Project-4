@@ -35,6 +35,10 @@ new_table = Base.classes.new_table_name
 app = Flask(__name__)
 
 @app.route("/")
+def home1():
+    return render_template('index.html')
+
+@app.route("/home")
 def home():
     return render_template('index.html')
 
@@ -50,7 +54,7 @@ def graphs():
 def data():
     session = Session(engine)
     
-    results = session.query(new_table.year, new_table.make, new_table.model, new_table.final_price, new_table.mileage, new_table.engine, new_table.zipcode, new_table.engine_string).all()
+    results = session.query(new_table.year, new_table.make, new_table.model, new_table.final_price, new_table.mileage, new_table.engine, new_table.zipcode, new_table.engine_string, new_table.car_fax_report).all()
 #  list of tuples, turning it a list of list to be jsonified
     results = [list(r) for r in results]
      
