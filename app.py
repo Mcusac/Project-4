@@ -72,10 +72,8 @@ def data_table():
 @app.route("/search", methods = ["POST", 'GET'])
 def search():
     check = 0
-    if check == 0:
-        return render_template("search.html")
+    
     try:
-        check = 1
         year = float(request.form["inputYear"])
 
         mileage = float(request.form["inputMileage"])
@@ -163,7 +161,7 @@ def search():
 
         return render_template("search.html", prediction = prediction)
     except:
-        return render_template('search.html', prediction = 'error')
+        return render_template('search.html')
 
 
     
