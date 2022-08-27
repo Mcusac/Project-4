@@ -20,6 +20,14 @@
   margin-bottom: 30px;
 }
 
+.navsmall {
+  font-size: xx-large;
+  text-align: center;
+  vertical-align: middle;
+  font-weight: 100;
+  font-family:'Avenir', 'Times New Roman', Times, serif;
+}
+
 .navbar-brand {
   font-size: xx-large;
   text-align: center;
@@ -29,7 +37,6 @@
 }
 
 .blue-title {
-  color: black;
   font-weight: 600;
   font-family:Georgia, 'Times New Roman', Times, serif;
 }

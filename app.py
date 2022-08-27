@@ -76,7 +76,6 @@ def search_land():
 
 @app.route("/search_input", methods = ["POST"])
 def search():
-
     year = float(request.form["inputYear"])
 
     mileage = float(request.form["inputMileage"])
@@ -158,8 +157,10 @@ def search():
 
     prediction = loaded_model.predict(X)
 
-    print(prediction)
-    
+    prediction = prediction[0]
+
+    prediction = round(prediction, 0)
+
     return render_template("search.html", prediction = prediction)
 
 
