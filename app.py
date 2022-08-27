@@ -94,6 +94,31 @@ def search():
     make_Toyota = 0
     make_Volkswagen = 0
     make_Other = 0
+    make_Dodge = 0
+    make_Triumph = 0
+    make_Mazda = 0
+    make_Datsun = 0
+    make_Cadillac = 0
+    make_Lexus = 0
+    make_Audi = 0
+    make_MG = 0
+    make_AlfaRomero = 0
+    make_Nissan = 0
+    make_Lotus = 0
+    make_Buick = 0
+    make_Acura = 0
+    make_AstonMartin = 0
+    make_Shelby = 0
+    make_Volvo = 0
+    make_InternationalHarvester = 0
+    make_GMC = 0
+    make_Austin_Healey = 0
+    make_Oldsmobile = 0
+    make_Saab = 0
+    make_Bentley = 0
+    make_Mini = 0
+    make_Fiat = 0
+    make_Lincoln = 0
 
     make = request.form["inputMake"]
 
@@ -125,30 +150,107 @@ def search():
         make_Volkswagen = 1
     elif make == "Other":
         make_Other = 1
+    elif make == "Dodge":
+        make_Dodge = 1
+    elif make == "Triumph":
+        make_Triumph = 1
+    elif make == "Mazda":
+        make_Mazda = 1
+    elif make == "Datsun":
+        make_Datsun = 1
+    elif make == "Cadillac":
+        make_Cadillac = 1
+    elif make == "Lexus":
+        make_Lexus = 1
+    elif make == "Audi":
+        make_Audi = 1
+    elif make == "MG":
+        make_MG = 1
+    elif make == "Alfa Romero":
+        make_AlfaRomero = 1
+    elif make == "Nissan":
+        make_Nissan = 1
+    elif make == "Lotus":
+        make_Lotus = 1
+    elif make == "Buick":
+        make_Buick = 1
+    elif make == "Acura":
+        make_Acura = 1
+    elif make == "Aston Martin":
+        make_AstonMartin = 1
+    elif make == "Shelby":
+        make_Shelby = 1
+    elif make == "Volvo":
+        make_Volvo = 1
+    elif make == "International Harvester":
+        make_InternationalHarvester = 1
+    elif make == "GMC":
+        make_GMC = 1
+    elif make == "Austin_Healey":
+        make_Austin_Healey = 1
+    elif make == "Oldsmobile":
+        make_Oldsmobile = 1
+    elif make == "Saab":
+        make_Saab = 1
+    elif make == "Bentley":
+        make_Bentley = 1
+    elif make == "Mini":
+        make_Mini = 1
+    elif make == "Fiat":
+        make_Fiat = 1
+    elif make == "Lincoln":
+        make_Lincoln = 1
+
 
     prediction = 0
 
     X = [[year, 
         mileage, 
         engine,
+        make_Acura,
+        make_AlfaRomero,
+        make_AstonMartin,
+        make_Audi,
+        make_Austin_Healey,
+        make_Bentley,
         make_BMW,
+        make_Buick,
+        make_Cadillac,
         make_Chevrolet,
+        make_Datsun,
+        make_Dodge,
         make_Ferrari,
+        make_Fiat,
         make_Ford,
+        make_GMC,
         make_Honda,
+        make_InternationalHarvester,
         make_Jaguar,
         make_Jeep, 
         make_Land_Rover,
+        make_Lexus,
+        make_Lincoln,
+        make_Lotus,
+        make_Mazda,
         make_Mercedes_Benz,
+        make_MG,
+        make_Mini,
+        make_Nissan,
+        make_Oldsmobile,
         make_Pontiac,
         make_Porsche,
+        make_Saab,
+        make_Shelby,
         make_Toyota,
+        make_Triumph,
         make_Volkswagen,
+        make_Volvo,
         make_Other]]
 
+    
     print(X)
 
-    filename = '/models/Regressor_model.h5'
+    filename = 'models/ExtraTrees.h5'
     loaded_model = pickle.load(open(filename, 'rb'))
 
     print(loaded_model.predict(X))
