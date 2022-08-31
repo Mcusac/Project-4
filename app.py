@@ -254,7 +254,9 @@ def search():
         make_Other,
         car_fax_report_Carfax]]
 
-    
+    scaler = pickle.load(open('scaler.h5', 'rb'))
+    X_scaled = scaler.transform(X)
+
     print(X)
 
     filename1 = 'models/ExtraTrees.h5'
@@ -263,15 +265,15 @@ def search():
     filename2 = 'models/RandomForest.h5'
     loaded_model2 = pickle.load(open(filename2, 'rb'))
 
-    print(loaded_model1.predict(X))
-    print(loaded_model2.predict(X))
+    print(loaded_model1.predict(X_scaled))
+    print(loaded_model2.predict(X_scaled))
 
 
-    prediction1 = loaded_model1.predict(X)
-    prediction2 = loaded_model2.predict(X)
+    prediction1 = loaded_model1.predict(X_scaled)
+    prediction2 = loaded_model2.predict(X_scaled)
 
-    # prediction = (prediction1 + prediction2)/2
-    prediction = prediction2
+    prediction = (prediction1 + prediction2)/2
+    prediction = prediction
     prediction = prediction[0]
 
     prediction = round(prediction, 0)
