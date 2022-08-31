@@ -201,6 +201,12 @@ def search():
     elif make == "Lincoln":
         make_Lincoln = 1
 
+    car_fax = request.form["inputCarfax"]
+
+    if car_fax == 'No':
+        car_fax_report_Carfax = 1
+    else:
+        car_fax_report_Carfax = 0
 
     prediction = 0
 
@@ -245,7 +251,8 @@ def search():
         make_Triumph,
         make_Volkswagen,
         make_Volvo,
-        make_Other]]
+        make_Other,
+        car_fax_report_Carfax]]
 
     
     print(X)
