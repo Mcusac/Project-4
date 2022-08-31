@@ -273,11 +273,12 @@ def search():
     prediction2 = loaded_model2.predict(X_scaled)
 
     prediction = (prediction1 + prediction2)/2
-    prediction = prediction
     prediction = prediction[0]
 
     prediction = round(prediction, 0)
 
+    prediction = "${:0,.2f}".format(prediction)
+    
     return render_template("search.html", prediction = prediction)
 
 

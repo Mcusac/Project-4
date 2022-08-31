@@ -67,3 +67,13 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.form-control {
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+}
+
+.btn {
+  text-align: center;
+}
