@@ -257,13 +257,20 @@ def search():
     
     print(X)
 
-    filename = 'models/ExtraTrees.h5'
-    loaded_model = pickle.load(open(filename, 'rb'))
+    filename1 = 'models/ExtraTrees.h5'
+    loaded_model1 = pickle.load(open(filename1, 'rb'))
 
-    print(loaded_model.predict(X))
+    filename2 = 'models/ExtraTrees.h5'
+    loaded_model2 = pickle.load(open(filename2, 'rb'))
 
-    prediction = loaded_model.predict(X)
+    print(loaded_model1.predict(X))
+    print(loaded_model2.predict(X))
 
+
+    prediction1 = loaded_model1.predict(X)
+    prediction2 = loaded_model2.predict(X)
+
+    prediction = (prediction1 + prediction2)/2
     prediction = prediction[0]
 
     prediction = round(prediction, 0)
