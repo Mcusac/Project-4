@@ -102,7 +102,7 @@ def search():
     make_Lexus = 0
     make_Audi = 0
     make_MG = 0
-    make_AlfaRomero = 0
+    make_AlfaRomeo = 0
     make_Nissan = 0
     make_Lotus = 0
     make_Buick = 0
@@ -167,7 +167,7 @@ def search():
     elif make == "MG":
         make_MG = 1
     elif make == "Alfa Romero":
-        make_AlfaRomero = 1
+        make_AlfaRomeo = 1
     elif make == "Nissan":
         make_Nissan = 1
     elif make == "Lotus":
@@ -214,12 +214,12 @@ def search():
         mileage, 
         engine,
         make_Acura,
-        make_AlfaRomero,
+        make_AlfaRomeo,
         make_AstonMartin,
         make_Audi,
         make_Austin_Healey,
-        make_Bentley,
         make_BMW,
+        make_Bentley,
         make_Buick,
         make_Cadillac,
         make_Chevrolet,
@@ -237,9 +237,9 @@ def search():
         make_Lexus,
         make_Lincoln,
         make_Lotus,
+        make_MG,
         make_Mazda,
         make_Mercedes_Benz,
-        make_MG,
         make_Mini,
         make_Nissan,
         make_Oldsmobile,
@@ -260,7 +260,7 @@ def search():
     filename1 = 'models/ExtraTrees.h5'
     loaded_model1 = pickle.load(open(filename1, 'rb'))
 
-    filename2 = 'models/ExtraTrees.h5'
+    filename2 = 'models/RandomForest.h5'
     loaded_model2 = pickle.load(open(filename2, 'rb'))
 
     print(loaded_model1.predict(X))
@@ -270,7 +270,8 @@ def search():
     prediction1 = loaded_model1.predict(X)
     prediction2 = loaded_model2.predict(X)
 
-    prediction = (prediction1 + prediction2)/2
+    # prediction = (prediction1 + prediction2)/2
+    prediction = prediction2
     prediction = prediction[0]
 
     prediction = round(prediction, 0)
